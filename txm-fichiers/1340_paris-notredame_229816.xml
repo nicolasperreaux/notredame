@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1340_paris-notredame_229816" id_text_code="paris-notredame" num_cema="229816" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1340" date_cema14="-" date_ed="25-6-1340" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="et unum dies, peregrinationis vel recreationis causa, ecclesia abesse et nihilominus partem suam in distributionibus, tam diurnis quam nocturnis, accipere." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 119." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="dictus">dicto</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="QLF" lemma="generalis">generali</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">diei</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="dictum">dictum</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="SUB" lemma="natiuitas">natiuitatis</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="-">Iohannis</w>
+<w pos="NAM" lemma="--">Baptiste</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="--">xlo</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

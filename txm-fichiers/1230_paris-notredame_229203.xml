@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1230_paris-notredame_229203" id_text_code="paris-notredame" num_cema="229203" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1230" date_cema14="-" date_ed="NA-NA-1230" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Carta Galteri, presbiteri Sancti Nicholai Parisiensis. Nov." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 019." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="omnis">Omnibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="VBE" lemma="nosco">Notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="VBE" lemma="constituo">constitutus</w>
+<w pos="SUB" lemma="presentia">presencia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="NAM" lemma="--">Galterus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="presbyter">presbiter</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Nicholai</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="recognosco">recognouit</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PRO" lemma="ipse2">ipse</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uillenagium">uillenagium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="non">non</w>
+<w pos="SUB" lemma="nomen">nomine</w>
+<w pos="QLF" lemma="suus">sue</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="quidam">quandam</w>
+<w pos="SUB" lemma="uinea">uineam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="sino">sitam</w>
+<w pos="PRE" lemma="super">super</w>
+<w pos="SUB" lemma="--">courtillam</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Campis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="census">censu</w>
+<w pos="QLF" lemma="communis">communi</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Lacari</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="NUM" lemma="octo1">octo</w>
+<w pos="SUB" lemma="denarius2">denarios</w>
+<w pos="QLF" lemma="censualis1">censuales</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quod</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="reor">ratum</w>
+<w pos="VBE" lemma="permaneo">permaneat</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="SUB" lemma="sigillum">sigillo</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="curia">curie</w>
+<w pos="VBE" lemma="facio">fecimus</w>
+<w pos="VBE" lemma="roboro">roborari</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="30">xxx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1226_paris-notredame_227797" id_text_code="paris-notredame" num_cema="227797" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1226" date_cema14="-" date_ed="NA-10-1226" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta qua Bartholomæus, Parisiensis episcopus, diligenter exponit et confirmat decreta Odonis prædecessoris sui, episcopi Parisiensis, de residentia canonicorum Sancti Marcelli." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 062." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

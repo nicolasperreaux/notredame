@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1209_paris-notredame_229654" id_text_code="paris-notredame" num_cema="229654" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1209" date_cema14="-" date_ed="25-6-1209" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Galterius de Brussellis profitetur se concessisse episcopo Parisiensi jus patronatus capellaniæ cujusdam, quam in ecclesia Sancti Eustachii Parisiensis, pro anima defuncti Johannis de Aquis, soceri sui, instituerat; retento sibi, et filio suo Johanni, si supervixerit, jure presentationis in eadem capella." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 026." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1300">mccc</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="7">uii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="25">xxu</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="sanctus1">sanctissimi</w>
+<w pos="SUB" lemma="pater">patris</w>
+<w pos="CON" lemma="atque">ac</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Clementis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="diuinus">diuina</w>
+<w pos="SUB" lemma="prouidentia">prouidentia</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="NAM" lemma="--">U</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="quartus">quarto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

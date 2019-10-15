@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1252_paris-notredame_229432" id_text_code="paris-notredame" num_cema="229432" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1252" date_cema14="-" date_ed="NA-7-1252" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guillelmus de Noisement, miles, et Ysabellis, ejus uxor, declarant se vendidisse Reginaldo, Parisiensi episcopo, pro centum libris Turonensibus, decem hostisias contiguas, sitas apud Moissiacum, quas iidem Guillelmus et Ysabellis tenebant in feodum a Guiardo de Brunayo, armigero, cum omni jure, dominio, jurisdictione, justicia ceterisque dictarum hostisiarum appendiciis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 168." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="si">Si</w>
+<w pos="NUM" lemma="1">i</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

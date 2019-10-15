@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1244_paris-notredame_229760" id_text_code="paris-notredame" num_cema="229760" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1244" date_cema14="-" date_ed="NA-NA-1244" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Duplex exemplar cujusdam chartæ, qua Theobaldus de Meleduno et Aalipdis, ejus uxor, vendunt Henrico de Momengnia, canonico Parisiensi, ad opus mandeti, pretio quadraginta quinque librarum Parisiensium, quartam partem domus, site Parisiis, in Gallandia.Oct. et nov." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 063." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="NUM" lemma="quartus">quarto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

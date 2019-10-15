@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1207_paris-notredame_227894" id_text_code="paris-notredame" num_cema="227894" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1207" date_cema14="-" date_ed="NA-9-1207" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gaufridus, episcopus Silvanectensis, Adam, abbas Caroli Loci, et Radulfus, decanus Meldensis, mandato Innocentii papæ III delegati, compositionem amicabi lem, mediantibus bonis viris, de jure ecclesiæ Beatæ Mariæ Argentoliensis factam, inter Odonem, Parisiensem episcopum, et Henricum, abbatem Sancti Dionysii, confirmant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 159." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="september">septembris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

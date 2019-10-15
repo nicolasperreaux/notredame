@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1206_paris-notredame_229119" id_text_code="paris-notredame" num_cema="229119" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1206" date_cema14="-" date_ed="NA-4-1206" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus de Monterel et Gila, uxor ejus, declarant se vendidisse capitulo Pari siensi, pro centum solidis, sex denarios censuales, quos percipiebant singulis annis e quadam domo, sita apud Sanctum Landericum, et ad ecclesiam Pa risiensem pertinente." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 102." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

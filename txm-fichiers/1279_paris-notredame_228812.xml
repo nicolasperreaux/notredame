@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1279_paris-notredame_228812" id_text_code="paris-notredame" num_cema="228812" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1279" date_cema14="-" date_ed="26-3-1279" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus de Plexeyo, perpetuus capellanus de Rarerio, a capitulo Parisiensi molen dinum de Conporte, in parrochia de Venula situm, ad firmam viginti annorum recipit, pro uno modio frumenti et uno modio avenæ, annuatim in duobus ter minis, apud Rosetum, solvendis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 09, n° 041." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="70">lxx</w>
+<w pos="NUM" lemma="8">uiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="machio">marcio</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Ramis</w>
+<w pos="NAM" lemma="--">Palmarum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

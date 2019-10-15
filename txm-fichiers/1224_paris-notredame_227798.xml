@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1224_paris-notredame_227798" id_text_code="paris-notredame" num_cema="227798" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1224" date_cema14="-" date_ed="NA-NA-1224" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta qua G. Parisiensis episcopus, advocatis coram se decano et parochiali presbytero ecclesiæ Sancti Germani Autisiodorensis, litem inter eos diu versatam super proventibus parochiæ sancti Germani, auctoritate sua, dirimit, et curiose præfinit quid in istis proventibus ad decanum, quid ad presbyterum pertineat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 063." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="--">Xxiiii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

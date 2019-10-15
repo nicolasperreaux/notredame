@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1310_paris-notredame_229592" id_text_code="paris-notredame" num_cema="229592" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1310" date_cema14="-" date_ed="7-2-1310" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Nicolas Du Bois, clerc, Jeanne, sa femme, et Gauthier dArras, frere de ladite Jeanne, declarent avoir vendu a Guillaume Bauffet dAurillac, eveque de Paris, movennant soixante livres parisis, « une maison tenant dune part a la maison Colin la Barnuffe, et dautre part a la maison Lieyart la Moustardiere, et a la maison Ysabel de Saint.Leu, en la censive du reverant pere en Jhesu¬Crist monseigneur Pevesque de Paris, chargiee en une maille de cens, deue par an a la Saint.Remy; derechef, trois arpents de terre en une piece, tenant dune part a la terre Agathe la Mareschalle, et dautre part a la terre Renaut Chaperon, en la censive dessusdite, chargiee en sept boisseaux et demi daveynne, et en cinc quars de froument, rendus chascun an, a Noel, au cens commun, et en doue denier parisis de cens, chascun arpent, de chief cens, deux chascun an, a la Saint.Remy; derechief, un arpent et demi de vigne en une piece, que Pen dit la vigne du Chantier, tenant d une part a la vigne Roberge, et d autre part a la vigne Symon Nivelon et aus terres de la Granche, en la censive dessusdite, chargiee le territoire de Gentilly." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 328." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">nous</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">seel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Tan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">neuf</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="SUB" lemma="--">samedi</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="NAM" lemma="--">Chandeleur</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

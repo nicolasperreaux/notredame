@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1275_paris-notredame_228897" id_text_code="paris-notredame" num_cema="228897" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1275" date_cema14="-" date_ed="3-7-1275" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Decanus et capitulum Parisiense, ex una parte, Guiardus dictus Clericus, major Viriaci, Meinsindisque, ejus uxor, ex altera, promittunt se Mathæi, abbatis Sancti Dionysii, et Galteri Bardin, ballivi Viromandiæ, arbitrorum electorum ad terminandam litem inter se ortam, de proprietate majorie Viriaci, quam utra que pars repetebat, sententiam accepturos et ratam habituros." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 13, n° 022." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="70">lxx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="estiuale">estiuale</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

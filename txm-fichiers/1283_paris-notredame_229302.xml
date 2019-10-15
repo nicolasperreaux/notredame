@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1283_paris-notredame_229302" id_text_code="paris-notredame" num_cema="229302" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1283" date_cema14="-" date_ed="30-4-1283" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Episcopus Parisiensis concedit decano et capitulo ecclesie Sancti Thomæ de Lupara facultatem percipiendi in manum mortuam centum viginti sex solidos Parisienses annui census, ex nonnullis domibus, sitis Parisiis, in vicis Sancti Thome et Frigidi Mantelli; ea conditione addita, ut, ex summa dictorum censuum, triginta solidi Parisienses eidem episcopo annuatim solvantur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 038." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="octogesimus">octogesimo</w>
+<w pos="NUM" lemma="tertius">tertio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Quasimodo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1231_paris-notredame_228313" id_text_code="paris-notredame" num_cema="228313" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1231" date_cema14="-" date_ed="NA-10-1231" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Mathæi de Malliaco, militis, quæ confirmat capitulo Parisiensi jus percipiendi quotannis LX solidos Parisienses, de quadam domo sita prope Sanctum Mede ricum, distribuendos die anniversarii Guillelmi defuncti, canonici Parisiensis, fratris dicti Mathæi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 022." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mccxxxi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

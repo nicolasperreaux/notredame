@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1225_paris-notredame_229529" id_text_code="paris-notredame" num_cema="229529" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1225" date_cema14="-" date_ed="NA-5-1225" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Theobaldus de Buxeria et Hugo de Marolio, milites, declarant se vendidisse, ex redditibus transitus Sequanæ apud Conffuentes, Bartholomeo, Parisiensi episcopo, scilicet Theobaldus decem libratas annui redditus, pro centum libris, et Hugo centum solidatas annui redditus, pretio quinquaginta librarum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 265." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="maius2">maio</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="QLF" lemma="uenerabilis">uenerabilibus</w>
+<w pos="SUB" lemma="uir">uiris</w>
+<w pos="NAM" lemma="--">E</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">N</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="cantor">cantore</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Gaufrido</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iohanne</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconis</w>
+<w pos="NAM" lemma="--">Parisiensibus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

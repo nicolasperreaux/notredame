@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1250_paris-notredame_228916" id_text_code="paris-notredame" num_cema="228916" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1250" date_cema14="-" date_ed="27-10-1250" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Compromissio qua Manasserus de Garlanda, canonicus Carnotensis, controversiam inter se et fratres suos, ex una parte, et capitulum Parisiense, ex altera, exor tam, de quadraginta denariis quos dicti Manasserus et fratres ejus, ratione cujus dam viarie, que eis ex hareditate domine de Coudreio, avie suæ, obvenerat, ab hospitibus capituli, apud Espiers, reclamabant, dirimendam committit, sine strepitu advocatorum, et ordine judiciario non servato, Gaufrido, Parisiensi archidiacono, et Guillelmo de Brayo, canonico Laudunensi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 015." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1250">mccl</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="NAM" lemma="-">Symonis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iude</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

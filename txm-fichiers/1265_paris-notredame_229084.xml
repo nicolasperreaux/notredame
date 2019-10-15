@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1265_paris-notredame_229084" id_text_code="paris-notredame" num_cema="229084" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1265" date_cema14="-" date_ed="NA-10-1265" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Guillelmi, archipresbyteri Sancti Severini, qua, cum haredes Thomæ de Spineto et Dyonisie, uxoris ejus, dedissent ecclesie Sancti Severini, ad opus anniversarii dictorum Thome et Dyonisie, decem solidos Parisienses annui red ditus, percipiendos e quadam domo sita in terra Gallandiæ, in censiva et dominio Henrici succentoris et Nicholai de Senis, canonicorum Parisiensium, idemque Guillelmus archipresbyter in manu mortua illos possidere nequiret, prefatos decem solidos annui redditus, cogentibus dictis Henrico et Nicolao, fundi domi nis, pro sex libris Parisiensibus, jam sibi solutis, vendit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 067." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1260">mcclx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

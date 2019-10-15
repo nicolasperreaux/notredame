@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1259_paris-notredame_228530" id_text_code="paris-notredame" num_cema="228530" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1259" date_cema14="-" date_ed="16-3-1259" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Henricus dictus Theutonicus declarat se magistro Lucæ canonico, agenti loco et nomine capituli Parisiensis, vendidisse, ad opus anniversarii magistri Petri de Columna, pro decem et novem libris Parisiensibus, jamdicto venditori solutis, septem quarteria terræ arabilis, in duabus partibus, sita apud Castanetum, in coutura de Livron, in censiva capituli Parisiensis, cui ex eis annuatim solve bantur viginti et octo denarii capitalis census." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 022." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1258">mccluiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="machio">marcio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PRO" lemma="qui2">qua</w>
+<w pos="VBE" lemma="canto">cantatur</w>
+<w pos="NAM" lemma="--">Oculi</w>
+<w pos="QLF" lemma="meus">mei</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1219_paris-notredame_229069" id_text_code="paris-notredame" num_cema="229069" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1219" date_cema14="-" date_ed="NA-5-1219" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Ordinacio Stephani decani et capituli Parisiensis, qua statuitur prebendam quam olim in ecclesia Sancti Mederici Parisiensis tenuerat defunctus Henricus, quam que nunc Stephanus de Ponte obtinet, annexam fore parccie Sancti Mederici; ita ut canonicus ille solus sit plebanus et curam animarum habeat qui hac pre benda potietur, sex aliis canonicis ejusdem ecclesiæ a cura animarum penitus absolutis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 052." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="maius2">maio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

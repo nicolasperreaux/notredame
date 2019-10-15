@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_228025" id_text_code="paris-notredame" num_cema="228025" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="30-3-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De homagio de Malo Repastu." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 290." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Soiseio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="armiger2">armiger</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="feodum">feodo</w>
+<w pos="SUB" lemma="castrum">castri</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="castellania">castellanie</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Malo</w>
+<w pos="NAM" lemma="--">Repastu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quem</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="QLF" lemma="dictus">dicto</w>
+<w pos="NAM" lemma="-">Iohanne</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="NAM" lemma="--">Caprosie</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Uictorem</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="QLF" lemma="episcopalis">episcopali</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="NAM" lemma="--">Pascha</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

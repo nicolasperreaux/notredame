@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1200_paris-notredame_227863" id_text_code="paris-notredame" num_cema="227863" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1200" date_cema14="-" date_ed="NA-NA-1200" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Forma per quam Herivallenses petunt confirmari abbatem electum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 128." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="reuerendus">Reuerendo</w>
+<w pos="SUB" lemma="pater">patri</w>
+<w pos="CON" lemma="atque">ac</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">O</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="humilis">humilis</w>
+<w pos="SUB" lemma="conuentus">conuentus</w>
+<w pos="NAM" lemma="--">Heriuallis</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="salus">salutis</w>
+<w pos="SUB" lemma="auctor">auctore</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="paternitas">Paternitati</w>
+<w pos="QLF" lemma="uester">uestre</w>
+<w pos="VBE" lemma="nosco">notum</w>
+<w pos="VBE" lemma="facio">facit</w>
+<w pos="SUB" lemma="humilitas">humilitas</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Odonem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="pridem">pridem</w>
+<w pos="SUB" lemma="frater">fratrem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="canonicus2">canonicum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="nos">nostrum</w>
+<w pos="ADV" lemma="modo2">modo</w>
+<w pos="SUB" lemma="pater">patrem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="patronus">patronum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="PRO" lemma="nos">nobis</w>
+<w pos="QLF" lemma="electus1">electum</w>
+<w pos="ADV" lemma="canonice">canonice</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="totus">tocius</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="QLF" lemma="par1">pari</w>
+<w pos="SUB" lemma="uoluntas">uoluntate</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="concors">concordi</w>
+<w pos="SUB" lemma="assensus">assensu</w>
+<w pos="SUB" lemma="promotus">promotum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="abbas">abbatem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="supplico">Supplicamus</w>
+<w pos="ADV" lemma="igitur">igitur</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="SUB" lemma="electio">electionem</w>
+<w pos="QLF" lemma="noster">nostram</w>
+<w pos="VBE" lemma="confirmo">confirmare</w>
+<w pos="VBE" lemma="digno">dignemini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

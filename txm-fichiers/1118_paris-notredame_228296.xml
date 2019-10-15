@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1118_paris-notredame_228296" id_text_code="paris-notredame" num_cema="228296" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1118" date_cema14="-" date_ed="NA-NA-1118" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Stephanus decanus et canonici Sanctæ Genovefæ Parisiensis, annuente rege Francorum Ludovico, concedunt Parisiensicapitulo, jure perpetuo habendam, ancillam suam, Gibelinam nomine, filiam Burdini de Funtaneto; et, commutationis nomine , ab eodem capitulo accipiunt aliam ancillam, filiam Richardi de Balneolo, Goisbergam nominatam." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="QLF" lemma="publicus1">publice</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="sanctus1">Sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="regno">Regnante</w>
+<w pos="NAM" lemma="--">Ludouico</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="rex">rege</w>
+<w pos="NAM" lemma="--">Francorum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="incarnatio">incarnationis</w>
+<w pos="QLF" lemma="dominicus1">Dominice</w>
+<w pos="NAM" lemma="--">Mcxuiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="epacta">epacta</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Albertus</w>
+<w pos="SUB" lemma="cancellarius">cancellarius</w>
+<w pos="VBE" lemma="scribo1">scripsit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

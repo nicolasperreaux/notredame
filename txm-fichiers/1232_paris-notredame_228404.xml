@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1232_paris-notredame_228404" id_text_code="paris-notredame" num_cema="228404" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1232" date_cema14="-" date_ed="20-5-1232" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Giraudus, Aginnensis episcopus, nepotibus suis, Hamerico et Johanni, omnes vineas quas possidet apud Laiacum, in terra Beatæ Marie, donat, sub censu quadra ginta solidorum Parisiensium, ecclesie Beate Mariæ annuatim solvendorum; ea conditione adjecta, ut, utroque defuncto, vineæ ad ecclesiam revertantur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 015." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Agenium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1230">mccxxx</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="--">Ascensionis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="maius2">maio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

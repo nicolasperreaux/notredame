@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1231_paris-notredame_228306" id_text_code="paris-notredame" num_cema="228306" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1231" date_cema14="-" date_ed="NA-6-1231" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Radulphus, Fossatensis abbas, concedit ut Petrus deMeisons, filius Durandi de Mei sons defuncti, homo capituli Beatæ Mariæ Parisiensis, uxorem ducat Laurentiam de Meisons, filiam Henrici de Ulmis defuncti, ancillam ecclesiæ Fossatensis, ad vicem Avelinæ, filiæ Comitissæ, ancillae capituli, quam uxorem duxit Jakelinus, filius Johannis de Moiry, homo ecclesiæ Fossatensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 015." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="tricesimus">tricesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iunius1">iunio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

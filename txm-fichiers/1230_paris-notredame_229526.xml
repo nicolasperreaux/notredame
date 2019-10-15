@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1230_paris-notredame_229526" id_text_code="paris-notredame" num_cema="229526" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1230" date_cema14="-" date_ed="NA-12-1230" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Amicia, abbatissa Sancti Anthonii Parisiensis, profitetur concessum sibi fuisse a Guillelmo, Parisiensi episcopo, I° ut decem libras Parisienses, legatas abbatiæ Sancti Anthonii ab Hugone de Marolio, milite, defuncto, et percipiendas annuatim apud Conffuentes, in manu mortua possideret, ° ut emere et perpetuo possidere posset, in terra episcopi, quadraginta solidos annui redditus; ideoque promittit se annuatim esse soluturam dicto episcopo quadraginta solidos Parisienses." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 262." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="tricesimus">tricesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="december">decembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

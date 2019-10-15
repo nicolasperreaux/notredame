@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1370_paris-notredame_229626" id_text_code="paris-notredame" num_cema="229626" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1370" date_cema14="-" date_ed="8-12-1370" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Procesverbal dresse par Pierre Burnoust, huissier du parlement, qui atteste setre transporte a Conflans¬SaintecHonorine, et la, assiste de Jean Panne¬Vaire, chatelain, et d Hervy de Centnoys, prevot dudit lieu, avoir donne mainclevee de percevait auparavant sur le peage de Confians, et en avoir investi le procureur d Amaurv de Mainhac, eveque de Paris, en vertu dune commission particuliere du roi, du decembre , et d un arret du parlement rendu le novembre de la meme annee, entre PHotel¬Dieu et ledit eveque." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 362." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Le</w>
+<w pos="SUB" lemma="--">dymanche</w>
+<w pos="NUM" lemma="8">uiii</w>
+<w pos="VBE" lemma="--">iour</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="december">decembre</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="370">ccclxx</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

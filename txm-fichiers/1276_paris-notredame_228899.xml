@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_228899" id_text_code="paris-notredame" num_cema="228899" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="17-3-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Bernardus de Synicourt, armiger, Noviomensis diccesis, profitetur se recepisse a decano et capitulo Parisiensi, ad tres annos continuos, a Paschate proxime sequenti computandos, majoriam Viriaci in Viromandia; promittitque se soluturum firmam dicte majorie ex ordinatione magistri Roberti de Bersencuria, canonici Parisiensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 13, n° 024." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1275">mcclxxu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Letare</w>
+<w pos="QLF" lemma="--">Ieruralem</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_227922" id_text_code="paris-notredame" num_cema="227922" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Isti sunt qui portaverunt dominum Willelmum, Parisiensem episcopum, videlicet." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 187." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="--">Baldoinus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Corbolio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="NAM" lemma="--">Theobaudus</w>
+<w pos="NAM" lemma="--">Macer</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="miles">milites</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="destinatum">destinati</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="SUB" lemma="rex">rege</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="NAM" lemma="--">Corbolio</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="NAM" lemma="--">Monte</w>
+<w pos="NAM" lemma="--">Leterici</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="NAM" lemma="--">Firmitate</w>
+<w pos="NAM" lemma="--">Aalidis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="--">Ansellus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Gallanda</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="castrum">castro</w>
+<w pos="NAM" lemma="--">Tornomii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="--">Ferricus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Bruneio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Soiseio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Guidone</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Caprosia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="infirmo">infirmabatur</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="iuro">iurauit</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="VBE" lemma="habeo">habere</w>
+<w pos="SUB" lemma="mandatum">mandatum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="--">Petrus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Buciaco</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Montis</w>
+<w pos="NAM" lemma="--">Guaii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">cuius</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="affero">attulit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="--">Adam</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Buciaco</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="comes">comite</w>
+<w pos="NAM" lemma="--">Barri</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="iuro">iurauit</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="VBE" lemma="habeo">habere</w>
+<w pos="SUB" lemma="mandatum">mandatum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

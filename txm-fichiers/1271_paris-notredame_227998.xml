@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_227998" id_text_code="paris-notredame" num_cema="227998" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="19-9-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Homagium Guillelmi de Gehenni, armigeri, Stephano, Parisiensi episcopo, factum, pro habergagio, nemoribus, terris, pratis, censibus et aliis redditibus, quæidem Guillelmus tenet apud Gehenni a Philippo de Brunay, armigero." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 263." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclxxi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="exaltatio">exaltationem</w>
+<w pos="QLF" lemma="sanctus1">sancte</w>
+<w pos="NAM" lemma="--">Crucis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="iste2">Istud</w>
+<w pos="SUB" lemma="feodum">feodum</w>
+<w pos="VBE" lemma="emo">emit</w>
+<w pos="NAM" lemma="-">Stephanus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="QLF" lemma="dictus">dicto</w>
+<w pos="NAM" lemma="--">Philippo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

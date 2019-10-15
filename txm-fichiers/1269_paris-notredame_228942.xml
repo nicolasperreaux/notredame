@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_228942" id_text_code="paris-notredame" num_cema="228942" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="8-7-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta officialium curie Parisiensis et archidiaconorum Parisiensium, qua, visis, inspectis et in formam publicam redactis : Epistola officialis curie Pissiacencis in Carnotensi episcopatu ad decanum et capi tulum Parisiense directa, die sabbati ante festum beati Barnabe apostoli, , qua notum fit ab hominibus Spedone et Maceriarum electos et institutos fuisse sex ex ipsis, videlicet Odonem Grimot, Symonem Gofram, Odonem Regis, Guil lermum Gaulart, Johannem Carnificem et Johannem Mignot, qui ad capitulum Parisiense accederent, et cum ipso tractarent de collectionis Spedone et Mace riarum taxatione; Charta ejusdem officialis, data die dominica, in crastino beatorum apostolorum Petri et Pauli, qua notum fit mandatum pradictis sex hominibus concessum a communitatibus Spedone et Maceriarum, in placitis generalibus apud Spedonam habitis, iterum et solemnius ratum et confirmatum fuisse; Declarant predictos sex homines, nomine incolarum Spedone et Maceriarum tractasse cum decano et capitulo Parisiensis ecclesie de taxatione talliæ a dictis hominibus debitæ capitulo Parisiensi; ipsamque talliam, communi utriusque partis consensu, taxatam fuisse ad summam quadraginta librarum Parisiensium, solvendarum capitulo Parisiensi ab hominibus Spedone et Maceriarum eorumque haredibus in perpetuum, annis singulis, in octavis festi beati Martini hiemalis.." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 15, n° 001." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1260">mcclx</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

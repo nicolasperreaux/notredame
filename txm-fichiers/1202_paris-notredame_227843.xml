@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1202_paris-notredame_227843" id_text_code="paris-notredame" num_cema="227843" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1202" date_cema14="-" date_ed="28-5-1202" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes, abbas Sanctæ Genovefæ Parisiensis, quatuor arbitris dirimendam permittit controversiam, quæ vertebatur inter ipsum et Odonem, Parisiensem episcopum, de jure parochiali in parochia de Monte, (quæstione possessionis per examen sedis apostolicæ jam decisa); de regimine quoque ecclesiæ Sanctæ Genovefæ in civitate Parisiensi, ac etiam de procurationibus quas exigebat episcopus in parochialibus Parisiensis dioecesis ecclesiis ad Genovefanum monasterium pertinentibus." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 108." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mccii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

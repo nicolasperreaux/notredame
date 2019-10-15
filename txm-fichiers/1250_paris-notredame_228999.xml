@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1250_paris-notredame_228999" id_text_code="paris-notredame" num_cema="228999" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1250" date_cema14="-" date_ed="15-2-1250" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Epistola Innocentii IV ad decanum et capitulum Parisiensis ecclesie directa, qua cum, sede Parisiensi vacante, quidam canonicorum magistrum Albertum, sedis apostolicæ notarium, quidam autem decanum Parisiensem elegissent, ipse papa, cui duplex illa electio delata fuerat, animadvertens electorum neutri majorem suffragiorum partem obvenisse, utramque electionem irritam esse decernit, capituloque injungit ut intra duos menses alium episcopum eligat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 19, n° 008." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Lugduni</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="15">xu</w>
+<w pos="SUB" lemma="calende">kal</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">marcii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="hic3">Has</w>
+<w pos="VBE" lemma="pretermitto">pretermisimus</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="data">datas</w>
+<w pos="SUB" lemma="idus">idibus</w>
+<w pos="SUB" lemma="september">septembris</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="SUB" lemma="annus">anni</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="SUB" lemma="codex">codice</w>
+<w pos="VBE" lemma="insero1">insertas</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

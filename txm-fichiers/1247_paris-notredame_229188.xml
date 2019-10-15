@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1247_paris-notredame_229188" id_text_code="paris-notredame" num_cema="229188" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1247" date_cema14="-" date_ed="18-10-1247" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Avelina, relicta Radulphi de Belvaco defuncti, commorans Parisiis, ante portam domus Fratrum Predicatorum, Danielque, clericus, filius ejus, vendunt magistro Nathali, officiali Parisiensi, pro sexaginta duabus libris Parisiensibus, jam sibi solutis, l° unum et septuaginta solidos et octo denarios Parisienses incrementi census, e quadam domo, sita in loco qui dicitur Castellum Festuci, in censiva ecclesiæ Montis Martyrum, annuatim habendos; ° septuaginta solidos Parisienses annui census, habendos e quadam domo, sita in vico Citharæ, in Judearia, in parrochia Sancti Severini et censiva Sancti Benedicti." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="47">xluii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="festa1">festo</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Luce</w>
+<w pos="SUB" lemma="euangelista">euangeliste</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

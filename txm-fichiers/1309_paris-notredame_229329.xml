@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1309_paris-notredame_229329" id_text_code="paris-notredame" num_cema="229329" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1309" date_cema14="-" date_ed="11-1-1309" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Ymbert le Feurnier et Edeline, sa femme, demeurant a Paris, hors la porte SaintDenis, devant la Trinite, prennent a cens de Guillaume, eveque de Paris, trente arpents de terre labourable en une piece, situes entre Paris et le Roule, au terroir de la Villette¬Eveque, tenant dune part au chemin du Roule a Paris, de Pautre aux terres de la GrangesBatailliee, moyennant douse sous parisis de bonne et forte monnaie par arpent, en tout dixchuit livres parisis de cens ou de rente annuelle; au payement de laquelle les preneurs obligent solidairement une maison et huit arpents de vignes dans la ville et le territoire de MontcAigernie en la justice et seigneurie du seigneur de Montmorenci." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 065." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fut</w>
+<w pos="VBE" lemma="--">fet</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grance</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">troi</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">huit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">ou</w>
+<w pos="VBE" lemma="--">moins</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">ianuel</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="SUB" lemma="--">ieudi</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="NAM" lemma="--">Tiphaine</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

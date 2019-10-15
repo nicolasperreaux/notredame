@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_228547" id_text_code="paris-notredame" num_cema="228547" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="10-2-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Nobilis mulier Santisma, relicta defuncti Johannis dicti Basim, militis, domina de Wanmoise, apud Plessetum de Ramaco Loco, in Meldensi diccesi, com morans, profitetur se vendidisse capitulo Parisiensi, pro centum et sexaginta libris Parisiensibus, jam sibi solutis, quadraginta et novem solidos Parisienses capitalis census, decem et novem sextarios et unam minam avenæ, tres minetos frumenti et sexdecim capones annui redditus, et tres corveias; quæ omnia Santisma tenebat apud Balneolos Sancti Eblandi, in diccesi Parisiensi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 039." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="crastinus">crastino</w>
+<w pos="SUB" lemma="--">octabarum</w>
+<w pos="NAM" lemma="--">Purificationis</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SUB" lemma="uirgo">uirginis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

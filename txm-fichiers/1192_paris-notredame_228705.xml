@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1192_paris-notredame_228705" id_text_code="paris-notredame" num_cema="228705" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1192" date_cema14="-" date_ed="NA-NA-1192" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De institutione capellani leprosorum de Verno." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 029." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="--">G</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="-">Senonensis</w>
+<w pos="SUB" lemma="archiepiscopus">archiepiscopus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="dilectus1">dilectis</w>
+<w pos="SUB" lemma="filius">filiis</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quod</w>
+<w pos="PRO" lemma="nos">nobis</w>
+<w pos="VBE" lemma="significo">significauisti</w>
+<w pos="PRE" lemma="per">per</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="QLF" lemma="tuus">tuas</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="dilectus1">dilecte</w>
+<w pos="SUB" lemma="filius">fili</w>
+<w pos="SUB" lemma="decana">decane</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="capellanus2">capellano</w>
+<w pos="VBE" lemma="instituo">instituendo</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capella">capella</w>
+<w pos="SUB" lemma="domus">domus</w>
+<w pos="QLF" lemma="leprosus">leprosorum</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Uerno</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="gratus">gratum</w>
+<w pos="VBE" lemma="habeo">habemus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="uolens">uolentes</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="SUB" lemma="capellanus2">capellanus</w>
+<w pos="ADV" lemma="ibi">ibi</w>
+<w pos="VBE" lemma="instituo">instituendus</w>
+<w pos="PRO" lemma="nos">nobis</w>
+<w pos="VBE" lemma="presento">presentetur</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="quicumque">Quicumque</w>
+<w pos="CON" lemma="autem">autem</w>
+<w pos="ADV" lemma="ibi">ibi</w>
+<w pos="VBE" lemma="instituo">instituetur</w>
+<w pos="SUB" lemma="capellanus2">capellanus</w>
+<w pos="QLF" lemma="omnis">omnes</w>
+<w pos="SUB" lemma="oblatio">oblationes</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="ADV" lemma="ibi">ibi</w>
+<w pos="VBE" lemma="fio">fient</w>
+<w pos="VBE" lemma="reddo">reddet</w>
+<w pos="SUB" lemma="sacerdos">sacerdoti</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Uerno</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="quicumque">quacumque</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="VBE" lemma="offero">offerantur</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="VBE" lemma="iuro">iurabit</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="SUB" lemma="oblatio">oblaciones</w>
+<w pos="PRO" lemma="ille2">illas</w>
+<w pos="QLF" lemma="integer">integre</w>
+<w pos="VBE" lemma="dico2">dicto</w>
+<w pos="SUB" lemma="presbyter">presbitero</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Uerno</w>
+<w pos="VBE" lemma="reddo">redditurum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="ius">iura</w>
+<w pos="PRO" lemma="ipse2">ipsius</w>
+<w pos="VBE" lemma="seruo">seruaturum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

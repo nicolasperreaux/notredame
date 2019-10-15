@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1203_paris-notredame_227796" id_text_code="paris-notredame" num_cema="227796" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1203" date_cema14="-" date_ed="26-3-1203" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Epistola Innocentii papæ III ad Parisiensem episcopum et abbatem Sanctæ Genovefæ eorumque capitula, qua compositionem, inter ipsos factam et per sedis apostolicæ delegatos superius nominatos inspectam et approbatam, confirmat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 061." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Laterani</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">un</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="aprilis">aprilis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

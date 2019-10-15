@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1208_paris-notredame_227870" id_text_code="paris-notredame" num_cema="227870" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1208" date_cema14="-" date_ed="8-6-1208" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Innocentius III papa abbati Sacri Portus, Senonensis diœcesis, priori Sancti Victoris Parisiensis et magistro Bartholomæo, canonico Carnotensi, mandat ut, partibus auditis, dirimant controversiam super quodam jure parochiali et aliis rebus, ortam inter presbyterum Sancti Luciani et abbatem Sancti Dionysii, ob servandamque procurent suam sententiam, adhibita, si necesse fuerit, censura ecclesiastica." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 135." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Anagnie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">un</w>
+<w pos="SUB" lemma="idus">idus</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="11">xi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

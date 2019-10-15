@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1228_paris-notredame_228679" id_text_code="paris-notredame" num_cema="228679" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1228" date_cema14="-" date_ed="31-1-1228" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus de Chambliaco, capellanus reginæ, profitetur se recepisse a magistris Alberico Cornuto et Guillelmo Pullo, canonicis Parisiensibus, vices capituli gerentibus, ducenta arpenta nemorum Vernoti, extirpanda intra duos annos, pretio quatuor denariorum Pruvinensium annuatim pro quolibet arpento red dendorum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 003." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="27">xxuii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="NAM" lemma="--">Purificationem</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1250_paris-notredame_229235" id_text_code="paris-notredame" num_cema="229235" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1250" date_cema14="-" date_ed="NA-6-1250" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Capitulum Parisiense magistro Gysulpho, præposito Papiensi, pro quinque solidis Parisiensibus, annuatim solvendis, quamdam domum, sitam juxta Sanctam Marinam, locat; hoc pacto adjecto, ut dictus Gysulphus clericalem habitum non accipiat, et sexaginta libras Parisienses ad restaurandam domum adhibeat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 23, n° 016." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="50">l</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iunius1">iunio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

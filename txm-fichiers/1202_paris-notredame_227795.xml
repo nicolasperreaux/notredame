@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1202_paris-notredame_227795" id_text_code="paris-notredame" num_cema="227795" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1202" date_cema14="-" date_ed="NA-1-1202" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta qua Helias, abbas S. Columbæ Senonensis, et Jovinus, magister scolarum Aurelianensium, compositionem inter Odonem, Parisiensem episcopum, et Johannem, S. Genovefæ abbatem, factam, super jure parochiali in parochia de Monte, et super capella Genovefæ Parvæ, necnon super procurationibus ab episcopo exigendis, dummodo nullum sedi apostolicæ præjudicium exinde generetur, auctoritate apostolica confirmant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 060." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

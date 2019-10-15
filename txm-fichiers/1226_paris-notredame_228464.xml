@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1226_paris-notredame_228464" id_text_code="paris-notredame" num_cema="228464" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1226" date_cema14="-" date_ed="NA-2-1226" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus li Oseleres et Petronilla, ejus uxor, capitulo Parisiensi vendunt, pro viginti et quatuor libris Parisiensibus, arpennos quatuor et dimidium terræ, inter Bur gum Regine et molendinum Bernier sitos." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 075." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Gracie</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

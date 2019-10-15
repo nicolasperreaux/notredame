@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1237_paris-notredame_228327" id_text_code="paris-notredame" num_cema="228327" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1237" date_cema14="-" date_ed="15-6-1237" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Bulla Gregorii IX, papæ, qua, cum magistri et scholares universitatis Parisiensis, assentiente rege Franciæ, hospitiorum et domorum quosdam taxatores instituissent, nonnullique religiosi et clerici domos suas taxari non sinerent, mandat archiepiscopo, archidiacono et præcentori Senonensi, ut religiosos illos et clericos rebelles ad recipiendos taxatores in domos suas cogant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 036." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Uiterbii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">Xuii</w>
+<w pos="SUB" lemma="calende">kal</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="iuliarius">iulii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="11">xi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

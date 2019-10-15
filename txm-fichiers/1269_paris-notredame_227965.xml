@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_227965" id_text_code="paris-notredame" num_cema="227965" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="17-8-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 230." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclx</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="assumptio">assumptionem</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="aula">aula</w>
+<w pos="QLF" lemma="inferius2">inferiori</w>
+<w pos="ADV" lemma="iuxta1">iuxta</w>
+<w pos="QLF" lemma="coquinus">coquinam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="NAM" lemma="--">Anxelmus</w>
+<w pos="SUB" lemma="armiger2">armiger</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="filius">filius</w>
+<w pos="SUB" lemma="buticularius">buticularii</w>
+<w pos="NAM" lemma="-">Siluanectensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="portio">portione</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="PRO" lemma="ipse2">ipsum</w>
+<w pos="VBE" lemma="contingo">contingit</w>
+<w pos="CON" lemma="siue">seu</w>
+<w pos="VBE" lemma="habeo">habere</w>
+<w pos="VBE" lemma="debeo">debet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="castrum">castro</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="castellania">castellania</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lusargiis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="VBE" lemma="recipio">recepit</w>
+<w pos="PRO" lemma="is2">eum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="saluus">saluo</w>
+<w pos="SUB" lemma="ius">iure</w>
+<w pos="QLF" lemma="suus">suo</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="quilibet2">cuiuslibet</w>
+<w pos="QLF" lemma="alter">alterius</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

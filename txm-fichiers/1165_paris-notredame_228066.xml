@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1165_paris-notredame_228066" id_text_code="paris-notredame" num_cema="228066" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1165" date_cema14="-" date_ed="20-4-1165" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Bulla Alexandri III papæ, qua, secutus exemplum prædecessoris sui Benedicti VII papæ , omnia bona et privilegia ad sedem et capitulum Parisiensis ecclesiæ pertinentia confirmat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 01, n° 013." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="per">per</w>
+<w pos="SUB" lemma="manus2">manum</w>
+<w pos="NAM" lemma="--">Hermanni</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancte</w>
+<w pos="NAM" lemma="--">Romane</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="SUB" lemma="subdiaconus">subdiaconi</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="notarius1">notarii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">xn</w>
+<w pos="SUB" lemma="calende">kal</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="maius2">maii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indict</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">xm</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="incarnatio">incarnationis</w>
+<w pos="QLF" lemma="dominicus1">Dominice</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Mclx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="ADV" lemma="uero1">uero</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Alexandri</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="NUM" lemma="3">Iii</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

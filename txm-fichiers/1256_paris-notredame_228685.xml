@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1256_paris-notredame_228685" id_text_code="paris-notredame" num_cema="228685" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1256" date_cema14="-" date_ed="13-2-1256" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guerinus, major Beate Marie de Monte Gilardi, profitetur se debere capitulo Parisiensi unam et quadraginta libras et quatuor solidos Parisienses, ratione serjenterie sue, videlicet triginta libras et quatuor solidos pro terminis jam preteritis, et undecim libras pro termino Pentecostes proxime venturæ. mo." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 009." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="SUB" lemma="lea">lia</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="ADV" lemma="post1">post</w>
+<w pos="VBE" lemma="octo2">octabas</w>
+<w pos="NAM" lemma="--">Purificationis</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SUB" lemma="uirgo">uirginis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

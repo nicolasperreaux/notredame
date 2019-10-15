@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1241_paris-notredame_228828" id_text_code="paris-notredame" num_cema="228828" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1241" date_cema14="-" date_ed="NA-4-1241" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta compositionis inter canonicos Parisienses, prebendas ipsorum apud Lirican tum habentes, et Hugonem, majorem de Liricantu, in qua, dictus Hugo omnibus juribus, quæ ad majoriam in prebendis canonicorum pertinent, renuntiat, pro dimidio modio frumenti, dimidio modio mistolii et tribus modiis avenæ, quæ ipse jam in grangia canonicorum percipere solebat; et pro uno modio et novem sextariis frumenti, totidem mistolii, tribusque modiis et dimidio avene, quæ in futurum, tempore triturationis, percipiet." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 10, n° 010." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="quadragesimus">quadragesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

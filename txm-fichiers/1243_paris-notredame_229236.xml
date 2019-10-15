@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1243_paris-notredame_229236" id_text_code="paris-notredame" num_cema="229236" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1243" date_cema14="-" date_ed="NA-11-1243" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guillelmus, Parisiensis episcopus, confirmat chartam, qua capitulum Beatæ Mariæ septem arpenta et tria quarteria terre arabilis, in censiva Beatæ Marie sita, quæ Odo, archidiaconus et canonicus Parisiensis, emerat, et Filiabus Dei dederat, sub annuo censu duorum et triginta solidorum Parisiensium, a Filiabus Dei in manu mortua possidenda, concedit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 23, n° 017." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="NUM" lemma="3">iii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembri</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

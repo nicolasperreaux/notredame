@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1242_paris-notredame_228548" id_text_code="paris-notredame" num_cema="228548" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1242" date_cema14="-" date_ed="NA-1-1242" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guerinus dictus de Perrosel et Maria, ejus uxor, profitentur se vendidisse venerabili viro Johanni, Parisiensi archidiacono, pro sex libris Parisiensibus, jam sibi solutis, dimidium arpentum prati, situm apud Castanetum, in loco qui dicitur Pre Demanches, in censiva Beatæ Marie Parisiensis, ad octo denarios cen suales." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 040." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quadragesimus">quadragesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Guillelmus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Uillari</w>
+<w pos="NAM" lemma="--">Bello</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="armiger2">armiger</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

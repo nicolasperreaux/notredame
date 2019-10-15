@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1397_paris-notredame_229730" id_text_code="paris-notredame" num_cema="229730" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1397" date_cema14="-" date_ed="13-1-1397" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Circ. a. ." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 033." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="--">Lan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="QLF" lemma="--">iiiiax</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="17">xuii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="NUM" lemma="13">xiii</w>
+<w pos="VBE" lemma="--">iour</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="VBE" lemma="--">ianuier</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">treschault</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">tresspuissant</w>
+<w pos="SUB" lemma="--">seigneur</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">tressnoble</w>
+<w pos="VBE" lemma="--">memoire</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">messire</w>
+<w pos="NAM" lemma="--">Iehan</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="duco">duc</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Berry</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">dAuluergne</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="contus">conte</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Petiers</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="VBE" lemma="transporto">transporta</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">Pabbaye</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">SaintDenis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">France</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">pour</w>
+<w pos="SUB" lemma="--">ueoir</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">uiseter</w>
+<w pos="VBE" lemma="--">les</w>
+<w pos="VBE" lemma="--">saintes</w>
+<w pos="VBE" lemma="reliquo">reliques</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="--">estoient</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="QLF" lemma="--">ladicte</w>
+<w pos="SUB" lemma="--">eglise</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="--">entre</w>
+<w pos="VBE" lemma="--">les</w>
+<w pos="VBE" lemma="--">autres</w>
+<w pos="VBE" lemma="reliquo">reliques</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">uit</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">uiseta</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">chief</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">monseigneur</w>
+<w pos="NAM" lemma="--">Saint</w>
+<w pos="NUM" lemma="deni">Denis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="SUB" lemma="--">palepa</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="mania">mania</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="--">grant</w>
+<w pos="SUB" lemma="--">deuocion</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presens</w>
+<w pos="VBE" lemma="--">messire</w>
+<w pos="NAM" lemma="--">Philippe</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Sauoisy</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">souuerain</w>
+<w pos="SUB" lemma="--">maistre</w>
+<w pos="NAM" lemma="--">dostel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="SUB" lemma="--">reine</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">messire</w>
+<w pos="NAM" lemma="--">Asselin</w>
+<w pos="NAM" lemma="--">Rayne</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">tresorier</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">SaintHilaire</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Poitiers</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">trouua</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">icellui</w>
+<w pos="NAM" lemma="--">chief</w>
+<w pos="VBE" lemma="--">falloit</w>
+<w pos="NAM" lemma="--">Pos</w>
+<w pos="NAM" lemma="--">couronnel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ladicte</w>
+<w pos="SUB" lemma="testis">teste</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">lequel</w>
+<w pos="VBE" lemma="--">on</w>
+<w pos="VBE" lemma="--">dist</w>
+<w pos="SUB" lemma="estra">estre</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">Peglise</w>
+<w pos="NAM" lemma="--">Nostre</w>
+<w pos="SUB" lemma="--">iDame</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="SUB" lemma="--">enchassillie</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">mis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="--">expose</w>
+<w pos="SUB" lemma="--">chacun</w>
+<w pos="NAM" lemma="--">iour</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="SUB" lemma="fenestra">fenestre</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="VBE" lemma="--">ceur</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ladicte</w>
+<w pos="SUB" lemma="--">eglise</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">ioignant</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="SUB" lemma="capsa">chasse</w>
+<w pos="NAM" lemma="--">Nostre</w>
+<w pos="SUB" lemma="--">iDame</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">laquelle</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="NAM" lemma="--">Tendroit</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">chapelle</w>
+<w pos="NAM" lemma="--">Saint</w>
+<w pos="NAM" lemma="--">Michiel</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">Et</w>
+<w pos="SUB" lemma="--">affin</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="VBE" lemma="uereor">uerite</w>
+<w pos="VBE" lemma="do">des</w>
+<w pos="SUB" lemma="--">choses</w>
+<w pos="VBE" lemma="--">dessusdictes</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">perpetuelle</w>
+<w pos="VBE" lemma="--">memoire</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="QLF" lemma="--">ladicte</w>
+<w pos="SUB" lemma="--">eglise</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="ledo">ledit</w>
+<w pos="VBE" lemma="--">prince</w>
+<w pos="VBE" lemma="--">nous</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="SUB" lemma="--">assauoir</w>
+<w pos="VBE" lemma="--">pour</w>
+<w pos="VBE" lemma="uereor">uerite</w>
+<w pos="VBE" lemma="--">les</w>
+<w pos="SUB" lemma="--">choses</w>
+<w pos="VBE" lemma="--">dessusdictes</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="hic3">Hec</w>
+<w pos="VBE" lemma="sum">sunt</w>
+<w pos="SUB" lemma="reliquia">reliquie</w>
+<w pos="SUB" lemma="capsa">capse</w>
+<w pos="QLF" lemma="sanctus1">Sancte</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="magnus">Magna</w>
+<w pos="SUB" lemma="pars">pars</w>
+<w pos="SUB" lemma="caput">capitis</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="-">Dionisii</w>
+<w pos="SUB" lemma="martyr">martiris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="VBE" lemma="geniculo">geniculare</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="QLF" lemma="dius">Dio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">nisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="uestitus2">uestitu</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="-">Dionisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="cilicium">cilicio</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="-">Dionisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="barba">barba</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="cilicium">cilicio</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="cilicium">cilicio</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Eligii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="cochlear">Cocleare</w>
+<w pos="QLF" lemma="sanctus1">sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="reliquia">Reliquie</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Amande</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="cereus2">cereo</w>
+<w pos="QLF" lemma="sanctus1">sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">De</w>
+<w pos="SUB" lemma="sepulcrum">sepulchro</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="reliquia">Reliquie</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">donni</w>
+<w pos="NAM" lemma="--">Amani</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Aneti</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Britonis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Prisci</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Cocti</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Amatoris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Annaarii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="SUB" lemma="desiderium">Desiderii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="cilicius">Cilicium</w>
+<w pos="QLF" lemma="integer">integrum</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="-">Dionisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="lapis">Lapis</w>
+<w pos="CON" lemma="unde">unde</w>
+<w pos="VBE" lemma="lapido">lapidatus</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="SUB" lemma="protomartyr">prothomartir</w>
+<w pos="NAM" lemma="-">Stephanus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="manica">Manicha</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="NAM" lemma="--">Autisiodorensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quam">quam</w>
+<w pos="QLF" lemma="sanctus1">sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="VBE" lemma="mitto">misit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="cilicius">Cilicium</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="QLF" lemma="integer">integrum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="genicula">genicula</w>
+<w pos="PRO" lemma="is2">eius</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capillus">Capilli</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="cinis">cineres</w>
+<w pos="QLF" lemma="quidam">cuiusdam</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="balsamum">Balsamum</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Marcelli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="reliquia">Reliquie</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Eutropii</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Florenti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="uestitus2">Uestitum</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="in">In</w>
+<w pos="NAM" lemma="--">Christi</w>
+<w pos="SUB" lemma="nomen">nomine</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="notitia">noticia</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="uestimentum">uestimentis</w>
+<w pos="SUB" lemma="dominus">domni</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="accipio">accepit</w>
+<w pos="QLF" lemma="--">Immeraudus</w>
+<w pos="SUB" lemma="diaconus">diaconus</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="thesaurus">tesauro</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="42">xlii</w>
+<w pos="VBE" lemma="regno">regnante</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Chlotario</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="SUB" lemma="casula">casula</w>
+<w pos="VBE" lemma="--">fuscana</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="casula">casula</w>
+<w pos="VBE" lemma="--">reuelena</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="1">i</w>
+<w pos="SUB" lemma="cauea">cagia</w>
+<w pos="VBE" lemma="fusco">fusca</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="1">i</w>
+<w pos="SUB" lemma="caliga">caliga</w>
+<w pos="SUB" lemma="abbas">abbas</w>
+<w pos="NAM" lemma="--">Gic</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="4">iiii</w>
+<w pos="SUB" lemma="exagium">sagia</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="haira">haira</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="1">i</w>
+<w pos="VBE" lemma="calceo">calcias</w>
+<w pos="QLF" lemma="filtrinus">filtrinas</w>
+<w pos="VBE" lemma="pario1">paria</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="calceo">calcias</w>
+<w pos="VBE" lemma="--">reuelenas</w>
+<w pos="VBE" lemma="pario1">paria</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="1">i</w>
+<w pos="SUB" lemma="supercilium">supercilio</w>
+<w pos="NAM" lemma="--">uelono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="1">I</w>
+<w pos="SUB" lemma="capsella">capsella</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="SUB" lemma="reliquia">reliquiis</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="PRO" lemma="ipse2">ipso</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Germano</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="reliquia">Reliquie</w>
+<w pos="QLF" lemma="incognitus">incognite</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quas</w>
+<w pos="QLF" lemma="nullus">nullus</w>
+<w pos="VBE" lemma="audeo">audet</w>
+<w pos="VBE" lemma="uideo">uidere</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="unde">unde</w>
+<w pos="QLF" lemma="quidam">quidam</w>
+<w pos="VBE" lemma="uolo2">uolens</w>
+<w pos="PRO" lemma="is2">eas</w>
+<w pos="VBE" lemma="uideo">uidere</w>
+<w pos="VBE" lemma="amitto">amisit</w>
+<w pos="SUB" lemma="lumen">lumen</w>
+<w pos="SUB" lemma="oculus">oculorum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

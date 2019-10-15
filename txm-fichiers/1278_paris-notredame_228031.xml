@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1278_paris-notredame_228031" id_text_code="paris-notredame" num_cema="228031" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1278" date_cema14="-" date_ed="31-3-1278" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De feodo de Turnomio." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 296." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Auelina</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="relicta">relicta</w>
+<w pos="SUB" lemma="defuncti">defuncti</w>
+<w pos="NAM" lemma="--">Bertaudi</w>
+<w pos="NAM" lemma="--">Arrodis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="locus">loco</w>
+<w pos="QLF" lemma="predictus">predictis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NUM" lemma="uiginti">uiginti</w>
+<w pos="NUM" lemma="quattuor">quatuor</w>
+<w pos="SUB" lemma="liberata">libratis</w>
+<w pos="QLF" lemma="annuus">annui</w>
+<w pos="SUB" lemma="redditus1">redditus</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quas</w>
+<w pos="VBE" lemma="habeo">habet</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="percipio">percipit</w>
+<w pos="PRE" lemma="ex">ex</w>
+<w pos="SUB" lemma="hereditas">hereditate</w>
+<w pos="QLF" lemma="suus">sua</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="pedaticus">pedagio</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Turnomio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="VBE" lemma="uoco">uocatis</w>
+<w pos="SUB" lemma="testis">testibus</w>
+<w pos="VBE" lemma="supradico">supradictis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_228323" id_text_code="paris-notredame" num_cema="228323" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De canonicis Sancti Benedicti et Sancti Mederici instituendis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 032." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="omnis">Omnes</w>
+<w pos="SUB" lemma="canonicus2">canonici</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Benedicti</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Mederici</w>
+<w pos="VBE" lemma="instituo">instituuntur</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="institutio">institutione</w>
+<w pos="QLF" lemma="suus">sua</w>
+<w pos="VBE" lemma="iuro">iurant</w>
+<w pos="SUB" lemma="fidelitas">fidelitatem</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="ecclesia">ecclesiis</w>
+<w pos="QLF" lemma="suus">suis</w>
+<w pos="SUB" lemma="residentia">residentiam</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="VBE" lemma="facio">facturos</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="canonicus2">Canonici</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Mederici</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="iuramentum">iuramento</w>
+<w pos="QLF" lemma="suus">suo</w>
+<w pos="VBE" lemma="comprehendo">comprehendunt</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="submonitio">submonitionem</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ordo">ordinem</w>
+<w pos="QLF" lemma="sacerdotalis">sacerdotalem</w>
+<w pos="VBE" lemma="recipio">recipient</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="SUB" lemma="cura">curam</w>
+<w pos="VBE" lemma="habeo">habeant</w>
+<w pos="SUB" lemma="anima">animarum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

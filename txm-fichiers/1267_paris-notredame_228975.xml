@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1267_paris-notredame_228975" id_text_code="paris-notredame" num_cema="228975" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1267" date_cema14="-" date_ed="13-8-1267" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Manumissio Johannis et Adæ, filiorum Girardi candelarii, apud Rosetum in Bria commorantis; ea lege, ut clerici sint et maneant, decano et capitulo Pari siensi honorem et debitam reverentiam, sicut solent liberti patronis, semper exhibeant, nec ullum unquam hominem capituli in jus vocent coram judice quolibet, ecclesiastico vel saculari, nisi prius petita et obtenta licentia capituli." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 17, n° 002." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1267">mcclxuii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="assumptio">assumpcionem</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SUB" lemma="uirgo">uirginis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

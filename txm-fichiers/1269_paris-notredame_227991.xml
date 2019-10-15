@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_227991" id_text_code="paris-notredame" num_cema="227991" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="NA-8-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Stephanus, Parisiensis episcopus, confirmat chartam superiorem, sibi jus retinens ordinandi numerum monialium et formam inclusionis earum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 256." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="augustus1">augusti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

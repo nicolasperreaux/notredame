@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1335_paris-notredame_229812" id_text_code="paris-notredame" num_cema="229812" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1335" date_cema14="-" date_ed="11-10-1335" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Sententia capituli Parisiensis. Cum Evenus Bohic et Robertus de Vernone, canonici Parisienses, duas dimidias prebendas in capellania Sancti Aniani possidentes, magnam domum in claustro, a Stephano de Novilla, succentore, inhabitatam et ad prefatam capellaniam pertinentem, sibi invicem repeterent, alter asserens domum dimidie prebende sue semper esse adjunctam, alter, ut prius prebendatus, eam reclamans, dicta domus Roberto de Vernone, priori prebendato, quamdiu dictam dimidiam prebendam tenebit, et post eum Eveno Bohic, adjudicatur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 115." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="30">xxx</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="-">Dyonisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

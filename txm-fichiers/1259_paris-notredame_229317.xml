@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1259_paris-notredame_229317" id_text_code="paris-notredame" num_cema="229317" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1259" date_cema14="-" date_ed="NA-2-1259" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gaufridus de Pontisara, civis Parisiensis, et ejus uxor Maria, vendunt, pretio novem librarum Parisiensium, episcopo Parisiensi, decem solidos annui census de summa quatuor librarum et dimidie, quam iidem conjuges percipiebant annuatim e domo cujus in charta superiore n. ntio fit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 053." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="--">febriario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

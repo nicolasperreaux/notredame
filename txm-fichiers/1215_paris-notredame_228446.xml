@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1215_paris-notredame_228446" id_text_code="paris-notredame" num_cema="228446" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1215" date_cema14="-" date_ed="NA-5-1215" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus de Villers et Mathildis, ejus uxor, coram Petro, Parisiensi episcopo, capitulo Beate Marie vendunt, pro quadraginta tribus libris Parisiensibus, quidquid juris habent in decima de Viceor, in territorio de Colleri." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 057." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="PRE" lemma="a">ab</w>
+<w pos="SUB" lemma="incarnatio">incarnacione</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="maius2">maio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

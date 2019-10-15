@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1217_paris-notredame_228407" id_text_code="paris-notredame" num_cema="228407" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1217" date_cema14="-" date_ed="NA-4-1217" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus, Parisiensis episcopus, ecclesie Sancti Stephani confert quamdam decimam, apud Vitriacum, ab Ansello, cantore Magdunensi, sibi resignatam; statuitque ut in eadem ecclesia Sancti Stephani novus canonicus instituatur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 018." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Gracie</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

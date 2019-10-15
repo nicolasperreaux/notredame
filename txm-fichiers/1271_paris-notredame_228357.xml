@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_228357" id_text_code="paris-notredame" num_cema="228357" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="NA-6-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Laya et Maria, ejus uxor, declarant se emisse a Matheo de Orliaco,filio defuncti Tyonii majoris, et ab ejus uxore Petronilla, quasdam terras, vineas et domos, apud Orliacum sitas, atque promittunt se omnia bona predicta, sicut antecessores sui, in vilenagium detenturos." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 01, n° 020." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="--">iunyo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1331_paris-notredame_229622" id_text_code="paris-notredame" num_cema="229622" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1331" date_cema14="-" date_ed="NA-NA-1331" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Nicolas Arrode, Jean de Preaus et Jacques de Preaus, declarent avoir vendu a jun Hugues de Besancon, eveque de Paris, moyennant trente livres, les trois quarts dun fief situe sur le port de Confians, et consistant en cent treiae sous parisis de rente annuelle." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 358." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">nous</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">seel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="VBE" lemma="--">cens</w>
+<w pos="SUB" lemma="--">trente</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">un</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="SUB" lemma="--">uendredi</w>
+<w pos="VBE" lemma="--">uingt</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">huit</w>
+<w pos="NAM" lemma="--">iours</w>
+<w pos="NAM" lemma="--">ou</w>
+<w pos="NAM" lemma="--">mois</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">iuing</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1248_paris-notredame_229439" id_text_code="paris-notredame" num_cema="229439" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1248" date_cema14="-" date_ed="NA-9-1248" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Soiseio, miles, declarat se ratam habere venditionem Guillelmo, episcopo Parisiensi, factam a Guiardo de Brunayo, armigero, feodi et omnis juris quod eidem Guiardo competebat in omnibus et singulis que Guillelmus de Noisement, miles, ab eodem Guiardo tenebat apud Moissiacum, videlicet in hospitibus sive hostisiis, terris, pratis, nemoribus, domibus, censibus, redditibus, dominiis, retrofeodis et rebus aliis quibuscumque." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 175." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quadragesimus">quadragesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="september">septembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

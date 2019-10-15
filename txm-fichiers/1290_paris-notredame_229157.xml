@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1290_paris-notredame_229157" id_text_code="paris-notredame" num_cema="229157" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1290" date_cema14="-" date_ed="19-2-1290" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Renaut de Mitri, chevalier, tant en son nom propre quau nom de Catherine, sa femme, et de ses heritiers, prend a cens du chapitre de Paris, moyennant une redevance annuelle de cent sous parisis, cinquantectrois arpents de terre et un manoir situe a Moiri, et appartenant aux prebendiers de Mitri et de Moiri, qui y conservent leurs droits de justice et de seigneurie." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 140." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">Et</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="nos">nos</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="SUB" lemma="cestus1">ceste</w>
+<w pos="NAM" lemma="--">lettre</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">sel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Grasce</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="VBE" lemma="--">iiiia</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">nuef</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="SUB" lemma="--">dimenche</w>
+<w pos="VBE" lemma="do">des</w>
+<w pos="NAM" lemma="--">Brandons</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

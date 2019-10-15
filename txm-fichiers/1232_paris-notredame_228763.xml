@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1232_paris-notredame_228763" id_text_code="paris-notredame" num_cema="228763" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1232" date_cema14="-" date_ed="8-6-1232" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De Ernaudo presbitero et Garino diacono." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 08, n° 021." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="reuerendus">Reuerendis</w>
+<w pos="SUB" lemma="dominus">dominis</w>
+<w pos="QLF" lemma="suus">suis</w>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="NAM" lemma="--">Beati</w>
+<w pos="NAM" lemma="--">Martiui</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Campellis</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Bria</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="reuerentia">reuerenciam</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="mitto">Mittimus</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="uos">uos</w>
+<w pos="QLF" lemma="dilectus1">dilectos</w>
+<w pos="QLF" lemma="noster">nostros</w>
+<w pos="NAM" lemma="--">Erardum</w>
+<w pos="SUB" lemma="presbyter">presbiterum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Garinum</w>
+<w pos="SUB" lemma="diaconus">diaconum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="rogo">rogantes</w>
+<w pos="PRO" lemma="uos">uos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quatenus">quatinus</w>
+<w pos="VBE" lemma="trado">tradatis</w>
+<w pos="NUM" lemma="centum">centum</w>
+<w pos="SUB" lemma="liber1">libros</w>
+<w pos="NAM" lemma="--">Parisienses</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="decima">decima</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Eguernolio</w>
+<w pos="CON" lemma="quam">quam</w>
+<w pos="NAM" lemma="--">Petrus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Eguernolio</w>
+<w pos="SUB" lemma="miles">miles</w>
+<w pos="VBE" lemma="impignoro">inpignorauit</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="nos">Nos</w>
+<w pos="ADV" lemma="uero1">uero</w>
+<w pos="PRO" lemma="idem2">eandem</w>
+<w pos="SUB" lemma="decima">decimam</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="VBE" lemma="quieto">quitamus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="sub">sub</w>
+<w pos="QLF" lemma="noster">nostrarum</w>
+<w pos="SUB" lemma="testimonium">testimonio</w>
+<w pos="SUB" lemma="littera">litterarum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="QLF" lemma="propinquus1">proxima</w>
+<w pos="ADV" lemma="post1">post</w>
+<w pos="VBE" lemma="octo2">octabas</w>
+<w pos="NAM" lemma="--">Pentecostes</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="30">xxx</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

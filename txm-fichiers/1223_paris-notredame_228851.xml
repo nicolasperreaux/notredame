@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1223_paris-notredame_228851" id_text_code="paris-notredame" num_cema="228851" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1223" date_cema14="-" date_ed="NA-NA-1223" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Sententia lata ab E. decano totoque Parisiensi capitulo, inter ipsum capitulum et haredes Johannis, filii David, quondam decani Corberosæ; qua debent dicti haredes omnes fructus et proventus, quos in villa Corberose sibi jure hareditario pertinere dicebant, reddere, et hujus sententie observationem, in ecclesia Corberose et vicinis ecclesiis, die dominica, coram omnibus, jurare." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 11, n° 005." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Gracie</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="20">xx</w>
+<w pos="NUM" lemma="3">iii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

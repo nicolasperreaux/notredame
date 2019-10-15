@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1272_paris-notredame_228005" id_text_code="paris-notredame" num_cema="228005" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1272" date_cema14="-" date_ed="NA-NA-1272" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 270." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NAM" lemma="--">Lxxmo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="magister2">magister</w>
+<w pos="NAM" lemma="--">Alanus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decanus">decanus</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="NAM" lemma="--">Autissiodorensis</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="decanatus">decanatu</w>
+<w pos="QLF" lemma="suus">suo</w>
+<w pos="QLF" lemma="predictus">predicto</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="cantoria">cantoria</w>
+<w pos="QLF" lemma="dictus">dicte</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="VBE" lemma="dico2">dicti</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Uictorem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="aula">aula</w>
+<w pos="QLF" lemma="dictus">dicte</w>
+<w pos="SUB" lemma="domus">domus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="ille2">illud</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

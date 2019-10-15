@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1309_paris-notredame_228742" id_text_code="paris-notredame" num_cema="228742" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1309" date_cema14="-" date_ed="24-2-1309" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Decanus et capitulum Parisiense concedunt possidendam in manu mortua rectori ecclesie Vernoti quamdam domum cum pertinentiis, a defuncto Petro, pro anniversario suo celebrando, ecclesie Vernoti legatam; ea lege, ut rectores Vernoti, capitulo Parisiensi, dictæ ecclesiæ patrono, duos solidos Turonenses annui census reddant, et rector quisque noviter electus, in sua institutione, viginti solidos Turonenses pro concessa manu mortua solvat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 066." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="dominica">dominicam</w>
+<w pos="PRO" lemma="qui2">qua</w>
+<w pos="VBE" lemma="canto">cantatur</w>
+<w pos="NAM" lemma="--">Reminmarcere</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NAM" lemma="--">Octauus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

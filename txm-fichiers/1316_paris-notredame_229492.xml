@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1316_paris-notredame_229492" id_text_code="paris-notredame" num_cema="229492" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1316" date_cema14="-" date_ed="16-6-1316" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Frere Lyenard de Thibeites, visiteur general deca les monts de lordre de SaintJean de Jerusalem, amortit au profit dAgnes, veuve de Henri le Vanier, chevalier, moyennant vingt sous parisis de cens annuel et perpetuel, one arpents trois quarts de terre labourable, un demisarpent de vigne, un arpent et demi de pre et one sous de rente, que ladite dame possedait dans la censive de la commanderie dAntony, appartenant autrefois a Pordre du Temple, et qui etaient estimes a dix livrees de terre." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 228." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="domina">Donne</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="QLF" lemma="noster">nostre</w>
+<w pos="SUB" lemma="--">general</w>
+<w pos="SUB" lemma="--">chapitre</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="VBE" lemma="--">mescredi</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="SUB" lemma="festa1">feste</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Barnabe</w>
+<w pos="NAM" lemma="--">Papostre</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">seice</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

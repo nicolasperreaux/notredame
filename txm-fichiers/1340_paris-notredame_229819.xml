@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1340_paris-notredame_229819" id_text_code="paris-notredame" num_cema="229819" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1340" date_cema14="-" date_ed="23-12-1340" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta archipresbyteri Sancti Severini, arbitri a Guillelmo, Parisiensi episcopo, dati, qua, cum Arnulphus Probi Hominis, clericus, aliquod beneficium, ad collationem capituli Parisiensis pertinens, sedis apostolicæ speciali gratia, accepisset, ideoque canonicatum et prebendam Sancti Dyonisii de Passu, tunc vacantes, occupavisset, capitulo expostulante, statuitur, ut, cum canonicatus capellarum Sancti Dvonisii de Passu et Sancti Johannis Rotundi sint beneficia ad ecclesiam cathedralem pertinentia, et sedes apostolica nullum jus habeat in beneficia hujus ecclesie conferenda, pradictus Arnulphus et canonicatu et prebenda Sancti Dyonisii de Passu cedat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 122." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="dictus">dicto</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="SUB" lemma="natiuitas">natiuitatis</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="ADV" lemma="uidelicet">uidelicet</w>
+<w pos="NUM" lemma="uicesimus">uicesima</w>
+<w pos="NUM" lemma="tertius">tercia</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="SUB" lemma="december">decembris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="nonus">nona</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="secundum1">secundum</w>
+<w pos="SUB" lemma="mos">morem</w>
+<w pos="NAM" lemma="--">Francie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="sanctus1">sanctissimi</w>
+<w pos="SUB" lemma="pater">patris</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="dominus">domni</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domni</w>
+<w pos="NAM" lemma="--">Benedicti</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="diuinus">diuina</w>
+<w pos="NAM" lemma="--">Prouidencia</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="NUM" lemma="3">Xii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NUM" lemma="100">C</w>
+<w pos="VBE" lemma="--">oni</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">atsitquel</w>
+<w pos="NAM" lemma="--">aiunsdol</w>
+<w pos="VBE" lemma="--">ilsad</w>
+<w pos="VBE" lemma="--">auntirusu</w>
+<w pos="VBE" lemma="--">mutesi</w>
+<w pos="SUB" lemma="--">muroib</w>
+<w pos="VBE" lemma="--">taod</w>
+<w pos="NAM" lemma="--">ooi</w>
+<w pos="VBE" lemma="--">inimoi</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

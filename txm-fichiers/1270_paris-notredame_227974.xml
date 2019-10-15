@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1270_paris-notredame_227974" id_text_code="paris-notredame" num_cema="227974" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1270" date_cema14="-" date_ed="16-3-1270" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Dominus Gilo de Aci, miles, fecit homagium ligium domino episcopo, de tertia parte feodi quod tenet Philippus de Bruneio apud Gentilli et apud Parisius, anno Domini MCCLX nono, die dominica tertia in quadragesima, apud Sanctum Victorem, ante capellam episcopi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 239." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="idem2">Eodem</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="relinquo">relicta</w>
+<w pos="NAM" lemma="-">Iohannis</w>
+<w pos="NAM" lemma="--">Popin</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ciuis">ciuis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="ADV" lemma="quondam">quondam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="NAM" lemma="-">Parisiensibus</w>
+<w pos="PRO" lemma="qui2">quas</w>
+<w pos="VBE" lemma="percipio">percipit</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="transuersum">trauerso</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Confluentio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

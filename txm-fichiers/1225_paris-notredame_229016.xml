@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1225_paris-notredame_229016" id_text_code="paris-notredame" num_cema="229016" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1225" date_cema14="-" date_ed="NA-NA-1225" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Diploma Ludovici VIII, Francorum regis, quo, pro salute anime sue, et anima rum Blanche reginæ atque Philippi, ipsorum primogeniti, in ecclesia Beatæ Marie Parisiensis sepulti, capellaniam unam in eadem ecclesia instituit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 19, n° 025." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Germanum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Laya</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="QLF" lemma="dominicus1">Dominice</w>
+<w pos="SUB" lemma="incarnatio">incarnacionis</w>
+<w pos="NUM" lemma="1220">mccxx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="regnum">regni</w>
+<w pos="ADV" lemma="uero1">uero</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="VBE" lemma="adsto">astantibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

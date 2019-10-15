@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1203_paris-notredame_227799" id_text_code="paris-notredame" num_cema="227799" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1203" date_cema14="-" date_ed="28-3-1203" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Epistola Innocentii papæ III ad abbatem Sanctæ Columbæ, Milonem archidiaconum Senonensem, et magistrum scholarum Aurelianensium, quibus mandatur, ut priores et capellanos, episcopo Parisiensi diœcesim suam visitanti procurationes exhibere denegantes, eo quod ejus prædecessoribus eas non exsolverint, ad dictas procurationes exhibendas compellant, cum subditus contra prælatum procurationem, ratione visitationis debitam, præscribere non possit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 064." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Laterani</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="aprilis">aprilis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

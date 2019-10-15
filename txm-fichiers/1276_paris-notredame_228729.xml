@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_228729" id_text_code="paris-notredame" num_cema="228729" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="2-9-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Stephanus Lisiardi et Agnes, ejus uxor, recognoscunt se vendidisse magistro Phi lippo de Breteigniaco, canonico Parisiensi, pretio triginta librarum Turonensium, jam sibi solutarum, octavam partem terræ quæ dicitur Sancti Germani, apud Vernotum sitæ." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 053." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="--">mcclxxn</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="natiuitas">natiuitatem</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SUB" lemma="uirgo">uirginis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

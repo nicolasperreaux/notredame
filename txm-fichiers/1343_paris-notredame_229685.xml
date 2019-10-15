@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1343_paris-notredame_229685" id_text_code="paris-notredame" num_cema="229685" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1343" date_cema14="-" date_ed="26-8-1343" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Pierre de Neauffe, maitre et gouverneur de la maison des Aveugles, Nicolas Acart, ministre de ladite maison, Thomas de Verberie, Jehan le Court, Raoul PArmurier, Jehan de Marcoville, Erembourc de la Grange, Maheut de GaillecFontaine, Jehanne la Poulaillere et Jehanne aus Chaieres, tous jures et jurees de ladite maison des Aveugles, declarent avoir recu en don de Pierre des Essars, conseiller du roi et bourgeois de Paris, une culture de terre labourable, close de murs, contenant quarantecdeux arpents ou environ, avec une fosse a fumier devant la porte de Tenclos, le tout situe entre Thotel des Aveugles et le marche aux Chevaux, et charge envers Teveque de Paris de cinquante et un sous six deniers parisis de cens; lequel cens lesdits maitre et jures declarent porter au double, clestcacdire a cent trois sous parisis, a cause de Tamortissement dudit enclos, que Teveque a consenti a leur profit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 057." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">mardi</w>
+<w pos="VBE" lemma="--">uint</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="sex">six</w>
+<w pos="NAM" lemma="--">iours</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="SUB" lemma="--">moys</w>
+<w pos="VBE" lemma="--">draost</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="SUB" lemma="--">quarante</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

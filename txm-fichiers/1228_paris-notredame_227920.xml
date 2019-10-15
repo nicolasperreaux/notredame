@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1228_paris-notredame_227920" id_text_code="paris-notredame" num_cema="227920" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1228" date_cema14="-" date_ed="NA-NA-1228" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Hec sunt vasa que emit dominus Willelmus, episcopus Parisiensis, ante portacionem suam, mediante W. Barbeta." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 185." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NUM" lemma="uiginti">Uiginti</w>
+<w pos="NUM" lemma="quattuor">quatuor</w>
+<w pos="SUB" lemma="scutella">scutellas</w>
+<w pos="QLF" lemma="argenteus">argenteas</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="contineo">continent</w>
+<w pos="NUM" lemma="--">xun</w>
+<w pos="SUB" lemma="marca">marchas</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="dimidius">dimidiam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="minus">minus</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="SUB" lemma="sterlingus">sterlingos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="consto">costant</w>
+<w pos="NUM" lemma="30">xxx</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">um</w>
+<w pos="SUB" lemma="libra">libras</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="minus">minus</w>
+<w pos="SUB" lemma="--">xn</w>
+<w pos="NUM" lemma="500">d</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Parisiens</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="NUM" lemma="tres">tres</w>
+<w pos="SUB" lemma="scutella">scutelle</w>
+<w pos="QLF" lemma="argenteus">argentee</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="25">xxu</w>
+<w pos="SUB" lemma="--">coclearia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="aurifaber">aurifaber</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="VBE" lemma="contineo">continent</w>
+<w pos="VBE" lemma="--">nnor</w>
+<w pos="SUB" lemma="marca">marchas</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="15">xu</w>
+<w pos="SUB" lemma="sterlingus">sterlingos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="consto">costant</w>
+<w pos="NAM" lemma="-">um</w>
+<w pos="SUB" lemma="libra">libras</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="16">xui</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Parisienses</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="QLF" lemma="iustus">iusta</w>
+<w pos="NUM" lemma="unus">una</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="contineo">continet</w>
+<w pos="NUM" lemma="tres">tres</w>
+<w pos="SUB" lemma="marca">marchas</w>
+<w pos="ADV" lemma="minus">minus</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="SUB" lemma="sterlingus">sterlingos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ualeo">ualet</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="SUB" lemma="libra">libras</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">xim</w>
+<w pos="SUB" lemma="solidus2">solidos</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="NUM" lemma="quattuor">quatuor</w>
+<w pos="SUB" lemma="scyphus">ciphi</w>
+<w pos="QLF" lemma="albus">albi</w>
+<w pos="QLF" lemma="planus1">plani</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="contineo">continent</w>
+<w pos="VBE" lemma="--">niior</w>
+<w pos="SUB" lemma="marca">marchas</w>
+<w pos="ADV" lemma="minus">minus</w>
+<w pos="SUB" lemma="ixion">Xxii</w>
+<w pos="SUB" lemma="sterlingus">sterlingos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="consto">costant</w>
+<w pos="NAM" lemma="-">um</w>
+<w pos="SUB" lemma="libra">libras</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="SUB" lemma="solidus2">solidos</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="NUM" lemma="duo">duo</w>
+<w pos="SUB" lemma="scyphus">ciphi</w>
+<w pos="VBE" lemma="deauro">deaurati</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="VBE" lemma="contineo">continent</w>
+<w pos="NUM" lemma="duo">duas</w>
+<w pos="SUB" lemma="marca">marchas</w>
+<w pos="ADV" lemma="minus">minus</w>
+<w pos="NUM" lemma="--">xxim</w>
+<w pos="SUB" lemma="sterlingus">sterlingos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="consto">costant</w>
+<w pos="PRO" lemma="ego">mi</w>
+<w pos="SUB" lemma="libra">libras</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="4">Xiii</w>
+<w pos="VBE" lemma="--">solid</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="summus">Summa</w>
+<w pos="NAM" lemma="--">Lx</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">um</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="NUM" lemma="4">Xiii</w>
+<w pos="SUB" lemma="anulus">anuli</w>
+<w pos="QLF" lemma="aureus1">aurei</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NUM" lemma="primus">Primi</w>
+<w pos="NUM" lemma="quattuor">quatuor</w>
+<w pos="VBE" lemma="consto">costant</w>
+<w pos="NAM" lemma="--">Uii</w>
+<w pos="QLF" lemma="--">libr.</w>
+<w pos="QLF" lemma="alius">alii</w>
+<w pos="NUM" lemma="quattuor">quatuor</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="VBE" lemma="--">etx</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">alii</w>
+<w pos="NUM" lemma="quinque">quinque</w>
+<w pos="VBE" lemma="--">uil</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="summus">Summa</w>
+<w pos="NUM" lemma="decem">decem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="nouem">nouem</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="15">xu</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="breuiarius">Breuiarium</w>
+<w pos="QLF" lemma="--">costitit</w>
+<w pos="NUM" lemma="16">xui</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="NAM" lemma="--">Parisien</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capellanus2">Capellanus</w>
+<w pos="SUB" lemma="rex">regis</w>
+<w pos="VBE" lemma="habeo">habuit</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="QLF" lemma="alius">alia</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="SUB" lemma="--">coclearia</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="VBE" lemma="contineo">continent</w>
+<w pos="NUM" lemma="quinquaginta">quinquaginta</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="tres">tres</w>
+<w pos="SUB" lemma="sterlingus">sterlingos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="consto">costant</w>
+<w pos="NAM" lemma="--">xim</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="sum">erant</w>
+<w pos="SUB" lemma="magister2">magistri</w>
+<w pos="NAM" lemma="--">Odonis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="QLF" lemma="alius">alii</w>
+<w pos="NUM" lemma="duo">duo</w>
+<w pos="SUB" lemma="scyphus">ciphi</w>
+<w pos="VBE" lemma="deauro">deaurati</w>
+<w pos="SUB" lemma="planus2">plani</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="contineo">Continent</w>
+<w pos="NUM" lemma="duo">duas</w>
+<w pos="SUB" lemma="marca">marchas</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="dimidius">dimidiam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="sum">erant</w>
+<w pos="NAM" lemma="--">Filiarum</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="ualeo">ualent</w>
+<w pos="NUM" lemma="100">c</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">alius</w>
+<w pos="PRO" lemma="qui2">quem</w>
+<w pos="VBE" lemma="affero">attulimus</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="NAM" lemma="--">Roma</w>
+<w pos="VBE" lemma="contineo">continet</w>
+<w pos="SUB" lemma="marca">marcham</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="dimidius">dimidiam</w>
+<w pos="ADV" lemma="minus">minus</w>
+<w pos="SUB" lemma="uncia">unciam</w>
+<w pos="NUM" lemma="unus">unam</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

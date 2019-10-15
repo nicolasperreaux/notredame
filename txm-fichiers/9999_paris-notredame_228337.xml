@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_228337" id_text_code="paris-notredame" num_cema="228337" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Nomina antistitum Parisiensium." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 046." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="nomen">Nomina</w>
+<w pos="SUB" lemma="episcopus">episcoporum</w>
+<w pos="NAM" lemma="--">Parisiensium</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="sanctus1">Sanctus</w>
+<w pos="NAM" lemma="-">Dyonisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="mallo2">Mallo</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="mansus">Massus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="marca">Marcus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="aduentus">Aduentus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="--">Uicturinus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Paulus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="prudenter">Prudentius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="sanctus1">Sanctus</w>
+<w pos="NAM" lemma="--">Marcellus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Uiuianus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="felix">Felix</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Flauianus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Ursicinus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="--">Apedinius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Eraclius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="probo">Probatus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Amelius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Lybanus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="sanctus1">Sanctus</w>
+<w pos="NAM" lemma="--">Germanus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Ragnemodus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Eusebius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Faramodus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="--">Saphoratus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="simpliciter">Simplicius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="sanctus1">Sanctus</w>
+<w pos="NAM" lemma="--">Ceraunus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Leutbertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Autbertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="sanctus1">Sanctus</w>
+<w pos="NAM" lemma="--">Landericus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Robertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Sygobrandus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="importunus">Importunus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Aglebertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Sygofridus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Turnaldus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Aldulphus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="--">Berneharius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Hugo</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Merseidus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="--">Fedolius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Ragnecapdus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="--">Deodefridus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Erkanradus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Ermanfredus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="--">Ynchadus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="NAM" lemma="--">Erkanradus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="eneus">Eneas</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="--">Angelignus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Gozlinus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Anchericus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Theodulphus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Fulradus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Adelelmus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Galterus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Albericus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="constanter">Constantius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Garinus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Lisiardus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Rainaldus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Albertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="francus1">Franco</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Imbertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Gaufredus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Guillermus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Fulco</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="galo">Galo</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mciiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="incipio">incepit</w>
+<w pos="PRO" lemma="is2">eius</w>
+<w pos="SUB" lemma="episcopatus">episcopatus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Girbertus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Stephanus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Theobaldus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Petrus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="NAM" lemma="--">Lombardus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Mauricius</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="udo2">Odo</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="-">Soliaco</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Petrus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="NAM" lemma="--">Cambellanus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Guillelmus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="NAM" lemma="--">Altisiodorensis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Bartholomeus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Guillelmus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="NAM" lemma="--">Aluernensis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NUM" lemma="1228">Mccxxuiii</w>
+<w pos="VBE" lemma="incipio">incepit</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PRO" lemma="is2">eius</w>
+<w pos="SUB" lemma="episcopatus">episcopatus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

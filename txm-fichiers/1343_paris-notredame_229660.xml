@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1343_paris-notredame_229660" id_text_code="paris-notredame" num_cema="229660" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1343" date_cema14="-" date_ed="30-11-1343" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Garnier Marcel et Eudeline, sa femme, bourgeois de Paris, vendent a Fouques de Chenac, eveque de Paris, moyennant six cents livres parisis, cinquante livres parisis de rente, a prendre au peage de Conffans¬Sainte¬Honorine." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 032." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">huit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="SUB" lemma="--">dymenche</w>
+<w pos="SUB" lemma="--">trentiesme</w>
+<w pos="NAM" lemma="--">iour</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="SUB" lemma="--">moys</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="nouember">nouembre</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

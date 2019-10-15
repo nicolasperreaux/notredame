@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1256_paris-notredame_228820" id_text_code="paris-notredame" num_cema="228820" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1256" date_cema14="-" date_ed="NA-2-1256" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta G., decani christianitatis Miliacensis, qua Maria la Raymbaude, de Fonte Bliaudi, Girardus, filius ejus, Emelina, uxor, aliique fratres et sorores ejusdem Girardi, capitulo Parisiensi, pro septuaginta duabus libris Parisiensibus, jam sibi solutis, vendunt quadraginta tres solidos Parisienses annui redditus, in hostisiis et masuris apud Liricantum, in vico dicto Rua Nova, sitis, levandos; insuperque omnem jurisdictionem et justitiam, videlicet sanguinem, viariam, duellum, multrum, raptum, omnemque aliam plenariam justitiam, quam apud Liricantum possident : quæ omnia, in feodo, a domino Johanne de Villaribus, milite, et ab Odelina, ejus uxore, atque in retro feodo, a domino Theobaldo de Moreto, movent." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 10, n° 002." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="50">l</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

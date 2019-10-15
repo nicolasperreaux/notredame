@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_227913" id_text_code="paris-notredame" num_cema="227913" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="NA-11-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Cum Guido de Villaribus miles, decimam, quam in territoriis Bonolii et Succiaci tenebat, et quæ movebat ° ex feodo Amalrici de Meulento, domini de Cauda militis; ° ex feodo nobilis viri comitis Blesensis, ratione uxoris ejus, et ° ex feodo episcopi Parisiensis, dedisset; medietatem scilicet ad dotandam capellam ab ipso in domo sua de Villaribus extructam, et alteram medietatem ad instituendum capellanum in ecclesia Servonis; hanc Guidonis largitionem, jam a dictis Amalrico et comitissa Blesensi approbatam, Stephanus, episcopus Parisiensis , confirmat duplici auctoritate, nempe tertii domini feodalis et ordinaria auctoritate : ea tamen lege, ut tam capellanus Villarium quam presbyter Servonis, in institutione sua, episcopis Parisiensibus homagium faciant, eisque, semel in vita sua, duas libras ceræ virgineæ persolvant, jure patronatus in capella Villarium episcopo Parisiensi insuper reservato." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 178." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

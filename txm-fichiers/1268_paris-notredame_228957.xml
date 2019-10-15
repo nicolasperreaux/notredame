@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1268_paris-notredame_228957" id_text_code="paris-notredame" num_cema="228957" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1268" date_cema14="-" date_ed="NA-1-1268" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gaudricus de Pedigio, Odo de Brera, Philippus cursorius, Stephanus Maucreant, Odo cursorius, Henricus Fortis, pro se et pro Gaufrido Forti, patre suo, Petrus cursorius, Stephanus quadrigarius, Johannes de Amoribus et alii homines Ite villæ, Senonensis diccesis, declarant se ratum habituros quidquid ordinaverint circa talliam, ipsis a capitulo Parisiensi impositam, magistri Clemens, archidia conus Laudunensis, Robertus de Sorbonio et Milo de Corbolio, canonici Pari sienses." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 16, n° 002." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1267">mcclxuii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

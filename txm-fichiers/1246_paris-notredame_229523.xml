@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1246_paris-notredame_229523" id_text_code="paris-notredame" num_cema="229523" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1246" date_cema14="-" date_ed="NA-7-1246" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guillelmus, Parisiensis episcopus, vendit in manu mortua abbati et conventui de Eschalleis, ordinis Cisterciensis, pro quingentis libris Parisiensibus, censu annuo centum solidorum pro amortisatione et alio duodecim denariorum censu sibi retentis, domum cujus in charta superiore mentio fit, ab episcopo Norvicensi olim sibi venditam, et ad annuum redditum viginti librarum estimatam; eo pacto, ut, si postea abbas et conventus pradicti eamdem domum alienare vellent, nulli eam venderent, quin prius episcopo Parisiensi, eodem pretio, obtulissent." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 259." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="do">datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1246">mccxlui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

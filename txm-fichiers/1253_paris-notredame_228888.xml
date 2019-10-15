@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1253_paris-notredame_228888" id_text_code="paris-notredame" num_cema="228888" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1253" date_cema14="-" date_ed="NA-3-1253" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gaufridus dictus Forriaus, de Viri, et Maria, ejus uxor, Herberto de Recest, cano nico Parisiensi, pro quinquaginta novem libris et quindecim solidis Parisiensi bus, jam sibi solutis, octo sextaria terræ, apud Viriacum sita, ad virgam et mensuram Viriaci mensa, vendunt." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 13, n° 013." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="machio">marcio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

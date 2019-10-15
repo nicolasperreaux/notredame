@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1221_paris-notredame_228483" id_text_code="paris-notredame" num_cema="228483" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1221" date_cema14="-" date_ed="NA-2-1221" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Eranborch de Leudevilla, relicta Reginaldi de Coignieres, militis, et Petronilla, filia ejus, domino Hugoni Cani, Sancti Johannis Rotundi canonico, propter quindecim libras sibi mutuatas, pignerant unum modium bladi, medietatem mixtolii, medietatem avenæ, in decima de Guibbeville percipiendum et singulis annis, mense martio, redimendum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 094." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Gracie</w>
+<w pos="NUM" lemma="1220">mccxx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1207_paris-notredame_227893" id_text_code="paris-notredame" num_cema="227893" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1207" date_cema14="-" date_ed="NA-8-1207" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Henricus, abbas Sancti Dionysii, concedit omnibus presbyteris parochiarum et capellarum Parisiensis diœcesis, ut quiete possideant in perpetuum omnia quæ ipsi ab illo monasterio in feodum tenebant ipsa die qua pax inter Odonem, Parisiensem episcopum, et Henricum, abbatem Sancti Dionysii, reformata fuit de prioratu Argentoliensi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 158." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="PRE" lemma="a">ab</w>
+<w pos="SUB" lemma="incarnatio">incarnatione</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="augustus1">augusto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

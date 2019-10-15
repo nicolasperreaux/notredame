@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1205_paris-notredame_227891" id_text_code="paris-notredame" num_cema="227891" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1205" date_cema14="-" date_ed="27-12-1205" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Epistola lnnocentii III papæ Odoni Parisiensi episcopo, qua ei indulget ut e duo decim præbendis ecclesie de Campellis in Bria, viginti duas præbendas faciat, singulis bipartitis, præter unam quæ, ad monasterium Sancti Victoris pertinens, integra remanebit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 156." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Rome</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Petrum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="3">Iii</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="ianuarius2">ianuarii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

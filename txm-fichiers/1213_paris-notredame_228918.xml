@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1213_paris-notredame_228918" id_text_code="paris-notredame" num_cema="228918" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1213" date_cema14="-" date_ed="NA-11-1213" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Quod Odo de Compans dedit et concessit capitulo Beate Marie Parisiensis quatuor arpennos terre, sitos apud Moyriacum in colle." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 017." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">Odo</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Compans</w>
+<w pos="VBE" lemma="nosco">notum</w>
+<w pos="VBE" lemma="facio">facio</w>
+<w pos="QLF" lemma="uniuersus">uniuersis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PRO" lemma="ego">ego</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="diuinus">diuine</w>
+<w pos="SUB" lemma="pietas">pietatis</w>
+<w pos="SUB" lemma="intuitus">intuitu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="eleemosyna">elemosinam</w>
+<w pos="VBE" lemma="do">dedi</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="concedo">concessi</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="NUM" lemma="quattuor">quatuor</w>
+<w pos="SUB" lemma="aripennis">arpennos</w>
+<w pos="SUB" lemma="terra">terre</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="sino">sitos</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Moiriacum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="collis">colle</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="etiam">etiam</w>
+<w pos="QLF" lemma="omnis">omne</w>
+<w pos="QLF" lemma="dominius">dominium</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="iustitia">iustitiam</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="ille2">illa</w>
+<w pos="SUB" lemma="terra">terra</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quod</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="reor">ratum</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">eidem</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="iste1">istam</w>
+<w pos="SUB" lemma="eleemosyna">elemosinam</w>
+<w pos="VBE" lemma="teneo">teneor</w>
+<w pos="VBE" lemma="warantio">garantire</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="proinde">proinde</w>
+<w pos="QLF" lemma="proprius1">proprium</w>
+<w pos="SUB" lemma="sigillum">sigillum</w>
+<w pos="QLF" lemma="presens">presenti</w>
+<w pos="SUB" lemma="scriptum">scripto</w>
+<w pos="VBE" lemma="facio">feci</w>
+<w pos="VBE" lemma="appono">apponi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1215">mccxu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

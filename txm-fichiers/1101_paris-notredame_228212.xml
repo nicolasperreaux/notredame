@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1101_paris-notredame_228212" id_text_code="paris-notredame" num_cema="228212" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1101" date_cema14="-" date_ed="NA-NA-1101" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Fulconis decani et totius ecclesiæ Parisiensis conventus, qua conceditur Evrardo, majori Laiaci, Isabelli, uxori ejus, Petro et Rainaldo, filiis ejus laicis, et, illis defunctis, eorum hæredi, qui capitulo repræsentabitur, conquestus Roberti, fratris dicti Evrardi, absque hærede defuncti." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 06, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="QLF" lemma="publicus1">publice</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Mci</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="9">ix</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="epacta">epacta</w>
+<w pos="VBE" lemma="--">Xuiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="concurro">concurrente</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="regno">regnante</w>
+<w pos="SUB" lemma="rex">rege</w>
+<w pos="NAM" lemma="--">Philippo</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="QLF" lemma="--">Xlii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="episcopatus">episcopatus</w>
+<w pos="NAM" lemma="--">Guillelmi</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="signum">S</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Fulconis</w>
+<w pos="VBE" lemma="decano">decani</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="signum">S</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Reinaldi</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="signum">S</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Waleranni</w>
+<w pos="SUB" lemma="precentor">precentoris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

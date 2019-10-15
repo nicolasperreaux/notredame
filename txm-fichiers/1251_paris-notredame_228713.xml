@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1251_paris-notredame_228713" id_text_code="paris-notredame" num_cema="228713" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1251" date_cema14="-" date_ed="12-4-1251" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Adam de Piviliers, armiger, declarat se, Guillelmumque et Nicholaum, fratres suos, et Mathildem, sororem suam, vendidisse capitulo Parisiensi , ad opus anni versarii defuncti Stephani, archidiaconi Parisiensis, pretio viginti et octo librarum Turonensium, jam sibi solutarum, quidquid ipsi habebant vel habere poterant, tam in vino, fabis, pisis, canabo, quam in aliis rebus quibuscumque, in decima eidem capitulo apud Cellas pertinente." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 037." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Ramos</w>
+<w pos="SUB" lemma="palma">palmarum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

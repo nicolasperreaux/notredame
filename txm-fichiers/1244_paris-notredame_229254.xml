@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1244_paris-notredame_229254" id_text_code="paris-notredame" num_cema="229254" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1244" date_cema14="-" date_ed="11-7-1244" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Littera Mathildis, domine de Marliaco." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 23, n° 035." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="omnis">Omnibus</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="inspicio">inspecturis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="officialis1">officialis</w>
+<w pos="SUB" lemma="curia">curie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="nosco">Notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="SUB" lemma="presentia">presencia</w>
+<w pos="VBE" lemma="--">constirecepisse</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="magister2">magistro</w>
+<w pos="NAM" lemma="--">Henrico</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Mommengnia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="canonicus1">canonico</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="nomen">nomine</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="decem">decem</w>
+<w pos="SUB" lemma="libra">libras</w>
+<w pos="NAM" lemma="--">Parisienses</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ratio">racione</w>
+<w pos="QLF" lemma="quidam">cuiusdam</w>
+<w pos="SUB" lemma="compositio">composicionis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="habeo">habite</w>
+<w pos="PRE" lemma="inter">inter</w>
+<w pos="PRO" lemma="ipse2">ipsam</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="dico2">dictum</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="super">super</w>
+<w pos="SUB" lemma="decima">decima</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Balleinuillari</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Longo</w>
+<w pos="QLF" lemma="--">Iumello</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="dico2">dicebat</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="NUM" lemma="4">iiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="QLF" lemma="estiualis">estiualis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1238_paris-notredame_228914" id_text_code="paris-notredame" num_cema="228914" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1238" date_cema14="-" date_ed="5-6-1238" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="it Quod Johannes de Moiri recognovit se nichil habere in decania de Moiri." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 013." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="omnis">Omnibus</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="inspicio">inspecturis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="officialis1">officialis</w>
+<w pos="NAM" lemma="--">Meldensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="nosco">Nouerint</w>
+<w pos="QLF" lemma="uniuersus">uniuersi</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Moiri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="SUB" lemma="presentia">presencia</w>
+<w pos="VBE" lemma="constituo">constitutus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="recognosco">recognouit</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="SUB" lemma="nihil">nichil</w>
+<w pos="VBE" lemma="habeo">habere</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="decania1">decania</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Moiri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ratio">ratione</w>
+<w pos="SUB" lemma="hereditas">hereditatis</w>
+<w pos="CON" lemma="siue">siue</w>
+<w pos="SUB" lemma="successio">successionis</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="quam">quam</w>
+<w pos="SUB" lemma="decania1">decaniam</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="VBE" lemma="recipio">recepit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="dico2">dicit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="uita">uitam</w>
+<w pos="QLF" lemma="suus">suam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="QLF" lemma="propinquus1">proxima</w>
+<w pos="ADV" lemma="post1">post</w>
+<w pos="VBE" lemma="octo2">octabas</w>
+<w pos="NAM" lemma="--">Pentecostes</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="QLF" lemma="propinquus1">proxima</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="QLF" lemma="dictus">dictas</w>
+<w pos="VBE" lemma="octo2">octabas</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1238">mccxxxuiii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

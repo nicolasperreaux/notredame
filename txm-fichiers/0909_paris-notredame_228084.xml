@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="0909_paris-notredame_228084" id_text_code="paris-notredame" num_cema="228084" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="909" date_cema14="-" date_ed="14-9-909" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Diploma Karoli Simplicis regis, quo, deprecante Anscherico, episcopo Parisiensi, confirmat ecclesiæ Parisiensi pontem cum areis et molendinis, quem avus suus Karolus rex eidem ecclesiæ dudum possidendum concesserat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 02, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NUM" lemma="16">xui</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="octobrius">octobris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="SUB" lemma="--">xn</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="--">xun</w>
+<w pos="VBE" lemma="regno">regnante</w>
+<w pos="NAM" lemma="--">Karolo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="rex">rege</w>
+<w pos="QLF" lemma="gloriosus">gloriosissimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="redintegro">redintegrante</w>
+<w pos="SUB" lemma="--">xn</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="uale">Uale</w>
+<w pos="ADV" lemma="feliciter">feliciter</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_229738" id_text_code="paris-notredame" num_cema="229738" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="11-1-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Homines Noselli confitentur se debere Garnero, præposito Succiaci, archidiacono ecclesie Parisiensis, gallinas et pullos, haud secus ac homines Succiaci." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 041." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="NUM" lemma="--">lxxn</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="epiphania1">epiphaniam</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1282_paris-notredame_229143" id_text_code="paris-notredame" num_cema="229143" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1282" date_cema14="-" date_ed="NA-7-1282" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Capitulum Parisiense defuncti Gilberti de Castro Forti, presbyteri canonici Sancti Dionysii de Passu, prebendam in duas dividit, unam sacerdotalem, et alteram subdiaconalem; statuitque quatuor alias ejusdem ecclesie prebendas, post mor tem prebendariorum, in octo dividendas esse, quarum quatuor sacerdotales erunt, duo subdiaconales et duo diaconales. Preterea decernit, circa diacono rum et subdiaconorum pradictæ ecclesie officium, varia quadam, que simul diaconis et subdiaconis Sancti Johannis Rotundi injunguntur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 126." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1282">mcclxxxii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

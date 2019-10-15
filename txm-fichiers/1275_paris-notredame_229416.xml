@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1275_paris-notredame_229416" id_text_code="paris-notredame" num_cema="229416" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1275" date_cema14="-" date_ed="28-8-1275" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Milo, abbas Ermeriarum, Premonstratensis ordinis, nomine domus Sancte Trinitatis, site Parisiis, juxta Crucem Reginæ, et abbatie Ermeriarum immediate subjecte, vendit Stephano, Parisiensi episcopo, pro quinquaginta libris Parisiensibus, jam ab eodem episcopo solutis, quinque sextarios sex minas tres minotos et tres boissellos avene, annui redditus, sex solidos et quatuor denarios capitalis census, et modium unum dimidiumque, quinquaginta sex sextarios quartariumque vini annui redditus, percipiendos e domibus et vineis, apud Sanctum Clodoaldum et in territorio ejusdem burgi sitis, quatuor quoque arpenta vinearum cum dodrante, in eodem territorio sita, et rotagium ville Sancti Clodoaldi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 152." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="decollatio">decollationem</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="-">Iohannis</w>
+<w pos="NAM" lemma="--">Baptiste</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="in">In</w>
+<w pos="NAM" lemma="--">Paruo</w>
+<w pos="NAM" lemma="--">Chartul</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=":">:</w>
+<w pos="NUM" lemma="septem">septem</w>
+<w pos="SUB" lemma="solidus2">solidos</w>
+<w pos="PRO" lemma="is2">ei</w>
+<w pos="NUM" lemma="duo">duo</w>
+<w pos="SUB" lemma="denarius2">denarios</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">ino</w>
+<w pos="VBE" lemma="--">Sonpoi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">iigobis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

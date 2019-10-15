@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1233_paris-notredame_228442" id_text_code="paris-notredame" num_cema="228442" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1233" date_cema14="-" date_ed="25-3-1233" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Hubertus de Barra et Auburgis, ejus uxor, Nicholao, Parisiensis ecclesiæ cantori, vendunt, pretio quindecim librarum Parisiensium arpenta duo et dimidium terræ, apud Laiacum sita, videlicet, septem quarteria in loco campus de Hemont nuncupato, et tria quarteria in loco dicto Counart." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 053." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="tricesimus">tricesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="NAM" lemma="--">Ramos</w>
+<w pos="SUB" lemma="palma">palmarum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

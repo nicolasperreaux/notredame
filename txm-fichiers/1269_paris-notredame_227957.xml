@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_227957" id_text_code="paris-notredame" num_cema="227957" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="11-2-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 222." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclx</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="brando">brandones</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecerunt</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="--">Guillelmus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Corbolio</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iuo</w>
+<w pos="NAM" lemma="-">brito</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="capella">capellam</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Eustachii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="PRO" lemma="hic3">hiis</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="possideo">possident</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="redditus2">redditibus</w>
+<w pos="QLF" lemma="suus">suis</w>
+<w pos="ADV" lemma="ultra1">ultra</w>
+<w pos="NUM" lemma="30">xxx</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="NAM" lemma="-">Parisienses</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="secundum1">secundum</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="VBE" lemma="contineo">continetur</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="littera">litteris</w>
+<w pos="QLF" lemma="officialis1">officialis</w>
+<w pos="SUB" lemma="curia">curie</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconi</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PRO" lemma="qui2">quas</w>
+<w pos="PRO" lemma="ipse2">ipsi</w>
+<w pos="SUB" lemma="capellanus2">capellani</w>
+<w pos="VBE" lemma="habeo">habent</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

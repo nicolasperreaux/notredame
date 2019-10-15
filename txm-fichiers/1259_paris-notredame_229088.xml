@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1259_paris-notredame_229088" id_text_code="paris-notredame" num_cema="229088" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1259" date_cema14="-" date_ed="NA-2-1259" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Reginaldi, Parisiensis episcopi, qua, cum executores testamenti defuneti Clementis, canonici Parisiensis, dedissent Parisiensi ecclesie, ad opus anniver sarii dicti Clementis, quatuor libras annui redditus, emptas a Gilone le Charron; ipse episcopus has quatuor libras in manu mortua possidendas concedit, acceptis ob hoc a dictis executoribus decem solidis Parisiensibus augmentati census, per cipiendis e quadam domo sita Parisiis, in terra episcopi, ante domum Odelinæ Scutiferæ, inter vicum de Nigella et domum Nicholai Marcheboue." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 071." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1258">mccluiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

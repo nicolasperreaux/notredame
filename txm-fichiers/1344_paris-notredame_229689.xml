@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1344_paris-notredame_229689" id_text_code="paris-notredame" num_cema="229689" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1344" date_cema14="-" date_ed="10-2-1344" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Fulco, Parisiensis episcopus, cum confratribus ecclesie Beate Marie de Bolonia, alias du Menu, prope Sanctum Clodoaldum, in ecclesiam parochialem erectæ, convenit de institutione presbyteri, de beneficiorum collatione et de procuratione episcopi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 061." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="acta">Acta</w>
+<w pos="VBE" lemma="sum">fuerunt</w>
+<w pos="PRO" lemma="hic3">hec</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Uictoris</w>
+<w pos="ADV" lemma="iuxta1">iuxta</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NAM" lemma="--">cccn</w>
+<w pos="NUM" lemma="quadragesimus">quadragesimo</w>
+<w pos="NUM" lemma="tertius">tertio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="VBE" lemma="--">xiia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="QLF" lemma="februarius1">februarii</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="sanctus1">sanctissimi</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Christo</w>
+<w pos="SUB" lemma="pater">patris</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Clementis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="dignus">digna</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="prouidentia">prouidentia</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="NUM" lemma="sextus">sexti</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

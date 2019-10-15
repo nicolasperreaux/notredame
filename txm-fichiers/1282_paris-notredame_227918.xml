@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1282_paris-notredame_227918" id_text_code="paris-notredame" num_cema="227918" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1282" date_cema14="-" date_ed="16-6-1282" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Ranulphus, Parisiensis episcopus, confirmat chartam, qua Euda, abbatissa Beatæ Mariæ de Gerciaco, numerum triginta monialium, qui ab initio fuerat in eodem monasterio constitutus, usque ad quadragenarium ampliat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 183." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Clodoaldum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="octogesimus">octogesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">martis</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="dictum">dictum</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Barnabe</w>
+<w pos="SUB" lemma="apostolus">apostoli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

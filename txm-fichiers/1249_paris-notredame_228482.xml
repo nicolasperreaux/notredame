@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1249_paris-notredame_228482" id_text_code="paris-notredame" num_cema="228482" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1249" date_cema14="-" date_ed="NA-4-1249" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Frater Radulphus, quondam abbas Sancti Victoris, magistri Raymundus et Hen ricus Tuebuef, canonici Parisienses, executores testamentarii defuncti Guil lelmi, Parisiensis episcopi, capitulo Beate Mariæ concedunt, ad opus anniver sarii ejusdem episcopi, die jovis ante Pascha Floridum celebrandi, tres modios bladi ybernagii, in decima de Maciaco annuatim percipiendos." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 093." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1240">mccxl</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

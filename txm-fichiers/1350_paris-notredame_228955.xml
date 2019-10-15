@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1350_paris-notredame_228955" id_text_code="paris-notredame" num_cema="228955" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1350" date_cema14="-" date_ed="17-10-1350" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Notitia receptionis domini Johannis, regnum Franciæ adepti et nuper inuncti, in ecclesia Parisiensi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 15, n° 014." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="natiuitas">natiuitate</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1300">mccc</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="quartus">quarta</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="QLF" lemma="octobrius">octobris</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="VBE" lemma="--">xuiia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="uidelicet">uidelicet</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Luce</w>
+<w pos="SUB" lemma="euangelista">euangeliste</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="hora">hora</w>
+<w pos="QLF" lemma="uesper1">uesperarum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NUM" lemma="decimus">Decimus</w>
+<w pos="NUM" lemma="sextus">Sextus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

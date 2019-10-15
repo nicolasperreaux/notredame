@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1285_paris-notredame_229854" id_text_code="paris-notredame" num_cema="229854" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1285" date_cema14="-" date_ed="NA-NA-1285" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 157." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="CON" lemma="si">Si</w>
+<w pos="SUB" lemma="clericus2">clerici</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="delinquo">deliquerunt</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="iurisdictio">iuridictione</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="ADV" lemma="non">non</w>
+<w pos="VBE" lemma="debeo">debent</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="CON" lemma="siue">seu</w>
+<w pos="PRO" lemma="is2">eius</w>
+<w pos="QLF" lemma="officialis1">officiali</w>
+<w pos="VBE" lemma="intro3">intrent</w>
+<w pos="SUB" lemma="claustrum">claustrum</w>
+<w pos="NAM" lemma="--">Parisiense</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="restituo">restitui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="sed">sed</w>
+<w pos="PRE" lemma="per">per</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="VBE" lemma="--">pugniri</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="iustitio">iusticiari</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="licet">licet</w>
+<w pos="SUB" lemma="gens">gentes</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="VBE" lemma="sequor">sequantur</w>
+<w pos="PRO" lemma="is2">eos</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

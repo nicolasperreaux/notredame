@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1428_paris-notredame_229624" id_text_code="paris-notredame" num_cema="229624" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1428" date_cema14="-" date_ed="4-3-1428" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Maitre Pierre Larchier, par lintermediaire dun procureur, se desiste de la poursuite intentee par lui contre Jean de Nant, eveque de Paris, et contre Jean de Celsbv, parce que ledit eveque avait mis ce dernier en possession et saisine de la maladrerie de Pomponne, pres de Lagnyssur¬Marne, que ledit Pierre Larchier avait dabord pretendu lui avoir ete assuree par le predecesseur de Jean." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 360." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="--">Fait</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="VBE" lemma="--">iiiie</w>
+<w pos="VBE" lemma="--">iour</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="-">mars</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="400">cccc</w>
+<w pos="VBE" lemma="--">uintsept</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1189_paris-notredame_228131" id_text_code="paris-notredame" num_cema="228131" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1189" date_cema14="-" date_ed="NA-NA-1189" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus, Nivernensis comes, annuente Agnete, uxore sua, præfatam donationem ratam habet." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 03, n° 010." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="hic3">Hoc</w>
+<w pos="CON" lemma="autem">autem</w>
+<w pos="VBE" lemma="facio">factum</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="PRE" lemma="a">ab</w>
+<w pos="SUB" lemma="incarnatio">incarnatione</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="NAM" lemma="--">C</w>
+<w pos="NAM" lemma="--">Lxxx</w>
+<w pos="NUM" lemma="9">Ix</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

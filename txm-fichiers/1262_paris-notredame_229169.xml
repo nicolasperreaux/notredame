@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1262_paris-notredame_229169" id_text_code="paris-notredame" num_cema="229169" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1262" date_cema14="-" date_ed="23-1-1262" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Dyonisia, relicta defuncti Guillelmi Albi Vituli, merceria, Johannes, filius ipsius, et Emelina, Johannis uxor, profitentur se vendidisse ecclesie Beate Marie Pa risiensis, ad opus horarum ejusdem ecclesiæ, pro septuaginta et octo libris et dimidia Parisiensibus, jam sibi solutis, ° viginti solidos Parisienses augmentati census e quadam domo sita Parisiis, in vico Johannis Pain Molet, colligendos; ° quatuor libras, tredecim solidos et tres denarios, de octo libris Parisiensibus, quas percipiebant ex alia domo, sita Parisiis, in judearia Sancti Boniti; ex qua debebantur duo solidi censuales et dimidius episcopo Parisiensi, novem denarii ecclesie Sancti Mederici, et sexaginta quatuor solidi et dimidius augmentati census." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 21, n° 002." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="conuersio">conuersionem</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Pauli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

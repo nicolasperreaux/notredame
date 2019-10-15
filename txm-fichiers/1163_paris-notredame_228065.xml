@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1163_paris-notredame_228065" id_text_code="paris-notredame" num_cema="228065" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1163" date_cema14="-" date_ed="NA-NA-1163" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Preceptum Alexandri pape de rebus canonicorum ordinandis. apr. circa." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 01, n° 012." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Alexander</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="seruus2">seruus</w>
+<w pos="SUB" lemma="seruus2">seruorum</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="dilectus1">dilectis</w>
+<w pos="SUB" lemma="filius">filiis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">C</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="uniuersus">uniuerso</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="apostolicus">apostolicam</w>
+<w pos="SUB" lemma="benedictio">benedictionem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="ex">Ex</w>
+<w pos="SUB" lemma="littera">litteris</w>
+<w pos="PRO" lemma="qui2">quas</w>
+<w pos="QLF" lemma="pius">pie</w>
+<w pos="SUB" lemma="recordatio">recordationis</w>
+<w pos="SUB" lemma="pater">pater</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="predecessor">predecessor</w>
+<w pos="QLF" lemma="noster">noster</w>
+<w pos="NAM" lemma="--">Eugenius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="papa">papa</w>
+<w pos="QLF" lemma="bonus">bone</w>
+<w pos="SUB" lemma="memoria">memorie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">T</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="quondam">quondam</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="QLF" lemma="uester">uestro</w>
+<w pos="VBE" lemma="indulgeo">indulsit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="agnosco">agnouimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="si">si</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="VBE" lemma="do">dandis</w>
+<w pos="SUB" lemma="maioria">maioriis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">aliis</w>
+<w pos="SUB" lemma="beneficium">beneficiis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="QLF" lemma="communis">communem</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="PRO" lemma="uos">uestri</w>
+<w pos="VBE" lemma="pertineo">pertinent</w>
+<w pos="SUB" lemma="dispositio">dispositionem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="possum">possetis</w>
+<w pos="ADV" lemma="minime">minime</w>
+<w pos="VBE" lemma="conuenio">conuenire</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="se">sibi</w>
+<w pos="VBE" lemma="liceo">liceret</w>
+<w pos="PRO" lemma="idem2">eadem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="SUB" lemma="assensus">assensu</w>
+<w pos="QLF" lemma="sanus">sanioris</w>
+<w pos="SUB" lemma="pars">partis</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="ordino">ordinare</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quas</w>
+<w pos="ADV" lemma="utique">utique</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="PRO" lemma="nos">nos</w>
+<w pos="QLF" lemma="uenerabilis">uenerabili</w>
+<w pos="SUB" lemma="frater">fratri</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="nunc">nunc</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="QLF" lemma="uester">uestro</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="SUB" lemma="predecessor">predecessoris</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="uestigium">uestigiis</w>
+<w pos="VBE" lemma="hereo">inherentes</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="modus">modum</w>
+<w pos="VBE" lemma="nouo">innouauimus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="uerum1">Uerum</w>
+<w pos="CON" lemma="quoniam">quoniam</w>
+<w pos="ADV" lemma="deinceps1">deinceps</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ex">ex</w>
+<w pos="PRO" lemma="uterque">utriusque</w>
+<w pos="SUB" lemma="pars">partis</w>
+<w pos="SUB" lemma="confessio">confessione</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="PRE" lemma="contra2">contra</w>
+<w pos="QLF" lemma="antiquus">antiquam</w>
+<w pos="SUB" lemma="consuetudo">consuetudinem</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="QLF" lemma="uester">uestre</w>
+<w pos="VBE" lemma="--">existil</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="is2">eos</w>
+<w pos="SUB" lemma="auctoritas">auctoritate</w>
+<w pos="SUB" lemma="littera">litterarum</w>
+<w pos="PRO" lemma="ille2">illarum</w>
+<w pos="ADV" lemma="non">non</w>
+<w pos="VBE" lemma="utor">usos</w>
+<w pos="VBE" lemma="sum">fuisse</w>
+<w pos="VBE" lemma="agnosco">agnouimus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="auctoritas">auctoritate</w>
+<w pos="QLF" lemma="apostolicus">apostolica</w>
+<w pos="VBE" lemma="duco">duximus</w>
+<w pos="VBE" lemma="statuo">statuendum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="QLF" lemma="supradictus">supradicti</w>
+<w pos="SUB" lemma="predecessor">predecessoris</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="littera">littere</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="siue">siue</w>
+<w pos="QLF" lemma="noster">nostre</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="nullus">nullum</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="posterus">posterum</w>
+<w pos="VBE" lemma="ualeo">ualeant</w>
+<w pos="SUB" lemma="preiudicium">preiudicium</w>
+<w pos="VBE" lemma="genero">generare</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quominus">quominus</w>
+<w pos="SUB" lemma="maioria">maiorias</w>
+<w pos="QLF" lemma="uester">uestras</w>
+<w pos="CON" lemma="uel">uel</w>
+<w pos="QLF" lemma="alius">alia</w>
+<w pos="SUB" lemma="beneficium">beneficia</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="QLF" lemma="uester">uestram</w>
+<w pos="ADV" lemma="solummodo">solummodo</w>
+<w pos="VBE" lemma="specto">spectant</w>
+<w pos="SUB" lemma="dispositio">dispositionem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="secundum1">secundum</w>
+<w pos="QLF" lemma="antiquus">antiquam</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="QLF" lemma="uester">uestre</w>
+<w pos="SUB" lemma="consuetudo">consuetudinem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="possum">possitis</w>
+<w pos="QLF" lemma="liber2">libere</w>
+<w pos="VBE" lemma="ordino">ordinare</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="16">xui</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="maius2">maii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

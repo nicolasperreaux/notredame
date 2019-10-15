@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1264_paris-notredame_229116" id_text_code="paris-notredame" num_cema="229116" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1264" date_cema14="-" date_ed="4-7-1264" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Floriaco in Bieria, Senonensis diccesis, miles, et Guillelmus, ejus filius, clericus, profitentur se recepisse a capitulo Parisiensi duas domos conti guas, sitas Parisiis, ad quindecim libras Parisienses annui redditus; ita tamen quod dominus Martinus de Auberti Villari teneat, vita sua durante, domum quæ contigua est ecclesie Sanctæ Marine, et solvat annis singulis capitulo, pro dicta domo, sexaginta solidos Parisienses, de dictis quindecim libris deducendos." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 099." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="VBE" lemma="--">mcclxiiiit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="SUB" lemma="apostoli">apostolorum</w>
+<w pos="NAM" lemma="--">Petri</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Pauli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

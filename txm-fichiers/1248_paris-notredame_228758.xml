@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1248_paris-notredame_228758" id_text_code="paris-notredame" num_cema="228758" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1248" date_cema14="-" date_ed="NA-7-1248" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Aubertus de Pooli, miles, et Heloysis, ejus uxor, medietatem indivisam decimæ de Chateleinnes, in territorio de Coongnoliis, capitulo Parisiensi vendunt, pro centum et decem libris Parisiensibus; e quibus libræ centum, ad opus anniver sariorum Petri, quondam cancellarii ecclesie Parisiensis, et Petri de Fontaneto, in eadem ecclesia vicarii, imputantur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 08, n° 016." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="quadragesimus">quadragesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

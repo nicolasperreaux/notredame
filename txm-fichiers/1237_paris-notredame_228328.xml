@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1237_paris-notredame_228328" id_text_code="paris-notredame" num_cema="228328" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1237" date_cema14="-" date_ed="12-6-1237" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Bulla Gregorii IX, papæ, qua Remensi archiepiscopo, episcopo Parisiensi et Ambianensi decano committit officium manutencndi et defendendi, per quinque annos continuos, immunitates et libertates ab ipso Gregorio magistris et scholaribus Parisiensibus concessas." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 037." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Uiterbii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">n</w>
+<w pos="SUB" lemma="idus">idus</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="11">xi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

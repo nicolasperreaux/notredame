@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1316_paris-notredame_229504" id_text_code="paris-notredame" num_cema="229504" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1316" date_cema14="-" date_ed="7-2-1316" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Heloys la Berarde, seur et heritiere d Enguerran, cure de Gentilli, vend a Guillaume Bauffet, eveque de Paris, moyennant quarante sous parisis de bonne et forte monnaie, cinq sous parisis de cens annuel, a prendre immediatement apres six deniers de fonds de terre, sur une terre labourable, situee au lieu dit la Mote, territoire de Gentilli, dans la censive de Teveque et du prieur de SaintDenissdecla¬Chartre." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 240." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Dan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grice</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="VBE" lemma="--">cens</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">neuf</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="SUB" lemma="--">samedi</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="NAM" lemma="--">Chandelleur</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

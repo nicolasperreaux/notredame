@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1204_paris-notredame_228915" id_text_code="paris-notredame" num_cema="228915" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1204" date_cema14="-" date_ed="NA-NA-1204" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gaucherus de Castellione, dimisso gruagio, quod requirebat a capitulo Parisiensi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 014." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="terra">terra</w>
+<w pos="VBE" lemma="sino">sita</w>
+<w pos="PRE" lemma="inter">inter</w>
+<w pos="NAM" lemma="--">Noas</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Moriacum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quam">quam</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="mors">mortem</w>
+<w pos="SUB" lemma="pater">patris</w>
+<w pos="QLF" lemma="suus">sui</w>
+<w pos="VBE" lemma="exstirpo">exstirpatam</w>
+<w pos="VBE" lemma="sum">esse</w>
+<w pos="VBE" lemma="dico2">dicebat</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="concedo">concedit</w>
+<w pos="CON" lemma="preterea">preterea</w>
+<w pos="VBE" lemma="dico2">dicto</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="SUB" lemma="gruagium">gruagium</w>
+<w pos="NUM" lemma="nonaginta">nonaginta</w>
+<w pos="SUB" lemma="aripennis">arpentorum</w>
+<w pos="SUB" lemma="terra">terre</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="aripennis">arpentum</w>
+<w pos="NAM" lemma="--">Montis</w>
+<w pos="NAM" lemma="--">Gaii</w>
+<w pos="SUB" lemma="pertica">perticam</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="NUM" lemma="uiginti">uiginti</w>
+<w pos="NUM" lemma="duo">duorum</w>
+<w pos="SUB" lemma="pes">pedum</w>
+<w pos="SUB" lemma="mensor">mensorum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="terra">terra</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="PRE" lemma="inter">inter</w>
+<w pos="NAM" lemma="--">Noas</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Montem</w>
+<w pos="NAM" lemma="--">Gaium</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="quartus">quarto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

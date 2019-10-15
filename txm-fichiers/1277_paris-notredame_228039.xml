@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1277_paris-notredame_228039" id_text_code="paris-notredame" num_cema="228039" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1277" date_cema14="-" date_ed="13-6-1277" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Feodum situm in vico Sancti Bonniti Parisius." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 304." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="NAM" lemma="--">Barbete</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ciuis">ciuis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclxx</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Barnabe</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="feodum">feodo</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="VBE" lemma="sum">fuit</w>
+<w pos="NAM" lemma="--">Guillelmi</w>
+<w pos="NAM" lemma="--">Barbete</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="situs1">sito</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uicus">uico</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Bonniti</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Clodoaldum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="camera">camera</w>
+<w pos="VBE" lemma="dico2">dicti</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

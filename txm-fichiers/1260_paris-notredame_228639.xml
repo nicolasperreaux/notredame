@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1260_paris-notredame_228639" id_text_code="paris-notredame" num_cema="228639" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1260" date_cema14="-" date_ed="22-4-1260" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Reginaldus, Parisiensis episcopus, notificat Johannem, rectorem ecclesie Suc decim libris Parisiensibus, dimidium arpentum vineæ, situm in dicta parecia, in territorio quod dicitur Campi Sancti Dionysii." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 05, n° 023." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Marci</w>
+<w pos="SUB" lemma="euangelista">euangeliste</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

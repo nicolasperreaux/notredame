@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1250_paris-notredame_227931" id_text_code="paris-notredame" num_cema="227931" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1250" date_cema14="-" date_ed="10-7-1250" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 196." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="translatio">translationem</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="porto">portauerunt</w>
+<w pos="SUB" lemma="episcopus">episcopum</w>
+<w pos="NAM" lemma="--">Reginaldum</w>
+<w pos="QLF" lemma="castellanus1">castellanus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lupera</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Bartholomeus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Codreio</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Guido</w>
+<w pos="NAM" lemma="--">Lupi</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="SUB" lemma="rex">rege</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Caprosia</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="comes">Comes</w>
+<w pos="NAM" lemma="--">Barri</w>
+<w pos="VBE" lemma="excuso">excusauit</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="PRE" lemma="per">per</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="QLF" lemma="suus">suas</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="mitto">misit</w>
+<w pos="QLF" lemma="quidam">quemdam</w>
+<w pos="SUB" lemma="miles">militem</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="porto">portauit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

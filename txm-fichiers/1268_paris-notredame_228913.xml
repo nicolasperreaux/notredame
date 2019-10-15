@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1268_paris-notredame_228913" id_text_code="paris-notredame" num_cema="228913" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1268" date_cema14="-" date_ed="23-4-1268" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Stephanus de Espieriis, falconerius, et Sanctisma, uxor ejus, declarant se conces sisse capitulo Parisiensi viginti novem denarios Parisienses annui augmentati census, quos percipiebant in masuris sitis apud Mesnilium Domine Ranciæ, et duodecim denarios augmentati census e quadam oschia, sita apud Mintriacum, levandos; ea lege ut pradicti Stephanus et Sanctisma teneant deinceps ad capi talem censum unius denarii, unum arpentum terræ arabilis, situm inter Mesni lium et Espierios, in territorio quod vocatur Martrum, quod prefati Stephanus et Sanctisma tenebant antea a dicto capitulo ad tercionariam." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 012." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1268">mcclxuiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Marci</w>
+<w pos="SUB" lemma="euangelista">euangeliste</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_229723" id_text_code="paris-notredame" num_cema="229723" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="NA-NA-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Statutum in capitulo, anno Domini mcclxii° nono." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 026." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="computus">Compotus</w>
+<w pos="SUB" lemma="uinum">uini</w>
+<w pos="VBE" lemma="sum">erit</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="ceterus">cetero</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="crastinus">crastino</w>
+<w pos="SUB" lemma="natiuitas">natiuitatis</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="-">Iohannis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="nisi">nisi</w>
+<w pos="SUB" lemma="crastinum">crastinum</w>
+<w pos="VBE" lemma="euenio">euenerit</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="dico2">dictus</w>
+<w pos="SUB" lemma="computus">compotus</w>
+<w pos="QLF" lemma="--">diffeCompotus</w>
+<w pos="SUB" lemma="panis">panis</w>
+<w pos="VBE" lemma="sum">erit</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Bartholomei</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="nisi">nisi</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="sum">erit</w>
+<w pos="SUB" lemma="sabbatum">sabbato</w>
+<w pos="VBE" lemma="precedo">precedenti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="computus">Compotus</w>
+<w pos="SUB" lemma="hora">horarum</w>
+<w pos="VBE" lemma="fio">fiet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="SUB" lemma="apostoli">apostolorum</w>
+<w pos="NAM" lemma="-">Symonis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iude</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="nisi">nisi</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="fio">fiet</w>
+<w pos="SUB" lemma="sabbatum">sabbato</w>
+<w pos="VBE" lemma="precedo">precedenti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="computus">Compotus</w>
+<w pos="QLF" lemma="matutinus1">matutinarum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="anniuersarius">anniuersariorum</w>
+<w pos="VBE" lemma="sum">erit</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="crastinus">crastino</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="QLF" lemma="hiemalis">hyemalis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="nisi">nisi</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="differo">differetur</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="dies">diem</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="VBE" lemma="sequor">sequentem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="computus">Compotus</w>
+<w pos="SUB" lemma="camera">camere</w>
+<w pos="VBE" lemma="fio">fiet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Thome</w>
+<w pos="SUB" lemma="apostolus">apostoli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="nisi">nisi</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="fio">fiet</w>
+<w pos="SUB" lemma="sabbatum">sabbato</w>
+<w pos="VBE" lemma="precedo">precedenti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="computus">Compotus</w>
+<w pos="SUB" lemma="anniuersarius">anniuersariorum</w>
+<w pos="QLF" lemma="foraneus">foraneorum</w>
+<w pos="VBE" lemma="sum">erit</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="QLF" lemma="propinquus1">proxima</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="dictum">dictum</w>
+<w pos="SUB" lemma="computus">compotum</w>
+<w pos="SUB" lemma="camera">camere</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="nisi">nisi</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="ADV" lemma="similiter">similiter</w>
+<w pos="QLF" lemma="dominicus1">dominica</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="tum">tunc</w>
+<w pos="VBE" lemma="fio">fiet</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="VBE" lemma="precedo">precedenti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="sabbatum">sabbato</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="NAM" lemma="--">Ocult</w>
+<w pos="ADV" lemma="met">met</w>
+<w pos="SUB" lemma="computus">compotus</w>
+<w pos="SUB" lemma="denarius2">denariorum</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

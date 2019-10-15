@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1237_paris-notredame_228472" id_text_code="paris-notredame" num_cema="228472" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1237" date_cema14="-" date_ed="NA-NA-1237" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Curiaco, pelliparius, et Odelina, ejus uxor, Guillelmo Cimino, Mal. ecclesie Beatæ Marie matriculario, vendunt, pro quadraginta quinque solidis Parisiensibus, sibi solutis, dimidium arpentum vineæ, prope Montem Cevria cum, in territorio de Soleriis, situm." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 083." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1237">mccxxxuii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="maius2">mayo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

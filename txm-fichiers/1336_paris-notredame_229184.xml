@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1336_paris-notredame_229184" id_text_code="paris-notredame" num_cema="229184" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1336" date_cema14="-" date_ed="31-7-1336" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Acte passe par Pierre Belagent, garde de la prevote de Paris, par¬devant lequel Simon, dit Cordelier de Maci, chevalier, produit : o une charte de Philippe V, du mois de mars (), confirmee par Philippe VI, le avril , qui lui concede la faculte dacquerir, en ses fiefs et arrieresfiefs, des terres et rentes, jusqu°a concurrence de s livres parisis, et de les transporter a toutes personnes, ecclesiastiques ou laiques, nobles ou bourgeois, a tous couvents ou communautes quelconques; ° des lettres royaux, datees de Brunay, au mois de juillet , autorisant Simon de Maci a transporter son privilege au chapitre de Paris, moyennant recompense suffisante. Usant du contenu de ces lettres, Simon vend les droits plus haut exprimes au chapitre, qui lui donne en retour livres parisis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 21, n° 017." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">nous</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="SUB" lemma="requesta">requeste</w>
+<w pos="NUM" lemma="--">dudit</w>
+<w pos="VBE" lemma="--">cheualier</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">auons</w>
+<w pos="SUB" lemma="--">faict</w>
+<w pos="QLF" lemma="--">mettre</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ices</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">seel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ladicte</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="--">faictes</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">donnees</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="VBE" lemma="--">mercredi</w>
+<w pos="VBE" lemma="--">derrenier</w>
+<w pos="NAM" lemma="--">iour</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="NAM" lemma="--">mois</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="VBE" lemma="--">iuingnet</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Grace</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="336">cccxxxui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NAM" lemma="--">Uigesimus</w>
+<w pos="NUM" lemma="secundus">Secundus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

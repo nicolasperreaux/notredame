@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1221_paris-notredame_229108" id_text_code="paris-notredame" num_cema="229108" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1221" date_cema14="-" date_ed="NA-NA-1221" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Gaufridi decani et capituli Parisiensis, qua notum fit Paganum, canonicum Sancti Johannis Rotundi, instituisse in perpetuum, in ecclesia Parisiensi, sacerdotem qui, pro anima ejusdem Pagani, diebus singulis missam cele braret, et ad sustentationem dicti sacerdotis assignasse quatuor arpenta vinearum, sitarum apud Montem Martyrum, et duas domos sitas, unam videlicet in vico qui dicitur Sachalia, et alteram juxta Sanctum Germanum de Pratis, super calceatam." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 091." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="QLF" lemma="dominicus1">Dominice</w>
+<w pos="SUB" lemma="incarnatio">incarnationis</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

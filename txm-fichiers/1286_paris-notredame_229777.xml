@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1286_paris-notredame_229777" id_text_code="paris-notredame" num_cema="229777" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1286" date_cema14="-" date_ed="16-10-1286" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes dictus Meresse, de Civilliaco, incolens Parisiis, et Isabellis, ejus uxor, a capitulo Parisiensi, ad annuum censum centum solidorum Parisiensium, accipiunt, quamdiu vivent tenenda, septem arpenta vinearum et pressorium capituli, prope Templum, in territorio de Divis sita." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 080." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="octogesimus">octogesimo</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="VBE" lemma="octo2">octabis</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="-">Dyonisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_227981" id_text_code="paris-notredame" num_cema="227981" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="18-2-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 246." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclxx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="SUB" lemma="cinis">cinerum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="uidelicet">uidelicet</w>
+<w pos="SUB" lemma="--">xn</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="martius">martii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domibus</w>
+<w pos="QLF" lemma="episcopalis">episcopalibus</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="domina">domina</w>
+<w pos="NAM" lemma="--">Margareta</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Plesseio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="relinquo">relicta</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Roberti</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Plesseio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Nemoribus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Coms</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="VBE" lemma="--">demainne</w>
+<w pos="VBE" lemma="dico2">dicti</w>
+<w pos="SUB" lemma="maritus2">mariti</w>
+<w pos="QLF" lemma="suus">sui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="VBE" lemma="sino">situm</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uicus">uico</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="NAM" lemma="--">Autisiodorensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="quidam">quibusdam</w>
+<w pos="QLF" lemma="alius">aliis</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="debeo">debet</w>
+<w pos="VBE" lemma="trado">tradere</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="scriptum">scriptis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

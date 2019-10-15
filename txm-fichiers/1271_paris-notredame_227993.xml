@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_227993" id_text_code="paris-notredame" num_cema="227993" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="30-5-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 258." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NAM" lemma="--">Lxxmo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Pentechosten</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="domicella">domicella</w>
+<w pos="NAM" lemma="--">Aalipdis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="relinquo">relicta</w>
+<w pos="NAM" lemma="--">Gazonis</w>
+<w pos="QLF" lemma="armiger1">armigeri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Combisuilla</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domibus</w>
+<w pos="QLF" lemma="suus">suis</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="PRO" lemma="hic3">hiis</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="habeo">habet</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Combisuillam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="debeo">debet</w>
+<w pos="VBE" lemma="trado">tradere</w>
+<w pos="SUB" lemma="pars">partes</w>
+<w pos="PRE" lemma="infra2">infra</w>
+<w pos="NUM" lemma="quadraginta">quadraginta</w>
+<w pos="SUB" lemma="dies">dies</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1268_paris-notredame_227948" id_text_code="paris-notredame" num_cema="227948" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1268" date_cema14="-" date_ed="19-11-1268" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 213." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="NAM" lemma="--">Cc</w>
+<w pos="NAM" lemma="--">Lx</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="ADV" lemma="post1">post</w>
+<w pos="VBE" lemma="octo2">octabas</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Martini</w>
+<w pos="QLF" lemma="hiemalis">hyemalis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Uictorem</w>
+<w pos="NAM" lemma="--">Gaufridus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decanus">decanus</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="decanatus">decanatu</w>
+<w pos="QLF" lemma="suus">suo</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="pertinentia">pertinentiis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="saluus">saluo</w>
+<w pos="SUB" lemma="ius">iure</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1302_paris-notredame_229213" id_text_code="paris-notredame" num_cema="229213" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1302" date_cema14="-" date_ed="5-3-1302" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta qua Leonardo de Flisco, Brugensi præposito et canonico Parisiensi, confe renti ducentas libras Parisienses ecclesie Beate Marie, conceditur, versa vice, a capitulo Parisiensi, « quod, ad quemcumque locum ipsum ex nunc contigerit de clinare, ipse, per certum suum nuncium seu mandatum, tam in absentia quam in presentia, quoad vixerit, integre panem percipiat, quem percipere consueverunt canonici in ipsa ecclesia residentes; quodque, eo sublato de medio, super red ditibus ad cameram ecclesie nostre spectantibus, anno quolibet, capiantur octo libre Parisienses, pro ipsius anniversario." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 029." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="QLF" lemma="--">tricentesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="quintus">quinta</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="SUB" lemma="martius">martii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

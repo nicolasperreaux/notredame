@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1310_paris-notredame_229532" id_text_code="paris-notredame" num_cema="229532" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1310" date_cema14="-" date_ed="11-3-1310" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Jean Bougis, de Lourcines, et Jeanne, sa femme, vendent a Guillaume Baufet, eveque de Paris, moyennant sept livres parisis, quils declarent avoir recues, douse sous parisis de rente perpetuelle, a prendre sur une maison avec jardin, situee a Gentilly, dans la censive et seigneurie dudit eveque." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 268." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Lran</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">neuf</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="VBE" lemma="--">mescredi</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">les</w>
+<w pos="NAM" lemma="--">Brandons</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

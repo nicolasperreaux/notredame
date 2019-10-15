@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1302_paris-notredame_228615" id_text_code="paris-notredame" num_cema="228615" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1302" date_cema14="-" date_ed="5-7-1302" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Robert, sire de La Roche, chevalier, et Jolent, sa femme, declarent avoir vendu au chapitre de Paris les fiefs, immeubles et revenus mentionnes dans la charte qui precede, avec la seigneurie, juridiction, justice, propriete, possession, tous droits et toutes actions quils peuvent avoir sur les objets vendus, moyen nant quatore cents livres tournois simples, que les vendeurs declarent avoir recues." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 04, n° 036." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="--">Fait</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="domina">donne</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="QLF" lemma="--">iuedi</w>
+<w pos="SUB" lemma="--">empres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="SUB" lemma="festa1">feste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Martin</w>
+<w pos="VBE" lemma="--">dreste</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Lan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="VBE" lemma="--">cens</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">deu</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

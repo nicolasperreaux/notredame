@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1259_paris-notredame_228591" id_text_code="paris-notredame" num_cema="228591" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1259" date_cema14="-" date_ed="NA-4-1259" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Nobilis mulier Aalipdis, domina de Salicibus, profitetur se vendidisse capitulo Pari siensi, pro trecentis et viginti libris, jam sibi solutis, quidquid habebat ipsa apud Erblaium, in domibus, terris, masuris, hortis seu jardinis, pratis, vineis, reddi tibus, censivis, juribus seu dreituris, corveiis et emendis et aliis possessionibus quibuscumque, ubicumque sint et quocumque nomine censeantur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 04, n° 012." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

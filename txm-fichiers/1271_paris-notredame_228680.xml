@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_228680" id_text_code="paris-notredame" num_cema="228680" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="10-12-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guerinus dictus Chaesniaus, major de Monte Gilardi, et Isabellis, ejus uxor, significant se vendidisse capitulo Parisiensi, pro centum septuaginta et octo libris Turonensibus, jam sibi solutis : I° quoddam manerium, situm in parrochia de Cellis, in nemoribus quæ dicuntur nemora Nostre Dominæ, et vocatur domus des Marois, et nonaginta arpenta terræ arabilis, sita juxta dictum manerium in censiva capituli Parisiensis, cui ex quolibet arpento solvebantur annuatim qua tuor denarii census; ° quatuor arpenta vinee, duo videlicet apud Rubretam et duo apud Ruppem, in censiva capituli, quod ex quolibet arpento percipiebat Cellis, juxta prata capituli, in censiva ejusdem ad duo denarios censuales." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="QLF" lemma="hiemalis">hyemale</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Nicholai</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

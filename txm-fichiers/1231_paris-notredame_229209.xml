@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1231_paris-notredame_229209" id_text_code="paris-notredame" num_cema="229209" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1231" date_cema14="-" date_ed="NA-NA-1231" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Capitulum Parisiense sex quarteria vinee, unum arpentum terre arabilis et tres solidos incrementi census, que Bernardus, Sancti Laurentii presbyter, nomine presbyterii, pro sexdecim denariis annuatim solvendis, tenebat in censiva capi tuli Parisiensis, eidem presbytero in manu mortua possidenda, concedit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 025." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="tricesimus">tricesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

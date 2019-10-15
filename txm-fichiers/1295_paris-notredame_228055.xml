@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1295_paris-notredame_228055" id_text_code="paris-notredame" num_cema="228055" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1295" date_cema14="-" date_ed="7-7-1295" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Bulla Bonifacii VIII papæ, qua decano et capitulo ecclesiæ Parisiensis indulget, ut nullus delegatus vel subdelegatus ab eo, executor aut etiam conservator a sede apostolica deputatus, sive legatus sedis ejusdem, possit in ipsos excommunicationis sive interdicti sententiam promulgare." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 01, n° 002." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Anagnie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="nonus">nonis</w>
+<w pos="QLF" lemma="iuliarius">iulii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="innocenter">Innocentius</w>
+<w pos="PRO" lemma="ille2">Illi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Martinus</w>
+<w pos="VBE" lemma="eo2">Iui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="nicolaus">Nicolaus</w>
+<w pos="NUM" lemma="4">Iiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

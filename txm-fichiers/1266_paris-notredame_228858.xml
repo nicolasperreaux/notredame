@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1266_paris-notredame_228858" id_text_code="paris-notredame" num_cema="228858" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1266" date_cema14="-" date_ed="NA-8-1266" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Petrus major Ligerus Gaine, Johannes Vaalin, Sancius de Curia et Garinus de Logiis a capitulo Parisiensi grangiam de Altervillari, apud Corberosam, quam tenebat antea Andræas de Stampis, ad firmam recipiunt, sub ea conditione, ut statio una in quadragesima, non excedens quatuor libras Parisienses et dimi diam, ac septuaginta libre Parisienses, annuatim, duobus terminis, ab ipsis solvantur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 11, n° 012." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="60">lx</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="augustus1">augusto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

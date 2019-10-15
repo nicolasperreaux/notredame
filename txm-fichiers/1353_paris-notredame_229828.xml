@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1353_paris-notredame_229828" id_text_code="paris-notredame" num_cema="229828" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1353" date_cema14="-" date_ed="20-12-1353" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta compositionis initæ inter capitulum Parisiense et monachos Sancti Victoris, de ipsorum contributione in restaurandis adificiis villarum, ubi canonici Parisienses prebendas suas, et monachi annalia habent; qua quidem compositione statuitur, ut, pro quavis prebenda in qua percipientur annalia, monachi canonico prebendato quadraginta solidos Parisienses, reparandorum adificiorum gratia, annuatim solvant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 131." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="acta">Acta</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="concordatio">concordata</w>
+<w pos="VBE" lemma="sum">fuerunt</w>
+<w pos="QLF" lemma="predictus">predicta</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="dictus">dicte</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="hora">hora</w>
+<w pos="VBE" lemma="capitulo">capitulari</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Thome</w>
+<w pos="SUB" lemma="apostolus">apostoli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qua</w>
+<w pos="PRO" lemma="nos">nos</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decanus">decanus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="sonus2">sonum</w>
+<w pos="SUB" lemma="campana">campane</w>
+<w pos="VBE" lemma="congrego">congregati</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="celebro">celebrauimus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="teneo">tenuimus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="SUB" lemma="mora1">moris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="nos">nostrum</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="QLF" lemma="generalis">generale</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="in">In</w>
+<w pos="PRO" lemma="qui2">quorum</w>
+<w pos="SUB" lemma="testimonium">testimonium</w>
+<w pos="CON" lemma="atque">atque</w>
+<w pos="SUB" lemma="robur">robur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="sigillum">sigilla</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="VBE" lemma="appono">apponi</w>
+<w pos="VBE" lemma="facio">fecimus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="appendo">appendi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="tertius">tercio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1198_paris-notredame_228135" id_text_code="paris-notredame" num_cema="228135" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1198" date_cema14="-" date_ed="NA-NA-1198" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Theobaldi Trecensis comitis Palatini, qua notum facit se ratam habere donationem quindecim librarum Pruviniensium, quam Maria comitissa, mater ipsius, pro anniversario Gaufridi, comitis Britanniæ, ecclesiæ Parisiensi contulerat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 03, n° 014." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="incarnatio">incarnationis</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NUM" lemma="centesimus">centesimo</w>
+<w pos="NUM" lemma="nonagesimus">nonagesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Columbare</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="per">per</w>
+<w pos="SUB" lemma="manus2">manum</w>
+<w pos="NAM" lemma="--">Gualteri</w>
+<w pos="SUB" lemma="cancellarius">cancellarii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="notus">Nota</w>
+<w pos="NAM" lemma="--">Petri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

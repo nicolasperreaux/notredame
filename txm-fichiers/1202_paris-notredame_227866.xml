@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1202_paris-notredame_227866" id_text_code="paris-notredame" num_cema="227866" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1202" date_cema14="-" date_ed="NA-NA-1202" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 131." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="abbas">abbas</w>
+<w pos="NAM" lemma="--">Pontiniacensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="authenticus">autenticum</w>
+<w pos="VBE" lemma="scribo1">scriptum</w>
+<w pos="VBE" lemma="inspicio">inspexi</w>
+<w pos="QLF" lemma="munitus">munitum</w>
+<w pos="SUB" lemma="sigillum">sigillis</w>
+<w pos="SUB" lemma="abbas">abbatis</w>
+<w pos="QLF" lemma="sanctus1">Sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="qui2">quo</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="uerbum">uerbo</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="uerbum">uerbum</w>
+<w pos="VBE" lemma="contineo">continebatur</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="ADV" lemma="superius">superius</w>
+<w pos="VBE" lemma="contineo">continetur</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">Et</w>
+<w pos="PRO" lemma="hic3">huius</w>
+<w pos="SUB" lemma="res">rei</w>
+<w pos="SUB" lemma="testimonium">testimonium</w>
+<w pos="QLF" lemma="presens">presenti</w>
+<w pos="SUB" lemma="pagina">pagine</w>
+<w pos="SUB" lemma="sigillum">sigillum</w>
+<w pos="QLF" lemma="meus">meum</w>
+<w pos="VBE" lemma="appono">apposui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">Girardus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="abbas">abbas</w>
+<w pos="QLF" lemma="sacer">Sacri</w>
+<w pos="NAM" lemma="--">Portus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Cysterciensis</w>
+<w pos="SUB" lemma="ordo">ordinis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="authenticus">autenticum</w>
+<w pos="VBE" lemma="scribo1">scriptum</w>
+<w pos="VBE" lemma="inspicio">inspexi</w>
+<w pos="QLF" lemma="munitus">munitum</w>
+<w pos="SUB" lemma="sigillum">sigillis</w>
+<w pos="SUB" lemma="abbas">abbatis</w>
+<w pos="QLF" lemma="sanctus1">Sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="qui2">quo</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="uerbum">uerbo</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="uerbum">uerbum</w>
+<w pos="VBE" lemma="contineo">continebatur</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="ADV" lemma="superius">superius</w>
+<w pos="VBE" lemma="contineo">continetur</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">Et</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="hic3">huius</w>
+<w pos="SUB" lemma="res">rei</w>
+<w pos="SUB" lemma="testimonium">testimonium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presenti</w>
+<w pos="SUB" lemma="pagina">pagine</w>
+<w pos="SUB" lemma="sigillum">sigillum</w>
+<w pos="QLF" lemma="meus">meum</w>
+<w pos="VBE" lemma="appono">apposui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">Seboinus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="abbas">abbas</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="-">Sulpicii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Cysterciensis</w>
+<w pos="SUB" lemma="ordo">ordinis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="authenticus">autenticum</w>
+<w pos="VBE" lemma="scribo1">scriptum</w>
+<w pos="VBE" lemma="inspicio">inspexi</w>
+<w pos="QLF" lemma="munitus">munitum</w>
+<w pos="SUB" lemma="sigillum">sigillis</w>
+<w pos="SUB" lemma="abbas">abbatis</w>
+<w pos="QLF" lemma="sanctus1">Sancte</w>
+<w pos="NAM" lemma="--">Genouefe</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="qui2">quo</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="uerbum">uerbo</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="uerbum">uerbum</w>
+<w pos="VBE" lemma="contineo">continebatur</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="ADV" lemma="superius">superius</w>
+<w pos="VBE" lemma="contineo">continetur</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">Et</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="hic3">huius</w>
+<w pos="SUB" lemma="res">rei</w>
+<w pos="SUB" lemma="testimonium">testimonium</w>
+<w pos="QLF" lemma="presens">presenti</w>
+<w pos="SUB" lemma="pagina">pagine</w>
+<w pos="SUB" lemma="sigillum">sigillum</w>
+<w pos="QLF" lemma="meus">meum</w>
+<w pos="VBE" lemma="appono">apposui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

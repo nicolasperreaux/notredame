@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1270_paris-notredame_227976" id_text_code="paris-notredame" num_cema="227976" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1270" date_cema14="-" date_ed="11/06/70" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Dominus Johannes dictus Lisiart, de Coudroi, miles, fecit homagium jun ligium domino Stephano Parisiensi episcopo, de medietate de Limoes, quam tenet in retrofeodum de episcopo Parisiensi, anno Domini MCCLXX die mercurii in festo beati Barnabe apostoli, Parisius, in aula episcopi inferiori juxta coquinam." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 241." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Guillelmus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="filius">filius</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Guillelmi</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Noisement</w>
+<w pos="ADV" lemma="quondam">quondam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="census">censibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mansura">masuris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="--">retrofeodis</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="habeo">habet</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Moyssi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="PRO" lemma="qui2">quibus</w>
+<w pos="VBE" lemma="debeo">debet</w>
+<w pos="VBE" lemma="trado">tradere</w>
+<w pos="SUB" lemma="pars">partes</w>
+<w pos="PRE" lemma="infra2">infra</w>
+<w pos="QLF" lemma="--">Xl</w>
+<w pos="SUB" lemma="dies">dies</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="presens">Presentibus</w>
+<w pos="NAM" lemma="--">Matheo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="uenerabilis">uenerabili</w>
+<w pos="SUB" lemma="abbas">abbate</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="-">Dyonisii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="petro">Petro</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Baugi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="clericus2">clerico</w>
+<w pos="NAM" lemma="--">Regine</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="canonicus1">canonico</w>
+<w pos="NAM" lemma="--">Remensi</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Radulpho</w>
+<w pos="VBE" lemma="--">despone</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capellanus2">capellano</w>
+<w pos="NAM" lemma="--">Regine</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

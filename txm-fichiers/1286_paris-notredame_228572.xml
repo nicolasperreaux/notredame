@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1286_paris-notredame_228572" id_text_code="paris-notredame" num_cema="228572" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1286" date_cema14="-" date_ed="27-11-1286" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Frater Radulphus de Aurelianis, locum tenens magistri domus hospitalis Sancti Johannis Hierosolymitani in Francie prioratu, profitetur se, fratrum suorum consilio et assensu, vendidisse venerabili viro magistro Johanni de Bercendi curia, canonico Parisiensi, pro quadraginta quinque libris Parisiensibus, jam solutis, arpenta quinque et dimidium terre arabilis, dimidium arpentum vineæ, et dimidium quarterium in clauso de Sauceyo situm; quæ omnia, apud Castanetum sita, dictæ domui, pro salute anime suæ, contulerat frater Odo de Castaneto." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 064." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="octogesimus">octogesimo</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Katerine</w>
+<w pos="SUB" lemma="uirgo">uirginis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

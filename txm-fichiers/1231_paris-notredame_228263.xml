@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1231_paris-notredame_228263" id_text_code="paris-notredame" num_cema="228263" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1231" date_cema14="-" date_ed="NA-10-1231" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guido de Lanorvilla , canonicus Aurelianensis , asserit se vendidisse ecclesiæ Beatæ Mariæ Parisiensis, pro quingentis libris Parisiensibus sibi solutis, decimani bladi et tractum decimæ apud Lanorvillam, seque eidem ecclesiæ concessisse facultatem emendi in feodo suo de Lanorvilla unum arpentumterræ, omni onere, consuetudine atque censu liberum, et ibidem granchiam, si voluerint, construendi : hæc omnia concedentibus et comprobantibus Guillelmo de Granellis, scuti fero, primo domino feodi, Henrico de Lanorvilla, secundo ejusdem feodi domino, nec non Guillelmo de Granellis, milite, et Ansello de Granellis, scutifero, prædicti Guidonis venditoris nepotibus." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 08, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mccxxxi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

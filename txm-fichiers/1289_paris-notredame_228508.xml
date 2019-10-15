@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1289_paris-notredame_228508" id_text_code="paris-notredame" num_cema="228508" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1289" date_cema14="-" date_ed="11-1-1289" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Stephanus dictus Tanusfassi, de Florentia, legum professor, et Petronilla, filia Simonis Spinelli, ejus uxor, profitentur se vendidisse decano et capitulo Pari siensi, pro centum libris Parisiensibus, jam sibi solutis, f° quatuor arpenta et unum quarterium prati, sita apud Burgum Reginæ, in censiva Beatæ Mariæ Parisiensis; ° triginta duos solidos Parisienses annui incrementi census, in domo Heloysis de Rupe Forti, sita Parisiis, in vico de Byevre, in censiva Sancte Genovefæ percipiendos; ° undecim solidos Parisienses annui census, percipiendos ex domo Johannis de Belvaco, sita Parisiis, in quadam ruella, versus posternam Nicholai Huideron." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 119." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="octogesimus">octuagesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">martis</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Epyphaniam</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NAM" lemma="--">Tertius</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1259_paris-notredame_228902" id_text_code="paris-notredame" num_cema="228902" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1259" date_cema14="-" date_ed="NA-8-1259" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Fratres Domus Dei Parisiensis concedunt capitulo Parisiensi decimas centum qua draginta trium arpentorum terræ, sitorum apud Trambleium, Moiriacum, Com pens, et quinque quarteriorum vinee sitorum apud Trambleium, in permuta tionem decem et octo arpentorum terræ arabilis medietariæ, in territorio villarum Parisiace et Compensis, quæ dictum capitulum Domui Dei dat in perpetuum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 001." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1259">mcclix</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="augustus1">augusto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

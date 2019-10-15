@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1260_paris-notredame_229268" id_text_code="paris-notredame" num_cema="229268" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1260" date_cema14="-" date_ed="NA-6-1260" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Cum episcopus Parisiensis concessisset, ut domus Cacorum Parisiensis plateam, ubi ipsa constructa erat, possideret in manu mortua, liberam a quatuor sextariis bladi et duobus avenæ, quos ex eadem platea annuatim percipiebat dictus episcopus, Ludovicus IX. rex Francorum, eidem episcopo vice versa concedit et assignat centum solidos annui redditus, percipiendos e proventibus præposituræ Parisiensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 003." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Uicennas</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iunius1">iunio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

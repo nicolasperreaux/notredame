@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1255_paris-notredame_228782" id_text_code="paris-notredame" num_cema="228782" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1255" date_cema14="-" date_ed="NA-1-1255" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Flora de Mescines, quondam domicella Blanchæ, comitisse Campaniæ, capitulo Parisiensi, pro quingentis libris Turonensibus, vendit : I° domum unam hor tumque fossatis clausum; ° decem circiter arpenta nemorum; ° centum et decem circiter arpenta terræ arabilis; hac omnia sita apud Rosetum, in territorio dicto BoyssVoylais." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 09, n° 011." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="50">l</w>
+<w pos="NUM" lemma="4">iiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

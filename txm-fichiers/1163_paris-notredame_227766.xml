@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1163_paris-notredame_227766" id_text_code="paris-notredame" num_cema="227766" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1163" date_cema14="-" date_ed="20-4-1163" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Sententia Osmundi, canonici Parisiensis, et Milonis, archipresbyteri Mediolanensis, qua componitur controversia inter Mauritium, episcopum Parisiensern, et Rogerum, Columbensem abbatem, super abbatia et ecclesia parochiali Sancti Germani in Laya, quas uterque sibi asserere conabatur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 031." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="PRE" lemma="a">ab</w>
+<w pos="SUB" lemma="incarnatio">incarnatione</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="NAM" lemma="-">Ihesu</w>
+<w pos="NAM" lemma="--">Christi</w>
+<w pos="NAM" lemma="--">Mclxiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="undecimus">undecima</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">xn</w>
+<w pos="SUB" lemma="calende">calendas</w>
+<w pos="QLF" lemma="madius1">madii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

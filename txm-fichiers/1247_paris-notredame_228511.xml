@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1247_paris-notredame_228511" id_text_code="paris-notredame" num_cema="228511" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1247" date_cema14="-" date_ed="NA-11-1247" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta qua Enardus de Vico et Margareta, ejus uxor, dant eleemosinæ nomine magistro Natali, canonico et officiali Parisiensi, quintam partem cujusdam vineæ, in colle de Balneolis sitæ, dimidiumque arpentum vel plus continentis; alie vero quatuor ejusdem vinee partes eidem magistro Natali vendiderant pro viginti libris Turonensibus jam solutis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 003." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="petitio">petitionem</w>
+<w pos="SUB" lemma="persona">personarum</w>
+<w pos="QLF" lemma="predictus">predictarum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1240">mccxl</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

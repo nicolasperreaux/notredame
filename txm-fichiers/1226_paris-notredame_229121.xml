@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1226_paris-notredame_229121" id_text_code="paris-notredame" num_cema="229121" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1226" date_cema14="-" date_ed="8-8-1226" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Monte Calvo, miles, declarat, coram officiali Parisiensi, se vendidisse Gaufrido, Parisiensi archidiacono, pro decem libris Parisiensibus, duodecim denarios census capitalis, quos percipiebat ipse Johannes e tribus domibus sitis Parisiis, juxta domum dicti archidiaconi, que est in claustro." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 104." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="SUB" lemma="uis">ui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="sabbatum">sabbato</w>
+<w pos="SUB" lemma="proximum">proximo</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Laurencii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

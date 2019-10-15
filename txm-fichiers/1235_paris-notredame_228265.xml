@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1235_paris-notredame_228265" id_text_code="paris-notredame" num_cema="228265" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1235" date_cema14="-" date_ed="NA-NA-1235" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes, comes Matisconensis, et Alix, uxor ejus, lauoant venditionem factam capitulo Parisiensi ab Amalrico de Chailliaco, milite, de quatuor modiis hyber nagii, ad mensuram Parisiensem, annis singulis percipiendis in decima de Chailly; quorum duo modii puri frumenti, duoque puræ siliginis, pretio ducentarum et triginta librarum Parisiensium, eidem Amalrico solutarum. Iidem Johannes et Alix, illius decimæ primi domini, promittunt se eamdem venditionem observaturos, et legitimam, secundum usus Franciæ, garantiam praestituros." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 08, n° 006." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mccxxxu</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

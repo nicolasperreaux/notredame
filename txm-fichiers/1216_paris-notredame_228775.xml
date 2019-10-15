@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1216_paris-notredame_228775" id_text_code="paris-notredame" num_cema="228775" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1216" date_cema14="-" date_ed="NA-NA-1216" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Preceptum Blanche, comitisse Trecensis, de nemore Roseti." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 09, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">Blancha</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="comitissa">comitissa</w>
+<w pos="NAM" lemma="--">Trecensis</w>
+<w pos="QLF" lemma="palatinus1">palatina</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="nosco">notum</w>
+<w pos="VBE" lemma="facio">facio</w>
+<w pos="QLF" lemma="uniuersus">uniuersis</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="inspicio">inspecturis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quod">quod</w>
+<w pos="QLF" lemma="dilectus1">dilectis</w>
+<w pos="QLF" lemma="meus">meis</w>
+<w pos="SUB" lemma="magister2">magistro</w>
+<w pos="NAM" lemma="--">Galtero</w>
+<w pos="NAM" lemma="--">Cornuto</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="magister2">magistro</w>
+<w pos="NAM" lemma="--">Alberico</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="frater">fratri</w>
+<w pos="PRO" lemma="is2">eius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="do">dedi</w>
+<w pos="SUB" lemma="licentia">licenciam</w>
+<w pos="VBE" lemma="uendo">uendendi</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="exstirpo">extirpandi</w>
+<w pos="QLF" lemma="omnis">omnia</w>
+<w pos="SUB" lemma="nemus">nemora</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Roseto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="cum2">Cum</w>
+<w pos="CON" lemma="autem">autem</w>
+<w pos="SUB" lemma="nemus">nemora</w>
+<w pos="PRO" lemma="ille2">illa</w>
+<w pos="VBE" lemma="sum">fuerint</w>
+<w pos="VBE" lemma="exstirpo">extirpata</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="non">non</w>
+<w pos="VBE" lemma="exigo">exigam</w>
+<w pos="SUB" lemma="pastionaticus">pasnagium</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="VBE" lemma="habeo">habeo</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="terra">terra</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Roseto</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="sed">set</w>
+<w pos="PRO" lemma="ille2">illud</w>
+<w pos="VBE" lemma="quieto">quitto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="dummodo">dummodo</w>
+<w pos="NAM" lemma="--">Parisiense</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="ADV" lemma="non">non</w>
+<w pos="VBE" lemma="exigo">exigat</w>
+<w pos="SUB" lemma="pastionaticus">pasnagium</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="VBE" lemma="habeo">habet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="idem2">eadem</w>
+<w pos="SUB" lemma="terra">terra</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="sed">set</w>
+<w pos="ADV" lemma="similiter">similiter</w>
+<w pos="PRO" lemma="ille2">illud</w>
+<w pos="VBE" lemma="quieto">quittet</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="nosco">notum</w>
+<w pos="VBE" lemma="permaneo">permaneat</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="reor">ratum</w>
+<w pos="VBE" lemma="teneo">teneatur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="littera">litteris</w>
+<w pos="VBE" lemma="adnoto">annotatum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="sigillum">sigilli</w>
+<w pos="QLF" lemma="meus">mei</w>
+<w pos="SUB" lemma="munimen">munimine</w>
+<w pos="VBE" lemma="roboro">roboraui</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Uirtuti</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

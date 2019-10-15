@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1210_paris-notredame_229194" id_text_code="paris-notredame" num_cema="229194" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1210" date_cema14="-" date_ed="NA-4-1210" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes Evroini et Hersendis, ejus uxor, concedunt ecclesie Parisiensi, ad Evroini, patris Johannis, anniversarium et postea suum in prefata ecclesia cele brandum, quadraginta solidos censuales, percipiendos e domo quæ dicitur do mus Canis, sita super Secanam, in vico Sancti Germani Autissiodorensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 010." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Gracie</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

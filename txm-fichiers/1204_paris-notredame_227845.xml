@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1204_paris-notredame_227845" id_text_code="paris-notredame" num_cema="227845" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1204" date_cema14="-" date_ed="13-9-1204" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Laurentius subprior et conventus Beatæ Mariæ de Livriaco promittunt Odoni, Parisiensi episcopo, se quidquid ille ordinaverit super provisione W., abbatis Li vriacensis, servaturos, eumque se accepturos abbatem quem elegerint abbates Sancti Victoris et Herivallis, G. archidiaconus Parisiensis et prior Sancti Victoris, in quos de electione facienda compromiserunt." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 110." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcciiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="SUB" lemma="exaltatio">exaltationis</w>
+<w pos="QLF" lemma="sanctus1">sancte</w>
+<w pos="NAM" lemma="--">Crucis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

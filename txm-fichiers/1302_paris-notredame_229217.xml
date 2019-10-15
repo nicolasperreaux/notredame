@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1302_paris-notredame_229217" id_text_code="paris-notredame" num_cema="229217" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1302" date_cema14="-" date_ed="14-4-1302" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Etienne Haudrui, drapier et bourgeois de Paris, et Jeanne, sa femme, donnent au chapitre de Notre¬Dame : ° huit livres parisis de rente, a prendre sur les vingt livres quils percoivent chaque annee, le jour de TAscension, dans le tresor royal du Louvre, sur la rente de noble dame Marguerite de Seuli; ° quarante livres parisis, que le chapitre devra employer a Tachat de quarante sous de rente, dans ses censives ou ailleurs." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 033." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="NAM" lemma="--">Tan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">troi</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">un</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="SUB" lemma="--">samedi</w>
+<w pos="VBE" lemma="--">deuant</w>
+<w pos="NAM" lemma="--">Pasques</w>
+<w pos="VBE" lemma="--">flouries</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

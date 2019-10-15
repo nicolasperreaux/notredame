@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1228_paris-notredame_229588" id_text_code="paris-notredame" num_cema="229588" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1228" date_cema14="-" date_ed="NA-NA-1228" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Ardengus, Florentinus episcopus, relata de verbo ad verbum sententia, quam, cum esset canonicus Papiensis et Parisiis commoraretur, mense aprili anni , pronuntiaverat inter Guillelmum, Parisiensem episcopum; et G., Parisiensem archidiaconum, ex una parte, decanumque et capitulum Sancti Germani Autissiodorensis, ex altera declarat, dictam sententiam interpretando, omnimodam justitiam ad episcopum Parisiensem pertinere in terra quæ ad Nicholaum Bocel olim pertinuerat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 324." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="tricesimus">tricesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

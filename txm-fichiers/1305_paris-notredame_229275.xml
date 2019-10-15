@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1305_paris-notredame_229275" id_text_code="paris-notredame" num_cema="229275" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1305" date_cema14="-" date_ed="NA-10-1305" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Philippus IV, cognomine Pulcher, rex Francie, assignat Ansello dicto Buticulario, militi suo, octo libras Parisienses, annuatim percipiendas e redditibus præpositure Corboliensis; eique concedit facultatem transferendi pradictas octo libras cuilibet ecclesie vel homini ecclesiastico." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 010." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Fontem</w>
+<w pos="NAM" lemma="--">Bliaudi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="trecentesimus">trecentesimo</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

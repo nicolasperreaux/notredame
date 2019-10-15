@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_228818" id_text_code="paris-notredame" num_cema="228818" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charte de Jean Bernier, garde de la prevote de Paris, par laquelle Adam Cuignet et Jean, son fils, originaires de Rosoy, reconnaissent quils sont serfs et hommes de corps de Peglise de Paris, et que Jean a ete affranchi par le chapitre, a con dition dentrer dans la clericature et de n°en jamais sortir." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 09, n° 047." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NUM" lemma="decimus">Decimus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

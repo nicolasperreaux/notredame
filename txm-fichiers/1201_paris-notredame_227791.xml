@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1201_paris-notredame_227791" id_text_code="paris-notredame" num_cema="227791" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1201" date_cema14="-" date_ed="24-12-1201" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Epistola lnnocentii papæ III ad Odonem, Parisiensem episcopum, qua litem inter ipsumf Odonem et abbatem Sanctæ Genovefæ Parisiensis, de possessione juris parochialis in parochia de Monte, diu agitatam, dirimit, præfiniendo jura utrius que partis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 056." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Anagnie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="9">ix</w>
+<w pos="SUB" lemma="calende">kal</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="ianuarius2">ianuarii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="4">iu</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

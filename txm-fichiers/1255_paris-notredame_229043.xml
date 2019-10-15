@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1255_paris-notredame_229043" id_text_code="paris-notredame" num_cema="229043" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1255" date_cema14="-" date_ed="NA-9-1255" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes Barbete, civis Parisiensis, et Petronilla, ejus uxor, declarant se vendi disse Parisiensi ecclesiæ, pro centum et sex libris Parisiensibus, jam sibi solutis, dimidiam partem cujusdam annui capitalis census decem librarum et duodecim solidorum Parisiensium, quem dicti venditores communiter et pro indiviso per cipiebant cum Philippo, fratre dicti Johannis, e quibusdam domibus contiguis, sitis Parisius, in vico Sancti Boneti; que media pars vendita sic distribuetur : centum solidi capitulo, pro confirmatione manumissionis hominibus Ville Cereris concesse a Reginaldo, Parisiensi episcopo; et sex solidi dicto episcopo, eo quod pradictos centum solidos in manu mortua possidendos capitulo suo con cessit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 026." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="do">datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="september">septembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

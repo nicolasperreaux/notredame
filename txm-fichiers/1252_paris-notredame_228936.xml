@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1252_paris-notredame_228936" id_text_code="paris-notredame" num_cema="228936" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1252" date_cema14="-" date_ed="NA-8-1252" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes, dictus Præpositus, de Kala, et Ysabellis, ejus uxor, vendunt Petro de Braya, Parisiensi archidiacono, pro sexdecim libris et quinque solidis Parisien sibus, jam sibi solutis, duas partes duorum arpentorum prati, in praeria de Kala, subtus grangiam prioris Gorneii, quæ dicitur Thanele, citra Matronam, sitorum, quorum tertiam partem dictus emptor jam possidebat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 035." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="50">l</w>
+<w pos="NUM" lemma="2">ii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="augustus1">augusti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

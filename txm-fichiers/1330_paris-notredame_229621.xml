@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1330_paris-notredame_229621" id_text_code="paris-notredame" num_cema="229621" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1330" date_cema14="-" date_ed="6-6-1330" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Hugo, Parisiensis episcopus, mensæ episcopali dono dat feodum suum, quod dicitur terra Roberti de Issiaco, apud Sanctum Clodoaldum situm; quod quidem onerat decem libris Parisiensibus, annuatim a capitulo Parisiensi percipiendis; ea conditione adjecta, ut missa solemnis celebretur, annis singulis, pro dicto episcopo, ad majus altare ecclesie Parisiensis, die crastina festi Sanctissimi Sacramenti; que missa, vivente episcopo, erit de Spiritu Sancto, illo autem defuncto, de Requiem missa." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 357." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1330">mcccxxx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="dictum">dictum</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="SUB" lemma="sacramentum">Sacramenti</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Parisiensis</w>
+<w pos="SUB" lemma="abbas">abbatibus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="uterque">Utramque</w>
+<w pos="SUB" lemma="bulla">bullam</w>
+<w pos="VBE" lemma="--">edid</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

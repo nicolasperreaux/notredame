@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1268_paris-notredame_227953" id_text_code="paris-notredame" num_cema="227953" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1268" date_cema14="-" date_ed="3-12-1268" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 218." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclx</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Andree</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecerunt</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Nicolaus</w>
+<w pos="VBE" lemma="dico2">dictus</w>
+<w pos="NAM" lemma="--">Heroude</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="NAM" lemma="--">Herode</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="quilibet2">quilibet</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NUM" lemma="undecim">undecim</w>
+<w pos="VBE" lemma="--">libr.</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="quinque">quinque</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">quos</w>
+<w pos="VBE" lemma="percipio">percipiunt</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="transuersum">trauerso</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Confluendo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

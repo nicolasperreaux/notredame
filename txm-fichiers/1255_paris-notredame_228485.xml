@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1255_paris-notredame_228485" id_text_code="paris-notredame" num_cema="228485" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1255" date_cema14="-" date_ed="NA-9-1255" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Odo, major terre Sancti Eligii, de Vitriaco, accipit a venerabili H. succentore Parisiensi, ad ammodiationem seu firmam per novem annos, arpenta quatuor et dimidium terre arabilis apud Vitriacum sita, pro triginta solidis Parisiensibus, ab eodem Odone dicto succentori reddendis, annis singulis, die festo beati Mar tini hiemalis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 096." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1250">mccl</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="september">septembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

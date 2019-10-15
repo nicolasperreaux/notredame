@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1231_paris-notredame_228310" id_text_code="paris-notredame" num_cema="228310" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1231" date_cema14="-" date_ed="NA-1-1231" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Milo, Sancti Launomari Blesensis abbas, assensum suum præbet matrimoniis ineundis : ° inter Thyoinum, filium GervasiiPiau Lievre, hominem Sancti Launomari, et Petronillam, filiam Johannis de Atrio, ancillam capituli Parisiensis; ° inter Petrum, filium dicti Johannis de Atrio, hominem dicti capituli, et Sybillam, filiam memorati Gervasii, ancillam Sancti Launomari; ea conditione , ut præfati Thyoinus et Petronilla illorumque liberi ad Sanctum Launo marum, dictique Petrus et Sibilla cum tota sua progenie ad capitulum Parisiense perpetuo pertineant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 019." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mccxxx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">Ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

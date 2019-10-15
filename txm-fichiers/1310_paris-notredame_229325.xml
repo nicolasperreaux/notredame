@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1310_paris-notredame_229325" id_text_code="paris-notredame" num_cema="229325" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1310" date_cema14="-" date_ed="14-9-1310" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Devant Jean Plovebauch, garde de la prevote de Paris, Jean de Dammartin, chanoine de Chartres, reconnait avoir prisa cens de Guillaume, eveque de Paris, la grange ou se mettaient les grains de Teveque, lorsque celuicci faisait valoir ses terres situees pres de Paris, qui ont ete donnees depuis a cens perpetuel; plus les maison, cour, jardin et autres dependances, le tout situe rue de la Porte¬SaintHonore, contigu dun cote a ladite porte et aux murs de Paris, de Pautre a la maison du preneur; plus un fonds de terre dun revenu de six deniers; moyennant trentecdeux livres dix sous parisis de surcens ou de rente annuelle, et a condition dremployer en trois ans deux cents livres parisis a reparer et ameliorer ladite grange avec ses dependances." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 061." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">nous</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">scel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NUM" lemma="509">dix</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="NAM" lemma="--">lundi</w>
+<w pos="QLF" lemma="festus">feste</w>
+<w pos="VBE" lemma="--">SaintecCroi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="SUB" lemma="september">septembre</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

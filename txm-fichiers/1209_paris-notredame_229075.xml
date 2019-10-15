@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1209_paris-notredame_229075" id_text_code="paris-notredame" num_cema="229075" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1209" date_cema14="-" date_ed="19-9-1209" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Cum Margarita, relicta Willelmi de Sancto Marcello, repeteret, ratione dotalitii sui, a Pagano, canonico Sancti Johannis Rotundi, domum quamdam, quam ipse Paganus a dicto Guillelmo et a dicta Margarita emerat, abbas Sancti Victoris, H. decanus et A. archidiaconus Parisiensis, judices auctoritate apostolica dele gati, prefatum Paganum a repetitione dicte Margaritæ absolvunt." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 058." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="september">septembri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="tertius">tertio</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="SUB" lemma="calende">kalendas</w>
+<w pos="QLF" lemma="octobrius">octobris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

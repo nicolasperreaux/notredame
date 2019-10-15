@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1203_paris-notredame_227861" id_text_code="paris-notredame" num_cema="227861" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1203" date_cema14="-" date_ed="NA-NA-1203" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta abbatisse de Gif." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 126." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">C</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="abbatissa">abbatissa</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="conuentus">conuentus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Gif</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="nosco">notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="futurus">futuris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="NUM" lemma="duo">due</w>
+<w pos="SUB" lemma="pars">partes</w>
+<w pos="QLF" lemma="minutus">minute</w>
+<w pos="NUM" lemma="decimus">decime</w>
+<w pos="NAM" lemma="--">Fonleneii</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="episcopus">episcopum</w>
+<w pos="NAM" lemma="--">Parisiensem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="is2">eius</w>
+<w pos="VBE" lemma="pertineo">pertinent</w>
+<w pos="SUB" lemma="successor">successores</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="licet">licet</w>
+<w pos="QLF" lemma="bonus">bone</w>
+<w pos="SUB" lemma="memoria">memorie</w>
+<w pos="NAM" lemma="--">Theobaldus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Mauricius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisienses</w>
+<w pos="ADV" lemma="quondam">quondam</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="duo">duas</w>
+<w pos="SUB" lemma="pars">partes</w>
+<w pos="NUM" lemma="decimus">decime</w>
+<w pos="VBE" lemma="supradico">supradicte</w>
+<w pos="PRO" lemma="nos">nobis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="QLF" lemma="noster">nostre</w>
+<w pos="VBE" lemma="confirmo">confirmasse</w>
+<w pos="VBE" lemma="nosco">noscuntur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="sicut">sicut</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="scriptum">scriptis</w>
+<w pos="PRO" lemma="is2">eorum</w>
+<w pos="QLF" lemma="authenticus">autenticis</w>
+<w pos="VBE" lemma="contineo">continetur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="nolo">nolumus</w>
+<w pos="CON" lemma="tamen">tamen</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PRE" lemma="ex">ex</w>
+<w pos="SUB" lemma="instrumentum">instrumentis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="confirmatio">confirmationibus</w>
+<w pos="QLF" lemma="supradictus">supradictis</w>
+<w pos="SUB" lemma="ius">iuris</w>
+<w pos="QLF" lemma="suus">sui</w>
+<w pos="CON" lemma="siue">seu</w>
+<w pos="SUB" lemma="possessio">possessionis</w>
+<w pos="NUM" lemma="duo">duarum</w>
+<w pos="SUB" lemma="pars">partium</w>
+<w pos="NUM" lemma="decimus">decime</w>
+<w pos="VBE" lemma="prenoto">prenotate</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="PRO" lemma="qui2">qua</w>
+<w pos="VBE" lemma="gaudeo">gaudere</w>
+<w pos="VBE" lemma="dignosco">dinoscitur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="preiudicium">preiudicium</w>
+<w pos="PRO" lemma="aliquis">aliquod</w>
+<w pos="VBE" lemma="genero">generari</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="in">In</w>
+<w pos="PRO" lemma="qui2">cuius</w>
+<w pos="SUB" lemma="res">rei</w>
+<w pos="SUB" lemma="testimonium">testimonium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentem</w>
+<w pos="SUB" lemma="charta">cartam</w>
+<w pos="SUB" lemma="sigillum">sigillorum</w>
+<w pos="QLF" lemma="noster">nostrorum</w>
+<w pos="VBE" lemma="facio">fecimus</w>
+<w pos="SUB" lemma="impressio">impressione</w>
+<w pos="VBE" lemma="munio1">muniri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Mcciii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1293_paris-notredame_229365" id_text_code="paris-notredame" num_cema="229365" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1293" date_cema14="-" date_ed="NA-8-1293" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charte de Gieffroy, dit Pappareilleur du roi, par laquelle il declare avoir pris a cens de Simon, eveque de Paris, une place vide, situee a Paris, un peu en deca de la porte du Louvre, sur la riviere, devant la maison du preneur, ayant la largeur de ladite maison et deux toises de longueur, moyennant cinq sous parisis de cens ou de rente, que Teveque percevra tous les ans sur ladite place ou sur Tedifice qui pourra y etre construit, et subsidiairement sur la maison du preneur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 101." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Dan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="SUB" lemma="deus">deus</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="SUB" lemma="--">quatresuin</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">trese</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">ou</w>
+<w pos="SUB" lemma="--">moys</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">aoust</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

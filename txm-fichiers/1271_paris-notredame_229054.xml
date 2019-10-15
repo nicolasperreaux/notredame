@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_229054" id_text_code="paris-notredame" num_cema="229054" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="NA-10-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Garnerus archidiaconus, Gaufridus de Barro, penitentiarius Parisiensis episcopi, et Robertus de Sorbonio, canonici Parisienses, executores testamenti defuncti Milonis de Corbolio, quondam canonici Parisiensis, declarant se vendidisse capitulo Parisiensi, ad opus anniversariorum Helye de Caturco et Alberti, sedis apostolicæ notarii, quondam canonicorum Parisiensium, pro centum et viginti libris Parisiensibus, jam sibi solutis, octo libras annui augmentati census, percipiendas e quibusdam domibus, sitis in vicis Sancti Mederici et de Marivas; quæ domus onerate sunt novem denariis census, solvendis annua tim capitulo Sancti Mederici." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 037." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="octobrius">octobri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

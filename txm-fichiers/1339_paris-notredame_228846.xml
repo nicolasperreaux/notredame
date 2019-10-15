@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1339_paris-notredame_228846" id_text_code="paris-notredame" num_cema="228846" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1339" date_cema14="-" date_ed="22-12-1339" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charte par laquelle Mathurin Plaisance, de Larchant, prend a cens, du chapitre de Notre¬Dame, et a condition de les planter en vigne, trois arpents trois quartiers de terre, sis aux Groes de Biaumont, au lieu dit POrme de Milly, quil tenait deja au champart de douse gerbes deux; moyennant six deniers Parisis par arpent, payables chaque annee, le jour des Morts, en Photel du chapitre appele la Salle." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 10, n° 028." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">nous</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">scel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="SUB" lemma="--">trente</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">neuf</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="VBE" lemma="--">mercredi</w>
+<w pos="NUM" lemma="22">xxii</w>
+<w pos="VBE" lemma="--">iour</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="december">decembre</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NAM" lemma="--">Undecimus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1273_paris-notredame_228017" id_text_code="paris-notredame" num_cema="228017" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1273" date_cema14="-" date_ed="12-10-1273" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De feodo archidiaconi Parisiensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 282." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="PRO" lemma="idem2">eodem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="-">Dyonisii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Guillelmus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="quondam">quondam</w>
+<w pos="QLF" lemma="scholasticus1">scolasticus</w>
+<w pos="NAM" lemma="--">Aurelianensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="nunc">nunc</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="archidiaconatus">archidiaconatu</w>
+<w pos="QLF" lemma="predictus">predicto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Uictorem</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="camera">camera</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="ADV" lemma="iuxta1">iuxta</w>
+<w pos="SUB" lemma="fenestra">fenestras</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="SUB" lemma="--">margistris</w>
+<w pos="NAM" lemma="--">Uincentio</w>
+<w pos="QLF" lemma="scholasticus1">scolastico</w>
+<w pos="NAM" lemma="--">Aurelianensi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="frater">fratre</w>
+<w pos="NAM" lemma="--">Guillelmo</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="sanctus1">Sancto</w>
+<w pos="NAM" lemma="--">Uictore</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="plus2">pluribus</w>
+<w pos="QLF" lemma="alius">aliis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

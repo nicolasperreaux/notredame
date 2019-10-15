@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1127_paris-notredame_227744" id_text_code="paris-notredame" num_cema="227744" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1127" date_cema14="-" date_ed="NA-NA-1127" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Privilegium G. Carnotensis et B. Meldensis episcoporum super eadem compositione." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 009." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">G</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Carnotensis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">B</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Meldensis</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="ceterus">cetera</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="SUB" lemma="adiectio">adiectione</w>
+<w pos="PRO" lemma="hic3">huius</w>
+<w pos="SUB" lemma="clausula">clausule</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="CON" lemma="nam">Post</w>
+<w pos="SUB" lemma="concordia">concordiam</w>
+<w pos="VBE" lemma="facio">factam</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="scribo1">scriptam</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="presentia">presentia</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="VBE" lemma="lego2">lectam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">uenitTheobaldus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Palladium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="hospitium">hospicium</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Albanensis</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="dico2">dixit</w>
+<w pos="PRE" lemma="coram2">coram</w>
+<w pos="PRO" lemma="is2">eo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="QLF" lemma="suus">suo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="CON" lemma="nam">Quod</w>
+<w pos="VBE" lemma="contineo">continetur</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="littera">litteris</w>
+<w pos="PRE" lemma="cum1">con</w>
+<w pos="VBE" lemma="cedo2">cedo</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_228431" id_text_code="paris-notredame" num_cema="228431" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="18-2-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes Maupin et Johanna, ejus uxor, Petrus Chartrois et Maria, ejus uxor, Parisiensibus, sibi a magistro capitulo Parisiensi vendunt, pro triginta libris , sexaginta solidos Parisienses Milone de Corbolio, canonico Parisiensi, solutis et tribus quarteriis vinee et annui augmentati census, de duobus arpentis de arpentis undecim et dimidio terræ arabilis percipiendos, atque in celebra tione cujusdam misse, a dicto Milone institutæ, assistentibus canonicis distri buendos." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 042." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="NAM" lemma="--">Brandones</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

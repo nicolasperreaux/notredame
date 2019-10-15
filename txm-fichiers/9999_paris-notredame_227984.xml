@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_227984" id_text_code="paris-notredame" num_cema="227984" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 249." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="iste2">Ista</w>
+<w pos="SUB" lemma="capitulum">capitula</w>
+<w pos="VBE" lemma="soleo">solent</w>
+<w pos="VBE" lemma="uoco">uocari</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="concilium">concilium</w>
+<w pos="NAM" lemma="-">Senonense</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="CON" lemma="nam">Capitulum</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Marcelli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capitulum">Capitulum</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Clodoaldi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capitulum">Capitulum</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Campellis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capitulum">Capitulum</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="NAM" lemma="--">Autisiodorensis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capitulum">Capitula</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Beati</w>
+<w pos="NAM" lemma="--">Exuperii</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Corbolio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capitulum">Capitulum</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Monte</w>
+<w pos="NAM" lemma="--">Moranciaco</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="capitulum">Capitulum</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lusarchiis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

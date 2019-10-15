@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1313_paris-notredame_229544" id_text_code="paris-notredame" num_cema="229544" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1313" date_cema14="-" date_ed="29-7-1313" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Philippe le Pevrier, fils, heritier et executeur testamentaire de Jean le Pevrier, en son vivant orfevre et bourgeois de Paris, achete, avec les biens de la succession, un cens annuel de dixcsept livres seiae deniers et une maille sur les rentes que percevaient au port de Conflans, dans le fief de Teveque de Paris, Erard de Montmorency et Bouchard de Laval, chevaliers, a Peffet de doter la chapellenie dont ledit Jean le Pevrier avait ordonne la fondation par son testament; et il abandonne a Peveque de Paris, sur ladite rente de dixssept livres seiæe deniers obole, la somme annuelle de cent sous, pour obtenir de lui Pamortissement du reste de la rente." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 280." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="VBE" lemma="--">cens</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">treie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="SUB" lemma="--">dymenche</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="SUB" lemma="festa1">feste</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Iaques</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Christofle</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

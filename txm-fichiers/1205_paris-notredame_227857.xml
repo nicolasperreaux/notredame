@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1205_paris-notredame_227857" id_text_code="paris-notredame" num_cema="227857" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1205" date_cema14="-" date_ed="NA-NA-1205" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Forma presentationis quam facit abbas Ruricur tensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 122." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="reuerendus">Reuerendo</w>
+<w pos="SUB" lemma="pater">patri</w>
+<w pos="CON" lemma="atque">ac</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="NAM" lemma="--">P</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Ruricurtensis</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="SUB" lemma="minister2">minister</w>
+<w pos="QLF" lemma="humilis">humilis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="QLF" lemma="totus">totum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="uester">Uestre</w>
+<w pos="SUB" lemma="discretio">discretioni</w>
+<w pos="VBE" lemma="presento">presentamus</w>
+<w pos="SUB" lemma="frater">fratrem</w>
+<w pos="NAM" lemma="--">Rogerum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="canonicus2">canonicum</w>
+<w pos="QLF" lemma="noster">nostrum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="lator">latorem</w>
+<w pos="QLF" lemma="presens">presentium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="cura">curam</w>
+<w pos="SUB" lemma="parochia">parrochie</w>
+<w pos="NAM" lemma="--">Montis</w>
+<w pos="NAM" lemma="--">Gaii</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="PRO" lemma="uos">uos</w>
+<w pos="ADV" lemma="suppliciter">suppliciter</w>
+<w pos="VBE" lemma="exoro">exorantes</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="PRO" lemma="ipse2">ipsum</w>
+<w pos="VBE" lemma="recipio">recipiatis</w>
+<w pos="ADV" lemma="usque">usque</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="purificatio">purificationem</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Uirginis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="ipse2">ipsius</w>
+<w pos="SUB" lemma="etas">etatem</w>
+<w pos="SUB" lemma="respectus">respectum</w>
+<w pos="VBE" lemma="habeo">habentes</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="CON" lemma="si">si</w>
+<w pos="SUB" lemma="fors">forte</w>
+<w pos="VBE" lemma="--">deffectum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="PRO" lemma="aliquis">aliquo</w>
+<w pos="VBE" lemma="patior">patiatur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="ille2">illum</w>
+<w pos="VBE" lemma="suppleo">suppleat</w>
+<w pos="QLF" lemma="uenerandus">ueneranda</w>
+<w pos="SUB" lemma="uetustas">uetustas</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

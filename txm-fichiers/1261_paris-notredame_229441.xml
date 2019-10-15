@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1261_paris-notredame_229441" id_text_code="paris-notredame" num_cema="229441" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1261" date_cema14="-" date_ed="NA-8-1261" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Simon, filius defuncti Petri de Cantu Lupi, Ysabellis, mater ejus, Guiotus, frater, et Ysabellis, soror ejusdem Simonis, septem libris Parisiensibus a Reginaldo, Parisiensi episcopo, acceptis, confirmant venditionem medie decimæ Cantus Lupi, ex eorum feodo moventis, factam eidem episcopo, ab Andrea, majore Moissiaci, et Aalesia, ejus uxore; preterea concedunt ut idem episcopus et ejus successores mediam illam decimam in manu mortua possideant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 177." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="augustus1">augusto</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1439_paris-notredame_229818" id_text_code="paris-notredame" num_cema="229818" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1439" date_cema14="-" date_ed="13-5-1439" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Ludovicus, archiepiscopus Senonensis, profitetur se a capitulo Parisiensi, sede Parisiensi vacante, jus accepisse divina pontificali pompa celebrandi et episcopalibus officiis in diccesi Parisiensi fungendi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 121." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="sub">sub</w>
+<w pos="SUB" lemma="sigillum">sigillo</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="13">xiii</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="SUB" lemma="maius2">maii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="400">cccc</w>
+<w pos="NUM" lemma="30">xxx</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

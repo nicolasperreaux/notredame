@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_227963" id_text_code="paris-notredame" num_cema="227963" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="14-8-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 228." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcclxnono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="SUB" lemma="assumptio">assumptionis</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="relinquo">relicta</w>
+<w pos="SUB" lemma="defuncti">defuncti</w>
+<w pos="NAM" lemma="--">Bartholomei</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Meru</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="aula">aula</w>
+<w pos="QLF" lemma="superus">superiori</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="castrum">castro</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lusarchiis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="medietas">medietate</w>
+<w pos="SUB" lemma="castellania">castellanie</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lusarchiis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1266_paris-notredame_229611" id_text_code="paris-notredame" num_cema="229611" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1266" date_cema14="-" date_ed="13-6-1266" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Littere Clementis, papæ IV, quibus decano, thesaurario et officiali diccesis Meldensis committit dirimendam, secundum juris canonici prascriptiones, exortam inter episcopum Parisiensem, ex una parte, et abbatem Sancte Genovefæ, priores Sancti Martini de Campis, Sancti Dionysii de Carcere, Sancti Juliani Pauperis, ordinis Cluniacensis, magistros et fratres hospitalis Hierosolymitani, ex altera, qui divina officia publice celebraverant, tempore quo dictus episcopus omnibus Parisiorum ecclesiis sacris interdixerat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 347." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Uiterbii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="idus">idibus</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_228725" id_text_code="paris-notredame" num_cema="228725" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="9-1-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Floriana, filia defuncti Deaneti de Fonte, de Tavers, recognoscit se parentesque suos fuisse et esse homines capituli Parisiensis de corpore, talliabiles ad voluntatem capituli." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 049." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1273">mcclxxiii</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Epyphaniam</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

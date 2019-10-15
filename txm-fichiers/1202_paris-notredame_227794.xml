@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1202_paris-notredame_227794" id_text_code="paris-notredame" num_cema="227794" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1202" date_cema14="-" date_ed="NA-NA-1202" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta qua Absalon, abbas Sancti Victoris Parisiensis, notum facit sibi concessam fuisse ab Odone, episcopo Parisiensi, potestatem amovendi ad libitum, et inconsulto episcopo, canonicum regularem, curam animarum gerentem, in parochiis dioecesis Parisiensis ad abbatiam Sancti Victoris pertinentibus, scilicet in ecclesiis de Atheis, de Villari Bello, de Valle Jost et Sancti Pauli: eo tamen pacto quod, si inter dictos canonicos quidam minus idoneus episcopo videatur, illum etiam amovere teneatur abbas Sancti Victoris, et alium infra quindecim dies episcopo præsentare." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 059." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

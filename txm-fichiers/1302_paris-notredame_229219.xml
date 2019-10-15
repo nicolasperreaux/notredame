@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1302_paris-notredame_229219" id_text_code="paris-notredame" num_cema="229219" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1302" date_cema14="-" date_ed="5-8-1302" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Adam dArgenteuil et Marguerite, sa femme vendent au chapitre de Paris, moyen nant cent livres parisis, qurils declarent avoir recues : T° six livres de cens annuel, a prendre sur les neuf livres qui leur sont dues sur une place et une maison sises a Paris, « sus la riviere de Greve, tenant drun part aus moulins du Temple et a la ruelle qui vet a Piaue, d aultre, en la censive nostre seignieur le roy; ° soixante sous de cens annuel a percevoir sur une maison situee dans la rue du Four." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 035." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">nous</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">seel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Tan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="VBE" lemma="--">cens</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="deus">deus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="NAM" lemma="--">mardi</w>
+<w pos="VBE" lemma="--">deuant</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="SUB" lemma="festa1">feste</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Lorens</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NAM" lemma="--">Uigesimus</w>
+<w pos="NAM" lemma="--">Tertius</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

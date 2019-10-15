@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_227978" id_text_code="paris-notredame" num_cema="227978" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 243." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Maciaco</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="feodum">feodum</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PRO" lemma="quisquis1">quicquid</w>
+<w pos="VBE" lemma="habeo">habet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="decima">decima</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Maciaco</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decima">decimam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quam">quam</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="NAM" lemma="--">Matheus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Murellis</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Origniacumy</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="NAM" lemma="--">Matheusa</w>
+<w pos="QLF" lemma="predictus">predicto</w>
+<w pos="NAM" lemma="-">Iohanne</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="ADV" lemma="similiter">similiter</w>
+<w pos="NUM" lemma="decimus">decima</w>
+<w pos="VBE" lemma="moueo">mouet</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="feodum">feodo</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decima">decimam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quam">quam</w>
+<w pos="NAM" lemma="--">Bochardus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Amblenuillis</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRE" lemma="inter">inter</w>
+<w pos="SUB" lemma="holmus">ulmos</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Origniacum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Maciacum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="NAM" lemma="--">B</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Iohanne</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="moueo">mouet</w>
+<w pos="PRO" lemma="ille2">illa</w>
+<w pos="NUM" lemma="decimus">decima</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="feodum">feodo</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

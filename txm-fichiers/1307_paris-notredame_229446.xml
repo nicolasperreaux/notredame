@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1307_paris-notredame_229446" id_text_code="paris-notredame" num_cema="229446" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1307" date_cema14="-" date_ed="9-4-1307" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Nicholaus dictus Terrier et Theobaldus de Leschenel, ambo de Gargiis prope Sanctum Clodoaldum, fatentur se accepisse, ad annuum censum, a domino Guillelmo de Podio, presbytero, receptore domini Guillelmi, Parisiensis episcopi, quinque quarteria vinearum, sita apud Gargias, contigua ex utraque parte vineis domini Gaconis de Marchia et vineis beneficii quadragesimalis, pretio quindecim solidorum Parisiensium, anno quolibet eidem episcopo solvendorum." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 182." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1300">mccc</w>
+<w pos="NUM" lemma="septimus1">septimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="dominica">dominicam</w>
+<w pos="VBE" lemma="--">lonod</w>
+<w pos="VBE" lemma="--">xailnu</w>
+<w pos="VBE" lemma="--">eioii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

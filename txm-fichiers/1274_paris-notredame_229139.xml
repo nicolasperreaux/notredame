@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1274_paris-notredame_229139" id_text_code="paris-notredame" num_cema="229139" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1274" date_cema14="-" date_ed="15-12-1274" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gaufridus, decanus, et capitulum Parisiense, litteris Gregorii x papæ inducti, sta tuunt ut, non obstante statuto de domibus claustri, antiquioribus canonicis concedendis, domus magistri Adenulphi de Anagnia, capellani domini papæ et canonici Parisiensis, post mortem ejus, canonico quem capitulum elegerit conferatur; ea lege, ut qui dictam domum electione capituli assecutus fuerit, solvat capitulo annuatim, ultra pensionem prius debitam et alia onera consueta, decem libras Parisienses, in usus canonicorum et majori altari servientium convertendas." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 122." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="quartus">quarto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Thome</w>
+<w pos="SUB" lemma="apostolus">apostoli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

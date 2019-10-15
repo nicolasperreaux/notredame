@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1320_paris-notredame_228931" id_text_code="paris-notredame" num_cema="228931" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1320" date_cema14="-" date_ed="24-12-1320" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guiardus de Janni, armiger, commorans apud Villetam juxta Mitriacum, restituta prius capitulo Parisiensi securi, quam violenter abstulerat homini cuidam ligna secanti pro prebendariis Moriaci, in parte nemoris dicti la Tilliere, ad ipsum Guiardum pertinente, promittit se soluturum emendam ratione hujus iniquæ ablationis debitam, et recognoscit capitulo et prebendariis ejus, apud Moriacum commorantibus, jus ligna cadendi in toto nemore dicto la Tilliere, ad opus solummodo domus sue Moriaci, duobus diebus in hieme et totidem in estate, secundum consuetudinem quæ gallice dicitur la coustume la cage." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 030." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="300">ccc</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="uigilia">uigilia</w>
+<w pos="QLF" lemma="festus">festi</w>
+<w pos="NAM" lemma="--">Natiuitatis</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

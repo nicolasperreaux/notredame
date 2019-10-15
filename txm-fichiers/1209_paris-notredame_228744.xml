@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1209_paris-notredame_228744" id_text_code="paris-notredame" num_cema="228744" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1209" date_cema14="-" date_ed="NA-NA-1209" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Milo Parisiensis, miles, feodum quod ab Odone, Parisiensi archidiacono, ex hareditate uxoris sue tenebat apud Braiam, in manus Bartholomæi, filii sui, resignat; quod feodum postea Bartholomæus et fratres ejus eidem Odoni, pretio unius et viginti librarum, vendunt." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 08, n° 002." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

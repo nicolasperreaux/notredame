@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1258_paris-notredame_228917" id_text_code="paris-notredame" num_cema="228917" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1258" date_cema14="-" date_ed="NA-7-1258" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Wallo, Sancti Martini Bituricensis abbas, totusque ejusdem loci conventus laudant conventionem, qua capitulum Parisiense concesserat, in manum mortuam, prio ratui Montis Gaii unum arpentum terræ apud Solliacum, unum arpentum et dimi dium apud Moiriacum; ea lege, ut singulis annis prior Montis Gaii quatuor solidos Parisienses solveret Parisiensi capitulo,." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 016." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1258">mccluiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="edo1">Edit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="opus1">opere</w>
+<w pos="PRO" lemma="qui2">cui</w>
+<w pos="SUB" lemma="titulus">titulus</w>
+<w pos="PON" lemma=":">:</w>
+<w pos="CON" lemma="nam">Hist</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="NAM" lemma="--">Mais</w>
+<w pos="NAM" lemma="--">Manasserus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Garlanda</w>
+<w pos="SUB" lemma="dies">diem</w>
+<w pos="SUB" lemma="arbitrium">arbitrii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="antea">antea</w>
+<w pos="SUB" lemma="festa1">festo</w>
+<w pos="NAM" lemma="--">Purificationis</w>
+<w pos="SUB" lemma="annus">anni</w>
+<w pos="VBE" lemma="--">prafixam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="--">son</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Chatillonssur</w>
+<w pos="NAM" lemma="--">Marne</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pr</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">p</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

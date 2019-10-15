@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_228921" id_text_code="paris-notredame" num_cema="228921" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="20-2-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Denunciatio facta magistro Guillelmo de Jabelignes, clerico." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 020." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="uniuersus">Uniuersis</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="inspicio">inspecturis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="officialis1">officialis</w>
+<w pos="SUB" lemma="curia">curie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="nosco">Notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="SUB" lemma="presentia">presencia</w>
+<w pos="VBE" lemma="constituo">constitutus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="magister2">magister</w>
+<w pos="NAM" lemma="--">Guillelmus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="VBE" lemma="--">Iabelignes</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="clericus2">clericus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="curo">curatus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="dico2">dicebat</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Mesnilio</w>
+<w pos="SUB" lemma="domina">Domine</w>
+<w pos="NAM" lemma="--">Rancie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Meldensis</w>
+<w pos="SUB" lemma="diocesis">diocesis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="assero1">asseruit</w>
+<w pos="PRE" lemma="coram2">coram</w>
+<w pos="PRO" lemma="nos">nobis</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="VBE" lemma="sum">fuisse</w>
+<w pos="SUB" lemma="monitum">monitum</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="SUB" lemma="terra">terras</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">alia</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="teneo">tenet</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="QLF" lemma="dictus">dicto</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Mesnilium</w>
+<w pos="QLF" lemma="predictus">predictum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ratio">ratione</w>
+<w pos="SUB" lemma="presbyterium">presbiterii</w>
+<w pos="QLF" lemma="dictus">dicte</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="uendo">uenderet</w>
+<w pos="PRE" lemma="infra2">infra</w>
+<w pos="SUB" lemma="annus">annum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1268">mcclxuiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="dominica">dominicam</w>
+<w pos="PRO" lemma="qui2">qua</w>
+<w pos="VBE" lemma="canto">cantatur</w>
+<w pos="NAM" lemma="--">Reminiscere</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

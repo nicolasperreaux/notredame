@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1202_paris-notredame_227864" id_text_code="paris-notredame" num_cema="227864" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1202" date_cema14="-" date_ed="NA-NA-1202" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Forma presentationis clerici in decanum Sancti Clodoaldi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 129." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="reuereo">Reuerendo</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Christo</w>
+<w pos="SUB" lemma="pater">patri</w>
+<w pos="CON" lemma="atque">ac</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">O</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="deuoueo">deuotum</w>
+<w pos="PRO" lemma="is2">ei</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="humilis">humile</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Clodoaldi</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="debeo">debitam</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="QLF" lemma="sincerus">sincera</w>
+<w pos="SUB" lemma="deuotio">deuotione</w>
+<w pos="SUB" lemma="obedientia">obedientiam</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="paternitas">Paternitati</w>
+<w pos="QLF" lemma="uester">uestre</w>
+<w pos="VBE" lemma="nosco">notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PRE" lemma="super">super</w>
+<w pos="SUB" lemma="electio">electione</w>
+<w pos="QLF" lemma="uester">uestra</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="magister2">magistrum</w>
+<w pos="NAM" lemma="-">Symonem</w>
+<w pos="QLF" lemma="benignus">benigne</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="unanimus">unanimi</w>
+<w pos="SUB" lemma="uoluntas">uoluntate</w>
+<w pos="VBE" lemma="conuenio">conuenimus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="atque">ac</w>
+<w pos="PRO" lemma="ipse2">ipsum</w>
+<w pos="VBE" lemma="eligo">elegimus</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="decanus">decanum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">eundem</w>
+<w pos="SUB" lemma="beneuolentia">beniuolentie</w>
+<w pos="QLF" lemma="uester">uestre</w>
+<w pos="ADV" lemma="humiliter">humiliter</w>
+<w pos="VBE" lemma="presento">presentantes</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

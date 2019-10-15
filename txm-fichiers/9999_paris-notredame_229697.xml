@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_229697" id_text_code="paris-notredame" num_cema="229697" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 069." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">sont</w>
+<w pos="VBE" lemma="--">les</w>
+<w pos="VBE" lemma="reor">rentes</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">chapelle</w>
+<w pos="VBE" lemma="--">Saint</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Rigobert</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">Teglise</w>
+<w pos="NAM" lemma="--">NostreDame</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Premierement</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="NAM" lemma="--">Cherronnerie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">sur</w>
+<w pos="NUM" lemma="2">ii</w>
+<w pos="QLF" lemma="--">maisons</w>
+<w pos="SUB" lemma="--">entretenan</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="115">cxu</w>
+<w pos="NAM" lemma="--">sols</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="hem">Hem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">sur</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="--">maison</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="NAM" lemma="--">Martin</w>
+<w pos="SUB" lemma="--">Double</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="SUB" lemma="porta">porte</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="NAM" lemma="-">contesse</w>
+<w pos="VBE" lemma="--">dArtois</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="7">uii</w>
+<w pos="VBE" lemma="libero">liures</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="--">demie</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">sur</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="--">maison</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="NAM" lemma="--">Nicolas</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Chele</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="deleo">dele</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="NAM" lemma="--">Lymace</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="VBE" lemma="libero">liures</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">sur</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="--">maison</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="NAM" lemma="--">Lymace</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="42">xlii</w>
+<w pos="NAM" lemma="--">sols</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="--">maison</w>
+<w pos="NAM" lemma="--">Iehan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lille</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="ruo">rue</w>
+<w pos="VBE" lemma="--">aus</w>
+<w pos="NAM" lemma="--">Bourdonnois</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="NAM" lemma="--">ou</w>
+<w pos="NUM" lemma="3">Xii</w>
+<w pos="NAM" lemma="--">sols</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="NUM" lemma="2">ii</w>
+<w pos="SUB" lemma="termes">termes</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">sur</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="--">maison</w>
+<w pos="VBE" lemma="do">des</w>
+<w pos="VBE" lemma="--">estuues</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="VBE" lemma="ruo">rue</w>
+<w pos="VBE" lemma="--">Saint</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="--">Germainctaucerroys</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="--">Xxxiiii</w>
+<w pos="NAM" lemma="--">sols</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="item">Item</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="-">sur</w>
+<w pos="NUM" lemma="unus">une</w>
+<w pos="SUB" lemma="--">granche</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="NAM" lemma="--">Collebaston</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="NAM" lemma="--">Estienne</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="NAM" lemma="--">Fontainne</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="10">x</w>
+<w pos="NAM" lemma="--">ou</w>
+<w pos="NUM" lemma="12">xii</w>
+<w pos="NAM" lemma="--">sols</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="NUM" lemma="2">ii</w>
+<w pos="SUB" lemma="termes">termes</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="ADV" lemma="hic1">Hic</w>
+<w pos="SUB" lemma="liber1">liber</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="VBE" lemma="scribo1">scriptus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="scribo1">scripsit</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="VBE" lemma="benedico">benedictus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">R</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="galli">Galli</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="liber1">librum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quo</w>
+<w pos="QLF" lemma="multus">multa</w>
+<w pos="VBE" lemma="reicio">reiecit</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="NAM" lemma="--">Libro</w>
+<w pos="VBE" lemma="finio">finito</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="dignus">dignus</w>
+<w pos="VBE" lemma="adsum">adest</w>
+<w pos="ADV" lemma="merito1">merito</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="NUM" lemma="millenus">milleno</w>
+<w pos="NUM" lemma="centenus1">centeno</w>
+<w pos="NUM" lemma="ter">ter</w>
+<w pos="ADV" lemma="quoque">quoque</w>
+<w pos="NUM" lemma="deni">deno</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Tempore</w>
+<w pos="NAM" lemma="--">G</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Bauffet</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="scribo1">scriptus</w>
+<w pos="VBE" lemma="sum">fuit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">onc</w>
+<w pos="CON" lemma="ne">ne</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="VBE" lemma="--">mauffait</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="liber1">Liber</w>
+<w pos="NAM" lemma="--">Appendix</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

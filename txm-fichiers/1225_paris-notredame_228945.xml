@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1225_paris-notredame_228945" id_text_code="paris-notredame" num_cema="228945" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1225" date_cema14="-" date_ed="NA-4-1225" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Bartholomæus, Parisiensis episcopus, notificat compromissum quo dominus Alma ricus de Mullento, miles, suo ac fratrum et sororum suorum nomine, et capitu lum Parisiense, in controversia inter eos exorta, ratione cujusdam garennæ, quam Almaricus dicebat se habere in terra capituli citra Mandram, ex parte Mullenti, capitulo contrarium asserente, arbitri eliguntur nobilis vir dominus Symon, castellanus Neauffeiarum, et magister Hugo de Caprosia, canonicus Parisiensis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 15, n° 004." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1220">mccxx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

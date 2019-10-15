@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1347_paris-notredame_229825" id_text_code="paris-notredame" num_cema="229825" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1347" date_cema14="-" date_ed="24-6-1347" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Statutum capituli Parisiensis, quo jubetur, ut quivis clericus, quolibet beneficio donatus vel ad sacros ordines promotus, ipso facto partem suam in distributionibus denariorum matutinalium amittat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 128." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="generalis">generali</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="347">cccxluii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="uicesimus">uicesima</w>
+<w pos="NUM" lemma="quartus">quarta</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

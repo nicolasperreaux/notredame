@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1266_paris-notredame_229414" id_text_code="paris-notredame" num_cema="229414" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1266" date_cema14="-" date_ed="NA-4-1266" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Garnerus Tauri de Sancto Clodoaldo et Agnes, ejus uxor, profitentur se vendidisse Parisiensi episcopo, pro triginta quinque libris Parisiensibus, jam sibi solutis, ° viginti quatuor solidos Parisienses augmentati census, quos percipiebant annuatim e maneriis sive porprisio ejusdem episcopi apud Sanctum Clodoaldum; ° quamdam droituram et sexaginta solidos Parisienses minuti census, vocati census de Mes; quæ omnia percipiebant e terris, vineis aliisque possessionibus, apud Sanctum Clodoaldum sitis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 150." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

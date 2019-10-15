@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1243_paris-notredame_228500" id_text_code="paris-notredame" num_cema="228500" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1243" date_cema14="-" date_ed="1-9-1243" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta officialis curie Parisiensis, qua notum facit vocatum fuisse in jus coram se Petrum de Bastigniaco, militem, a decano et capitulo Parisiense, ut dictum capi tulum defenderet adversus abbatissam et conventum Sancti Remigii Silvanec tensis, atque presbyterum et parrochianos Longi Jumelli, qui sibi reddi petebant a capitulo Parisiensi dimidium modium bladi in decima Longi Jumelli, vendita cessa capitulo Parisiensi a canonicis Sancti Thomæ." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 111." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quadragesimus">quadragesimo</w>
+<w pos="NUM" lemma="tertius">tertio</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">martis</w>
+<w pos="ADV" lemma="post1">post</w>
+<w pos="VBE" lemma="octo2">octabas</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Bertholomei</w>
+<w pos="SUB" lemma="apostolus">apostoli</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

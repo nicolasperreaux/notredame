@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1225_paris-notredame_228478" id_text_code="paris-notredame" num_cema="228478" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1225" date_cema14="-" date_ed="NA-1-1225" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De Roberto et Petro, quondam filiis Tyonii Rousselli." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 089." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="QLF" lemma="beatus">B</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="permissio">permissione</w>
+<w pos="QLF" lemma="diuinus">diuina</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="SUB" lemma="minister2">minister</w>
+<w pos="QLF" lemma="humilis">humilis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="omnis">omnibus</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="inspicio">inspecturis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="nosco">Notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="NAM" lemma="--">Robertus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Petrus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="filius">filii</w>
+<w pos="NAM" lemma="--">Tyonii</w>
+<w pos="NAM" lemma="--">Russelli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="homo">homines</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="corpus">corpore</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Odelina</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Auelina</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="femina">femine</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="corpus">corpore</w>
+<w pos="SUB" lemma="capitulum">capituli</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="se">sibi</w>
+<w pos="SUB" lemma="fides">fidem</w>
+<w pos="VBE" lemma="do">dedissent</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="ADV" lemma="inuicem">inuicem</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="matrimonium">matrimonio</w>
+<w pos="VBE" lemma="contraho">contrahendo</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="ADV" lemma="ita">ita</w>
+<w pos="ADV" lemma="tandem">tandem</w>
+<w pos="VBE" lemma="ago">actum</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="PRE" lemma="super">super</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="PRE" lemma="inter">inter</w>
+<w pos="PRO" lemma="nos">nos</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="dico2">dictum</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PRO" lemma="nos">nos</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="successor">successores</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="NAM" lemma="--">Parisienses</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="VBE" lemma="habeo">habebimus</w>
+<w pos="NAM" lemma="--">Robertum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Odelinam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="sum">erunt</w>
+<w pos="SUB" lemma="homo">homines</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="corpus">corpore</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="VBE" lemma="habeo">habebit</w>
+<w pos="NAM" lemma="--">Petrum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Auelinam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="SUB" lemma="homo">homines</w>
+<w pos="QLF" lemma="suus">sui</w>
+<w pos="VBE" lemma="sum">erunt</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="corpus">corpore</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quod</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="VBE" lemma="reor">ratum</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="firmus">firmum</w>
+<w pos="VBE" lemma="permaneo">permaneat</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="SUB" lemma="sigillum">sigilli</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="munimen">munimine</w>
+<w pos="VBE" lemma="facio">fecimus</w>
+<w pos="VBE" lemma="roboro">roborari</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1224">mccxxiiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

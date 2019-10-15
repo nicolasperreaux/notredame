@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1191_paris-notredame_227884" id_text_code="paris-notredame" num_cema="227884" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1191" date_cema14="-" date_ed="3-3-1191" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Mauricii episcopi Parisiensis, qua notam facit compositionem pactam inter ipsum et ecclesiam Sancti Exsuperii Corboliensis de procuratione eidem episcopo exhibenda. febr." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 149." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="concessio">concessione</w>
+<w pos="ADV" lemma="quidem">quidem</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconi</w>
+<w pos="ADV" lemma="sollemniter">sollempniter</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="compositio">compositione</w>
+<w pos="ADV" lemma="uero1">uero</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="NAM" lemma="--">Meledunum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="regia">regia</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="primus">prima</w>
+<w pos="SUB" lemma="hebdomas">ebdomada</w>
+<w pos="NUM" lemma="quadragesimus">quadragesime</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="incarnatio">incarnationis</w>
+<w pos="QLF" lemma="dominicus1">Dominice</w>
+<w pos="NAM" lemma="--">Mcxc</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="NAM" lemma="--">Hugone</w>
+<w pos="NAM" lemma="--">Clemente</w>
+<w pos="SUB" lemma="abbas">abbate</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Hugone</w>
+<w pos="NAM" lemma="--">Eniorranno</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iohanne</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Perruchei</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="canonicus2">canonicis</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Exuperii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Matheo</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Nicolao</w>
+<w pos="NAM" lemma="-">Iohanne</w>
+<w pos="NAM" lemma="--">can</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="pario2">Paris</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="frater">fratre</w>
+<w pos="NAM" lemma="-">Daniele</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="magister2">magistro</w>
+<w pos="NAM" lemma="--">Alberto</w>
+<w pos="NAM" lemma="--">Lombardo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Petro</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Lodeuilla</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">aliis</w>
+<w pos="QLF" lemma="complures">quampluribus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

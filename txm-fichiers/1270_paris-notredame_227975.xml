@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1270_paris-notredame_227975" id_text_code="paris-notredame" num_cema="227975" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1270" date_cema14="-" date_ed="10-4-1270" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="-" edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 240." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="dominus">Dominus</w>
+<w pos="NAM" lemma="--">Robertus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Plesseio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="miles">miles</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="NUM" lemma="duo">duo</w>
+<w pos="SUB" lemma="hominaticus">homagia</w>
+<w pos="QLF" lemma="ligius1">ligia</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="uidelicet">uidelicet</w>
+<w pos="NUM" lemma="unus">unum</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="nemus">nemore</w>
+<w pos="QLF" lemma="situs1">sito</w>
+<w pos="ADV" lemma="iuxta1">iuxta</w>
+<w pos="NAM" lemma="--">Mayssiacum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">aliud</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="mansura">masuris</w>
+<w pos="VBE" lemma="sino">sitis</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="SUB" lemma="schola">scolam</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Germani</w>
+<w pos="NAM" lemma="--">Aulisiodorensis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="cena">cena</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

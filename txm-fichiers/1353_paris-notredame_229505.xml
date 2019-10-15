@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1353_paris-notredame_229505" id_text_code="paris-notredame" num_cema="229505" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1353" date_cema14="-" date_ed="12-6-1353" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Johannis, Parisiensis episcopi, qua, cum Ludovicus Normannus, quondam civis Parisiensis, viginti libras ad instituendam capellam, Beate Marie et SS. Jacobo et Juliano dicatam, in ecclesia Sancti Gervasii, legavisset, testamentique executores pium defuncti propositum exsequi vellent; idem episcopus, audita prius relatione socii sui commensalis Thome de Maalo, doctoris in decretis, cui locum, in quo dicta capella extruenda erat, commiserat visitandum, ejusdem capelle erectionem, salvis juribus suis, confirmat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 241." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="sanctus1">Sancto</w>
+<w pos="NAM" lemma="--">Marcello</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="prope2">prope</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="trecentesimus">trecentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="tertius">tertio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="duodecimus">duodecima</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

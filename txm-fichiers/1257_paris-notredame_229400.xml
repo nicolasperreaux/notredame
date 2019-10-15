@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1257_paris-notredame_229400" id_text_code="paris-notredame" num_cema="229400" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1257" date_cema14="-" date_ed="9-3-1257" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Nogentel, miles, et Agnes de Syrenis, ejus uxor, declarant se vendidisse Reginaldo, Parisiensi episcopo, pro septuaginta duobus libris Parisiensibus jam sibi solutis, quidquid tenebant apud Sanctum Clodoaldum a Rogero de Villa dAvroy, armigero, ad decem solidos Parisienses servitii, scilicet tallias minutas, census, coustumas, corveias, occia, redditus vinorum et dominium quod ibidem habebant vel habere poterant." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 136." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="VBE" lemma="marchio1">martio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="SUB" lemma="dominica">dominicam</w>
+<w pos="PRO" lemma="qui2">qua</w>
+<w pos="VBE" lemma="canto">cantatur</w>
+<w pos="NAM" lemma="--">Reminiscere</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

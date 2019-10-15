@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1212_paris-notredame_228595" id_text_code="paris-notredame" num_cema="228595" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1212" date_cema14="-" date_ed="NA-NA-1212" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Radulfus de Cofflans, miles, laudat et confirmat venditionem capitulo Parisiensi ab Alermo Hiecelins, pro duodecim libris Parisiensibus, factam, quatuor modio rum vini, percipiendorum annis singulis in tensamento de Andresiaco et Joiaco." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 04, n° 016." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="NUM" lemma="1212">mccxii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

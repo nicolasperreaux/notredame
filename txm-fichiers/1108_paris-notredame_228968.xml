@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1108_paris-notredame_228968" id_text_code="paris-notredame" num_cema="228968" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1108" date_cema14="-" date_ed="NA-NA-1108" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Item, de Lysiardo, filio Benedicti." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 16, n° 013." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Ludouicus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Francorum</w>
+<w pos="SUB" lemma="rex">rex</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">B</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="sanctus1">Sancte</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Gileberto</w>
+<w pos="CON" lemma="atque">atque</w>
+<w pos="NAM" lemma="--">Renaudo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="archidiaconus">archidiaconis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">A</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="precentor">precentori</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="ceterus">ceteris</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="QLF" lemma="prelatus1">prelatis</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="concanonicus">concanonicis</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Lisiardum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="filius">filium</w>
+<w pos="NAM" lemma="--">Benedicti</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Firmitate</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="deus">Deo</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="canonicus2">canonicorum</w>
+<w pos="SUB" lemma="conuentus">conuentui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="uxor">uxorem</w>
+<w pos="VBE" lemma="capio1">capiendam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="quisquis1">quicquid</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="VBE" lemma="placeo">placuerit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="liber2">liberum</w>
+<w pos="QLF" lemma="--">permitpriuilegium</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="VBE" lemma="transmitto">transmittimus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ualeo">Ualete</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

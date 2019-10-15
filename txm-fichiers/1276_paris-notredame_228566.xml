@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_228566" id_text_code="paris-notredame" num_cema="228566" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="NA-12-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Gervasius de Separa, armiger, filius defuncti Gervasii de Separa, militis, laudantibus Radulpho fratre, Rogero de Altilliaco milite, patruo, lsabelli matre et Johanna uxore ejusdem Gervasii, decimam Ville Domblæ, in parrochia Sarclaii, in feodo suo sitam, quam Herveus Brito dictus Raucus, canonicus Parisiensis, capitulo Parisiensi testamento suo dederat, dicto capitulo in perpetuum possidendam, undecim libris ab executoribus testamentariis dicti Hervei acceptis, confirmat." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 058." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1276">mcclxxui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="december">decembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

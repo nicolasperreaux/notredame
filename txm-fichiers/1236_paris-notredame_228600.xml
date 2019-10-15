@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1236_paris-notredame_228600" id_text_code="paris-notredame" num_cema="228600" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1236" date_cema14="-" date_ed="NA-1-1236" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Guillelmi, Parisiensis episcopi, qua, retentis sibi, quolibet anno, quinqua ginta solidis, concedit ut abbas et conventus Vallis Beatæ Marie possideant in manu mortua quindecim libras Parisienses annui redditus transversi de Con ffuentio, dicto conventui a Johanne, comite Belli Montis, Hugone de Grolaio, milite, et Matheo, domino Montis Morenciaci, datas." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 04, n° 021." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1235">mccxxxu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

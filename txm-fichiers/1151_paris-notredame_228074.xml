@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1151_paris-notredame_228074" id_text_code="paris-notredame" num_cema="228074" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1151" date_cema14="-" date_ed="21-3-1151" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Compositio inter Thomam de Courcellis, decanum ecclesiæ Parisiensis, et Johannem Bastardi, ejusdem ecclesiæ cantorem, inita, de nonnullis juribus quæ uterque sibi ipsi vindicabat: nempe utri pertineret ° delatio thuribuli in festis solemnibus et duplicibus; ° benedictio cinerum prima die Quadragesimæ; ° pronuntiatio absolutionis diejovisin CœnaDomini; ° officium respondendi episcopo, matutinas in pontificalibus celebranti, et dicenti ante nonam lectionem, Jube, Domine, benedicere, cui respondetur, Ora pro nobis pater; ° denique inceptio primæ anti phonæ in capitulo illis diebus quibus ante nativitatem Domini dicuntur antiphonæ incipientes per." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 01, n° 021." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="uicesimus">uigesima</w>
+<w pos="NUM" lemma="primus">prima</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="SUB" lemma="martius">martii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mccccluiii</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="NAM" lemma="--">Pascha</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

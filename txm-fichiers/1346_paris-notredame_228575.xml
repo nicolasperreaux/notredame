@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1346_paris-notredame_228575" id_text_code="paris-notredame" num_cema="228575" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1346" date_cema14="-" date_ed="20-1-1346" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Pierre Datis, parcheminier et bourgeois de Paris, Henri le Jeune, notaire au et Chatelet, le cure de Bagneux et autres, detenteurs de certaines terres situees a BagneuxSaintcEblant, au territoire de Pourmetel, et devant le champart au chapitre de Paris, declarent qua Pavenir ils tiendront ces terres a cens dudit chapitre, moyennant quatre sols Parisis de chefccens par arpent pour les terres dont le champart etait de deux gerbes sur doue, et moyennant deux sols par arpent pour celles dont le champart etait d une gerbe sur onse." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 067." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="--">accorde</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">tous</w>
+<w pos="VBE" lemma="--">les</w>
+<w pos="VBE" lemma="--">dessus</w>
+<w pos="SUB" lemma="--">nomme</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="excipio">excepte</w>
+<w pos="SUB" lemma="lisida">lesdis</w>
+<w pos="SUB" lemma="cura">cure</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Begnex</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Iehan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Saint</w>
+<w pos="NAM" lemma="--">Beneoit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="SUB" lemma="--">ieudi</w>
+<w pos="VBE" lemma="--">discneuf</w>
+<w pos="NAM" lemma="--">iours</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="VBE" lemma="--">ianuier</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="--">accorde</w>
+<w pos="SUB" lemma="--">desdis</w>
+<w pos="SUB" lemma="cura">cure</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Iehan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Saint</w>
+<w pos="NAM" lemma="--">Beneoit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="SUB" lemma="--">uendredi</w>
+<w pos="VBE" lemma="--">ensuiuant</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="20">xx</w>
+<w pos="NAM" lemma="--">iour</w>
+<w pos="NUM" lemma="--">dudit</w>
+<w pos="NAM" lemma="--">mois</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="QLF" lemma="--">mil</w>
+<w pos="NUM" lemma="340">cccxl</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">cinq</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

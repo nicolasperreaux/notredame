@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_229801" id_text_code="paris-notredame" num_cema="229801" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Juramentum capicerii et subcapicerii." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 104." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="PRO" lemma="ego">Ego</w>
+<w pos="NAM" lemma="--">N</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="capitiarius">capicerius</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="iuro">iuro</w>
+<w pos="SUB" lemma="reuerentia">reuerentiam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="obedientia">obedientiam</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="honor">honorem</w>
+<w pos="PRO" lemma="uos">uobis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">dominis</w>
+<w pos="QLF" lemma="meus">meis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decanus">decano</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PRO" lemma="hic3">huius</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="impendeo">impendere</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="exhibeo">exhibere</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="meus">meum</w>
+<w pos="QLF" lemma="--">cfficium</w>
+<w pos="ADV" lemma="bene">bene</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="fideliter">fideliter</w>
+<w pos="VBE" lemma="exerceo">exercere</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="alius">alia</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="VBE" lemma="teneo">teneor</w>
+<w pos="VBE" lemma="facio">facere</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="teneo">tenere</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="obseruo">obseruare</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="QLF" lemma="meus">mei</w>
+<w pos="SUB" lemma="predecessor">predecessores</w>
+<w pos="VBE" lemma="facio">fecerunt</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="facio">facere</w>
+<w pos="VBE" lemma="consueo">consueuerunt</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="teneo">tenentur</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="et">Et</w>
+<w pos="ADV" lemma="sic">sic</w>
+<w pos="PRO" lemma="ego">me</w>
+<w pos="SUB" lemma="deus">Deus</w>
+<w pos="VBE" lemma="adiuuo">adiuuet</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="sanctus1">sancta</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="euangelium">euuangelia</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1229_paris-notredame_227882" id_text_code="paris-notredame" num_cema="227882" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1229" date_cema14="-" date_ed="14-1-1229" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta decani et capituli Sancti Germani Autissiodorensis, qua, cum magister Arden gus, canonicus Papiensis, ipsis et episcopo Parisiensi datus sit judex super jure Sancti Germani in ecclesia Sancti Honorati Parisiensis, et super jurisdictione in terra Sancti Germani, ipsi decanus et capitulum, una cum episcopo Parisiensi, ejusdem Ardengi jurisdictionem extendunt ad ceteras controversias inter ipsos exortas, scilicet de ecclesia Sancti Honorati et collatione præbendarum ejusdem ecclesiæ, de jure patronatus ecclesiæ Sancti Eustachii et de collatione beneficiorum in ea institutorum vel instituendorum, etc., etc." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 147." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="uicesimus">uicesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="crastinus">crastino</w>
+<w pos="VBE" lemma="--">octabarum</w>
+<w pos="SUB" lemma="epiphania1">epiphanie</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1197_paris-notredame_227789" id_text_code="paris-notredame" num_cema="227789" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1197" date_cema14="-" date_ed="NA-NA-1197" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta Emelinæ, Calensis abbatissæ, ratam habentis sententiam qua Odo electus Parisiensis et cæteri arbitri supra nominati definierunt procurationem archidia coni et juridictionem episcopi Parisiensis in abbatia Calensi." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 054." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="VBE" lemma="incarno">incarnati</w>
+<w pos="NAM" lemma="--">Uerbi</w>
+<w pos="NAM" lemma="--">Mcxcuii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

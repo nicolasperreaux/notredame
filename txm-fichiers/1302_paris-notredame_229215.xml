@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1302_paris-notredame_229215" id_text_code="paris-notredame" num_cema="229215" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1302" date_cema14="-" date_ed="6-7-1302" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta capituli Parisiensis, qua, cum accepisset a Martino Daco, canonico Pari siensi, centum sexaginta et octo libras, de quibus idem capitulum a domino Roberto de Rupe Guidonis quadraginta libras annui redditus apud Andriaiacum emerat, eidem Martino in compensationem concedunt sex libras annui redditus, quæ, dicto Martino defuncto, in celebrando ejus anniversario impendentur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 031." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="QLF" lemma="--">tricentesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="VBE" lemma="octo2">octabis</w>
+<w pos="QLF" lemma="beatus">beatorum</w>
+<w pos="NAM" lemma="--">Petri</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Pauli</w>
+<w pos="SUB" lemma="apostoli">apostolorum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

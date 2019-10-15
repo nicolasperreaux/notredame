@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1256_paris-notredame_228503" id_text_code="paris-notredame" num_cema="228503" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1256" date_cema14="-" date_ed="27-4-1256" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charta iisdem fere verbis atque superior scripta, qua Hugo Normannus, Guillel mus Fulconis, Guiardus ejus filius, Gaufridus Bolie, Stephanus ejus frater, Andreas Brachet, Matheus Normannus, Renerus de Lanorvilla, Lambertus de Puteo, Petrus de Puteo, omnes de parrochia Lanorvillæ; Symon Marcel et Gui borgis de Castris, de parochia Castrorum, possidentes insimul sex arpenta et quartam partem arpenti terræ in parochia Lanorvillæ, in decimatione capituli Parisiensis, quam terram quum in vineis tum in masuris redegerant seu erant redacturi, promittunt se esse soluturos, annis singulis, capitulo Parisiensi, pro unoquoque arpento vinee seu masure, quatuor sextaria vini sine pressoragio et aqua, et, si vinum anno quodam deficere contigerit, se anno sequenti duplicem decimam capitulo esse persoluturos." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 114." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="sexto">sexto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">iouis</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Quasimodo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

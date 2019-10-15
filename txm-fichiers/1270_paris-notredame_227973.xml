@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1270_paris-notredame_227973" id_text_code="paris-notredame" num_cema="227973" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1270" date_cema14="-" date_ed="28-2-1270" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De ecctesia parrochiali Sancte Magdalene." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 238." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">M</w>
+<w pos="NAM" lemma="--">Cclx</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Cineres</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="apud">apud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Uictorem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="capella">capella</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="ADV" lemma="iuxta1">iuxta</w>
+<w pos="SUB" lemma="camera">cameram</w>
+<w pos="QLF" lemma="suus">suam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">dominus</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="SUB" lemma="--">Stepbanus</w>
+<w pos="VBE" lemma="confero">contulit</w>
+<w pos="SUB" lemma="altar">altare</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="NAM" lemma="--">Magdalene</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="VBE" lemma="instituo">instituit</w>
+<w pos="NAM" lemma="--">Andreas</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paci</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ciuis">ciuis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="SUB" lemma="anima">anima</w>
+<w pos="QLF" lemma="suus">sua</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pater">pater</w>
+<w pos="NAM" lemma="--">Radulphi</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paci</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="--">Tremondo</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Parisiis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="presbyter">presbitero</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="filius">filio</w>
+<w pos="NAM" lemma="--">Benedicti</w>
+<w pos="VBE" lemma="dico2">dicti</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="NAM" lemma="--">Guieete</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="prehabeo">prehabita</w>
+<w pos="QLF" lemma="diligens">diligenti</w>
+<w pos="SUB" lemma="inquisitio">inquisitione</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="SUB" lemma="colatium">collatio</w>
+<w pos="VBE" lemma="dico2">dicti</w>
+<w pos="SUB" lemma="altar">altaris</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="PRO" lemma="ipse2">ipsum</w>
+<w pos="SUB" lemma="dominus">dominum</w>
+<w pos="SUB" lemma="episcopus">episcopum</w>
+<w pos="NAM" lemma="--">Parisiensem</w>
+<w pos="VBE" lemma="pertineo">pertinebat</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="presens">Presentes</w>
+<w pos="VBE" lemma="intersum">interfuerunt</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="magister2">magister</w>
+<w pos="NAM" lemma="--">Guillelmus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Noua</w>
+<w pos="NAM" lemma="--">Uilla</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="canonicus2">canonicus</w>
+<w pos="SUB" lemma="capella">capelle</w>
+<w pos="SUB" lemma="episcopus">episcopi</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Iohannes</w>
+<w pos="NAM" lemma="--">Anselli</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="curo">curatus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Campi</w>
+<w pos="NAM" lemma="--">Luppo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="prope2">prope</w>
+<w pos="NAM" lemma="--">Latiniacum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

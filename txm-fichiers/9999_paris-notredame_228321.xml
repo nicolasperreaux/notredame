@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_228321" id_text_code="paris-notredame" num_cema="228321" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De duobus presbiteris Sancti Christophori instituendis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 030." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NUM" lemma="duo">Duo</w>
+<w pos="SUB" lemma="presbyter">presbiteri</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Christofori</w>
+<w pos="VBE" lemma="instituo">instituuntur</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="habeo">habent</w>
+<w pos="SUB" lemma="cura">curam</w>
+<w pos="QLF" lemma="pauper">pauperum</w>
+<w pos="QLF" lemma="hospitalis1">hospitalis</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="iuro">Iurant</w>
+<w pos="ADV" lemma="quoque">quoque</w>
+<w pos="SUB" lemma="fidelitas">fidelitatem</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="obedientia">obedientiam</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="debeo">Debent</w>
+<w pos="ADV" lemma="etiam">etiam</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="QLF" lemma="suus">sue</w>
+<w pos="VBE" lemma="deseruio">deseruire</w>
+<w pos="ADV" lemma="uicissim">uicissim</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="unus">unus</w>
+<w pos="ADV" lemma="scilicet">scilicet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NUM" lemma="unus">una</w>
+<w pos="NUM" lemma="septimanus">septimana</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="reliquus">reliquus</w>
+<w pos="VBE" lemma="inaltero">inaltera</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="ADV" lemma="ita">ita</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="unus">uno</w>
+<w pos="VBE" lemma="deseruio">deseruiente</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="ecclesia">ecclesia</w>
+<w pos="QLF" lemma="sanctus1">Sancti</w>
+<w pos="NAM" lemma="--">Christofori</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="alter">alter</w>
+<w pos="VBE" lemma="teneo">tenetur</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="ecclesia">ecclesia</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Mane</w>
+<w pos="QLF" lemma="cottidianus">cotidianis</w>
+<w pos="VBE" lemma="intersum">interesse</w>
+<w pos="SUB" lemma="officium">officiis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="ADV" lemma="etiam">etiam</w>
+<w pos="PRO" lemma="ille2">ille</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="PRO" lemma="qui2">qui</w>
+<w pos="VBE" lemma="sum">est</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NUM" lemma="septimanus">septimana</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="PRO" lemma="is2">ei</w>
+<w pos="VBE" lemma="uaco">uacauerit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

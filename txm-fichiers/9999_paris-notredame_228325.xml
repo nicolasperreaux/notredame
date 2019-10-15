@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="9999_paris-notredame_228325" id_text_code="paris-notredame" num_cema="228325" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="9999" date_cema14="-" date_ed="NA-NA-NA" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De servis feodatariis capituli, majoribus et decanis." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 09, n° 034." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="seruio">Seruientes</w>
+<w pos="SUB" lemma="feodatarius2">feodatarii</w>
+<w pos="PRO" lemma="qui2">quos</w>
+<w pos="VBE" lemma="habeo">habemus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="custos">custodes</w>
+<w pos="SUB" lemma="claustrum">claustri</w>
+<w pos="VBE" lemma="iuro">iurant</w>
+<w pos="SUB" lemma="fidelitas">fidelitatem</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="VBE" lemma="celo1">celaturos</w>
+<w pos="SUB" lemma="consilium">consilia</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="seruo">seruaturos</w>
+<w pos="SUB" lemma="honor">honorem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="uita">uitam</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="membrum">membra</w>
+<w pos="SUB" lemma="canonicus2">canonicorum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="bona">bona</w>
+<w pos="SUB" lemma="fides">fide</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="hic3">Hoc</w>
+<w pos="PRO" lemma="idem2">idem</w>
+<w pos="VBE" lemma="iuro">iurant</w>
+<w pos="SUB" lemma="maior">maiores</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="decanus">decani</w>
+<w pos="SUB" lemma="uilla">uillarum</w>
+<w pos="QLF" lemma="noster">nostrarum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="CON" lemma="preterea">preterea</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="ADV" lemma="fideliter">fideliter</w>
+<w pos="VBE" lemma="seruo">seruabunt</w>
+<w pos="SUB" lemma="terra">terras</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="redditus1">redditus</w>
+<w pos="SUB" lemma="canonicus2">canonicorum</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

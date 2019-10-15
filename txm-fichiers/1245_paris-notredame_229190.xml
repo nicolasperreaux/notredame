@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1245_paris-notredame_229190" id_text_code="paris-notredame" num_cema="229190" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1245" date_cema14="-" date_ed="NA-4-1245" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guillelmus, Parisiensis episcopus, ex octo et viginti solidis Parisiensibus annui census augmentati, quos percipiendos e quadam domo, sita supra calceiam, in Magno Vico Parisiensi, ultra muros, versus domum Filiarum Dei, legaverat ma gister Radulphus de Caritate, quondam Parisiensis canonicus, ad opus anniver sarii sui, tres et viginti solidos, reliquis quinque solidis sibi reservatis, ecclesiæ Beate Mariæ in manum mortuam concedit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 006." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="aprilis">aprili</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

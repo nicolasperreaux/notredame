@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1275_paris-notredame_229739" id_text_code="paris-notredame" num_cema="229739" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1275" date_cema14="-" date_ed="3-8-1275" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes de Limolio, armiger, quum diceretur ipse operam, consilium sive auxilium prestitisse Guillelmo de Bonolio, armigero, in abscidendis et disrumpendis quibusdam nassis in aqua capituli, inter Christolium et Bonolium, consentit ut capitulum Parisiense de hoc facto inquirat, promittitque, si reus inveniatur, se mulctam soluturum ad voluntatem dicti capituli." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 042." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="NUM" lemma="70">lxx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="festa1">festo</w>
+<w pos="SUB" lemma="inuentio">inuentionis</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="-">Stephani</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

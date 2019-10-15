@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1269_paris-notredame_228429" id_text_code="paris-notredame" num_cema="228429" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1269" date_cema14="-" date_ed="NA-5-1269" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Lambertus, decanus de Laiaco, et Petronilla, ejus uxor, capitulo Parisiensi ven dunt, pro decem libris Parisiensibus quinque solidis minus, sexdecim solidos Parisienses super unum arpentum terre arabilis et dimidium arpentum vineæ, apud Laiacum, annuatim levandos, ad alendam lampadem in ecclesia Beatæ Mariæ, ante altare sancte Anne, ardentem." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 02, n° 040." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1260">mcclx</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="maius2">mayo</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

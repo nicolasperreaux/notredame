@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1261_paris-notredame_228681" id_text_code="paris-notredame" num_cema="228681" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1261" date_cema14="-" date_ed="26-1-1261" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Henricus de Tymsiato, armiger, Adina, ejus uxor, Petrus dictus Ploumes, de Mis sessiaco, armiger, et Gila, ejus uxor, notificant se vendidisse ecclesie Beatæ Mariæ Parisiensis, ad opus horarum ejusdem ecclesiæ, pro centum libris et centum solidis Turonensibus, jam sibi solutis, tria sextaria frumenti, tria sextaria et quinque bichetos avenæ, viginti septem solidos et octo denarios Turonenses minuti census, et quartam partem pedagii transversus aque de Tavers; quæ omnia dicti venditores habebant apud Tavers ex hereditate dictarum Adine et Gilæ, et tenebant in liberum allodium absque ulla redibitione; necnon ventas, laudes, requirentias, omne dominium et omnia jura ad res venditas spectantia." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 07, n° 005." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="sexagesimus">sexagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="mercurius">mercurii</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Conuersionem</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Pauli</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

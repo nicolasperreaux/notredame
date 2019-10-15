@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1152_paris-notredame_228064" id_text_code="paris-notredame" num_cema="228064" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1152" date_cema14="-" date_ed="NA-NA-1152" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Epistola Eugenii III papæ ad Senonensem et Rothomagensem archiepiscopos, qua eos monet, ut parrochianos suos, qui damna et injurias Parisiensi ecclesiæ intulerunt , ad eidem ecclesiæ satisfaciendum coerceant. mai. circa." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 01, n° 011." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Tusculani</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="eo2">Xuit</w>
+<w pos="SUB" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

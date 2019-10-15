@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1218_paris-notredame_228622" id_text_code="paris-notredame" num_cema="228622" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1218" date_cema14="-" date_ed="NA-6-1218" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Item, de dono ecclesie de Noisiello." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 05, n° 006." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">P</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="SUB" lemma="episcopus">episcopus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="omnis">omnibus</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="inspicio">inspecturis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="salus">salutem</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="dominus">Domino</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="nosco">Notum</w>
+<w pos="VBE" lemma="facio">facimus</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="cum1">cum</w>
+<w pos="SUB" lemma="ecclesia">ecclesia</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Nosiel</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="saluber">salubri</w>
+<w pos="QLF" lemma="bonus">bonorum</w>
+<w pos="SUB" lemma="consilium">consilio</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">ab</w>
+<w pos="SUB" lemma="ecclesia">ecclesia</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Susciaco</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="VBE" lemma="decido2">decisa</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="donatio">donacio</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Succiaco</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="NAM" lemma="--">Parisiense</w>
+<w pos="VBE" lemma="pertineo">pertinere</w>
+<w pos="VBE" lemma="nosco">noscatur</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="nos">nos</w>
+<w pos="VBE" lemma="uolo2">uolumus</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="concedo">concedimus</w>
+<w pos="SUB" lemma="donatio">donacionem</w>
+<w pos="QLF" lemma="predictus">predicte</w>
+<w pos="SUB" lemma="ecclesia">ecclesie</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Nosiel</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="QLF" lemma="prefatus">prefatum</w>
+<w pos="SUB" lemma="capitulum">capitulum</w>
+<w pos="NAM" lemma="--">Parisiense</w>
+<w pos="ADV" lemma="similiter">similiter</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="perpetuus">perpetuum</w>
+<w pos="VBE" lemma="pertineo">pertinere</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="CON" lemma="ut">Ut</w>
+<w pos="ADV" lemma="igitur">igitur</w>
+<w pos="PRO" lemma="hic3">hoc</w>
+<w pos="ADV" lemma="perpetuo1">perpetuo</w>
+<w pos="VBE" lemma="perseuero">perseueret</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="hic3">has</w>
+<w pos="SUB" lemma="littera">litteras</w>
+<w pos="VBE" lemma="facio">fecimus</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="SUB" lemma="sigillum">sigilli</w>
+<w pos="SUB" lemma="testimonium">testimonio</w>
+<w pos="VBE" lemma="communio1">communiri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iunius1">iunio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1271_paris-notredame_228891" id_text_code="paris-notredame" num_cema="228891" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1271" date_cema14="-" date_ed="NA-7-1271" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Magister Johannes de Calido Monte, presbyter beneficiatus in ecclesia Sancti." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 13, n° 016." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Mederici</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="a">a</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="NAM" lemma="--">Beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="pro">pro</w>
+<w pos="NUM" lemma="septuaginta">septuaginta</w>
+<w pos="SUB" lemma="liber1">libris</w>
+<w pos="NAM" lemma="--">Parisiensibus</w>
+<w pos="ADV" lemma="annualiter">annuatim</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NUM" lemma="duo">duobus</w>
+<w pos="SUB" lemma="terminus">terminis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="soluo">soluendis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="prepositura">preposituram</w>
+<w pos="NAM" lemma="--">Uiriaci</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Uiromandia</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="paruus">paruam</w>
+<w pos="QLF" lemma="firmus">firmam</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="SUB" lemma="uilla">uille</w>
+<w pos="CON" lemma="atque">atque</w>
+<w pos="QLF" lemma="quidam">quoddam</w>
+<w pos="SUB" lemma="manere">manerium</w>
+<w pos="VBE" lemma="dico2">dictum</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">Mes</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="QLF" lemma="firmus">firmam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="quamdiu">quamdiu</w>
+<w pos="VBE" lemma="uiuo">uiuet</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="teneo">tenendam</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="accipio">accipit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iuliarius">iulio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

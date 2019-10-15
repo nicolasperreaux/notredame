@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1270_paris-notredame_228922" id_text_code="paris-notredame" num_cema="228922" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1270" date_cema14="-" date_ed="1-5-1270" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Dominus Theobaldus de Messis et domina Johanna, ejus uxor, filia defuncti Odonis de Compenso, militis, ex una parte, et Johannetus, filius defuncti Odeti, quon dam fratris dictæ dominæ, ex altera, de hoc assentiunt, ut querela quæ inter ipsos vertebatur coram decano Parisiensi, ratione hareditatis dicti Odonis, mi litis, in suspenso remaneat, quoad Johannetus vicesimum etatis suæ annum sit assecutus." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 021." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="septuagesimus">septuagesimo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="QLF" lemma="festus">festi</w>
+<w pos="QLF" lemma="beatus">beatorum</w>
+<w pos="SUB" lemma="apostoli">apostolorum</w>
+<w pos="NAM" lemma="--">Philippi</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="-">Iacobi</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

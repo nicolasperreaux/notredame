@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1289_paris-notredame_229858" id_text_code="paris-notredame" num_cema="229858" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1289" date_cema14="-" date_ed="NA-NA-1289" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Sententia decani et capituli Parisiensis, qua Johannes Taupin, de Verberia, mer mart, cator et nauta, quum duas naves oneratas ad insulam Sanctæ Mariæ adduxisset ibique exoneravisset, et eas postea abduxisset, non soluta de quaque nave coustuma duorum solidorum Parisiensium, capitulo debita, ad solvendos quatuor solidos, coustumæ gratia, damnatur." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 03, n° 161." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="octogesimus">octogesimo</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="sabbatum">sabbati</w>
+<w pos="PRE" lemma="post2">post</w>
+<w pos="NAM" lemma="--">Brandones</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

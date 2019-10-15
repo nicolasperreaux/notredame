@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1261_paris-notredame_229110" id_text_code="paris-notredame" num_cema="229110" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1261" date_cema14="-" date_ed="21-2-1261" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Reginaldus et Guiotus, fratres, filii domini Johannis de Sancto Michaele, militis, defuncti, profitentur se vendidisse ecclesie Beate Marie Parisiensis, ad opus horarum ejusdem ecclesiæ, pro sexaginta libris Parisiensibus, jam sibi solutis, mediam partem decime vini et bladi, sitam apud Sanctum Michaelem et Perro sum, Parisiensis diccesis, dimidiamque partem cujusdam hostisie et grangiæ, quam ipsi tenebant in feodum a venerabili viro Radulfo, Parisiensis ecclesiæ archidiacono." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 093." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1260">mcclx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="cathedra">cathedram</w>
+<w pos="QLF" lemma="sanctus1">sancti</w>
+<w pos="NAM" lemma="--">Petri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

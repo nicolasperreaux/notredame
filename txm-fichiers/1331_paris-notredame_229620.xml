@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1331_paris-notredame_229620" id_text_code="paris-notredame" num_cema="229620" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1331" date_cema14="-" date_ed="23-7-1331" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Due charte Johannis Marini, canonici Sancti Germani Autissiodorensis, receptoris Parisiensis episcopi, quibus testatur se tradidisse pauperibus Sorbonæ scholaribus dimidiam partem, et collegio Bonorum Puerorum Sancti Victoris alteram dimidiam partem multe quadringentarum librarum, quam Hugo, Parisiensis episcopus, receperat a Johanne le Fourbeur, clerico. et." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 356." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1331">mcccxxxi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="14">xiu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="decimus">decima</w>
+<w pos="NUM" lemma="septimus1">septima</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NAM" lemma="-">martis</w>
+<w pos="NUM" lemma="uicesimus">uigesima</w>
+<w pos="NUM" lemma="tertius">tertia</w>
+<w pos="QLF" lemma="iuliarius">iulii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="sanctus1">sanctissimi</w>
+<w pos="SUB" lemma="pater">patris</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="-">Iohannis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="diuinus">diuina</w>
+<w pos="SUB" lemma="prouidentia">prouidentia</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="SUB" lemma="ixion">Xxii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="15">xu</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

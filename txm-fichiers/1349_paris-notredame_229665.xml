@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1349_paris-notredame_229665" id_text_code="paris-notredame" num_cema="229665" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1349" date_cema14="-" date_ed="18-3-1349" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Marie la Gossequine, bourgeoise de Paris, en compensation de Pamortissement drune rente de quatre livres, consenti a son profit par Foulques de Chenac, eveque de Paris, constitue audit eveque une rente de vingt sous parisis, a prendre sur une maison situee dans la rue SaintGermainTAuxerrois." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 037." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">nous</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">seel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="QLF" lemma="--">merquedi</w>
+<w pos="VBE" lemma="--">dischuit</w>
+<w pos="NAM" lemma="--">iours</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="NAM" lemma="--">mois</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="-">mars</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="SUB" lemma="--">quarante</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">huit</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

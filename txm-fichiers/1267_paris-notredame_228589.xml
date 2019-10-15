@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1267_paris-notredame_228589" id_text_code="paris-notredame" num_cema="228589" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1267" date_cema14="-" date_ed="NA-11-1267" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Soror Basilia, magistra Domus Dei de Sancto Germano in Laya, asserit se recepisse ad censum, a capitulo Parisiensi, pro duobus solidis capitalis census, annuatim solvendis apud Andresiacum, quamdam masuram sitam in censiva capituli, apud Garannas." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 04, n° 010." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1267">mcclxuii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="nouembrius">nouembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1276_paris-notredame_228029" id_text_code="paris-notredame" num_cema="228029" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1276" date_cema14="-" date_ed="30-3-1276" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De homagio de Confluencio." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 294." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="ADV" lemma="ibidem">Ibidem</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="QLF" lemma="predictus">predictis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="QLF" lemma="predictus">predictis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Odardus</w>
+<w pos="NAM" lemma="--">Arrodi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="filius">filius</w>
+<w pos="SUB" lemma="defuncti">defuncti</w>
+<w pos="NAM" lemma="-">Iohannis</w>
+<w pos="NAM" lemma="--">Arrodi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ciuis">ciuis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SUB" lemma="dominus">domino</w>
+<w pos="NAM" lemma="-">Stephano</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="SUB" lemma="episcopus">episcopo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NUM" lemma="11">xi</w>
+<w pos="QLF" lemma="--">libr.</w>
+<w pos="NUM" lemma="5">u</w>
+<w pos="SUB" lemma="sol">sol</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="pario2">Paris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quas</w>
+<w pos="VBE" lemma="possideo">possidet</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="transuersum">transuerso</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Confluencio</w>
+<w pos="PRE" lemma="ex">ex</w>
+<w pos="SUB" lemma="successio">successione</w>
+<w pos="SUB" lemma="paternum">paterna</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="-">Radulphus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Paciaco</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="ciuis">ciuis</w>
+<w pos="NAM" lemma="--">Parisiensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="facio">fecit</w>
+<w pos="SUB" lemma="hominaticus">homagium</w>
+<w pos="QLF" lemma="ligius1">ligium</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

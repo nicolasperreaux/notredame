@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1260_paris-notredame_228912" id_text_code="paris-notredame" num_cema="228912" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1260" date_cema14="-" date_ed="NA-2-1260" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Leonardus, serviens domini Ambladi de Columna, confitetur se recepisse, pro se et suis heredibus, a capitulo Parisiensi, vice prebendarum Mintriaci et Moi riaci, quinquaginta tria arpenta terre, sita in territorio Moiriaci, in censiva capituli Parisiensis; ea lege, ut dictus Leonardus et ejus haredes solvant capitulo, pro quolibet arpento, decem et octo denarios Parisienses capitalis census cum recta decima, salvis ecclesie Parisiensi, ad opus prebendarum, investituris, si dictas terras vendi vel de manu in manum transire contigerit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 14, n° 011." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1250">mccl</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="februarius1">februario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1302_paris-notredame_229216" id_text_code="paris-notredame" num_cema="229216" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1302" date_cema14="-" date_ed="30-7-1302" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Capitulum Parisiense, acceptis a Petro de Sancto Audomaro, archidiacono Briæ, centum et duodecim libris Parisiensibus, jam ad emendum redditum, apud Andriæiacum, adhibitis, eidem Petro quatuor libras, ex bursa capituli, annuatim, quamdiu vivet, percipiendas, et, post ejus obitum, in ipsius anniversario cele brando impendendas, concedit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 22, n° 032." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="trecentesimus">trecentesimo</w>
+<w pos="NUM" lemma="secundus">secundo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="luna">lune</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beati</w>
+<w pos="NAM" lemma="--">Petri</w>
+<w pos="SUB" lemma="apostolus">apostoli</w>
+<w pos="PRE" lemma="ad">ad</w>
+<w pos="NAM" lemma="--">Uincula</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

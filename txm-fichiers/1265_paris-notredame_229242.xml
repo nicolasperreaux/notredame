@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1265_paris-notredame_229242" id_text_code="paris-notredame" num_cema="229242" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1265" date_cema14="-" date_ed="NA-NA-1265" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Robertus et Stephanus, Sancti Christophori Parisiensis rectores, a capitulo Beatæ Marie Parisiensis recipiunt : I° quamdam domum, sitam Parisiis, juxta Sanc tum Christophorum; ° arpentum unum vineæ apud Orliacum, et dimidium arpentum apud Montem Civriacum; ° quinque solidos Parisienses e tribus quarteriis terræ arabilis, apud Montem Civriacum, annuatim percipiendos; vicissimque promittunt se reddituros dicto capitulo centum solidos Parisienses annuæ pensionis, « videlicet ad opus camere ecclesie Beate Marie Parisiensis.... et pro quadam stacione solvenda ad festum beate Marie Magdalene; sexdecim que libras Parisienses, intra sex proximos annos, in restauranda dicta domo, impensuros.Sept." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 23, n° 023." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1000">m</w>
+<w pos="NUM" lemma="200">cc</w>
+<w pos="NUM" lemma="60">lx</w>
+<w pos="NUM" lemma="quintus">quinto</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="september">septembri</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1379_paris-notredame_229485" id_text_code="paris-notredame" num_cema="229485" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1379" date_cema14="-" date_ed="20-7-1379" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Simon decanus et capitulum Parisiense, nomine executorum testamenti defuncti Radulphi de Roseto, canonici et ponitentiarii Parisiensis, asserunt se emisse, ad opus capellaniæ, in ecclesia Parisiensi ab eodem Radulpho institutæ, viginti duas libratas, undecim solidatas, decem denariatas cum obolo Parisiensis monetæ, perpetuo et annuatim percipiendas « super tranversum aquæ seu portum, passagium, aut paagium Sancte Honorine de Confiantiis vel sub Pontisaram , in feodo Parisiensis episcopi; qui episcopus, ex dicto redditu sexdecim libras Parisienses in manu mortua possidendas concedit dictæ capellanie et magistro Egidio de Billiaco super Urcum, Suessionensis diccesis, in eadem instituto capellano, sibi reliquum in concessionis recompensationem reservans." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 221." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="QLF" lemma="noster">nostro</w>
+<w pos="SUB" lemma="capitulum">capitulo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="SUB" lemma="uenus">ueneris</w>
+<w pos="PRE" lemma="ante2">ante</w>
+<w pos="SUB" lemma="festa1">festum</w>
+<w pos="QLF" lemma="beatus">beate</w>
+<w pos="NAM" lemma="--">Marie</w>
+<w pos="NAM" lemma="--">Magdalene</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="trecentesimus">trecentesimo</w>
+<w pos="NUM" lemma="decimus">decimo</w>
+<w pos="NUM" lemma="nonus">nono</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

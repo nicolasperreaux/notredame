@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1371_paris-notredame_229627" id_text_code="paris-notredame" num_cema="229627" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1371" date_cema14="-" date_ed="NA-8-1371" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Charles, roi de France, considerant que Peveque de Paris a consenti a Pamortissement de divers heritages situes a Tournant et a Torcy, autrefois estimes a sept cents livres de rente, lesquels, achetes par le roi, ont ete donnes par lui au chapitre de Peglise collegiale de son chateau de Vivier en Brie, pour lequel amortissement le roi sretait engage a assigner en lieu convenable, pour ledit eveque et ses successeurs, une rente annuelle et perpetuelle de quarante livres, donne audit eveque, en execution de sa promesse, un grand hotel, avec cour, jardins, viviers, etc., situe a Gentilly, pres Paris." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 363." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="--">Ce</w>
+<w pos="VBE" lemma="--">fu</w>
+<w pos="SUB" lemma="--">fait</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="SUB" lemma="domina">donne</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="QLF" lemma="noster">nostre</w>
+<w pos="NAM" lemma="--">chastel</w>
+<w pos="NUM" lemma="505">du</w>
+<w pos="NAM" lemma="--">Louureclea</w>
+<w pos="VBE" lemma="--">iParis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Tan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="NUM" lemma="1360">mccclx</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">one</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="noster">nostre</w>
+<w pos="SUB" lemma="--">regne</w>
+<w pos="QLF" lemma="--">le</w>
+<w pos="NUM" lemma="8">uiii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">ou</w>
+<w pos="NAM" lemma="--">mois</w>
+<w pos="VBE" lemma="--">draoust</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

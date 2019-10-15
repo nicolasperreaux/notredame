@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1210_paris-notredame_228592" id_text_code="paris-notredame" num_cema="228592" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1210" date_cema14="-" date_ed="NA-NA-1210" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Theobaldus de Maudestor, miles, confirmat venditionem, pro nonaginta libris Pari siensibus, capitulo Parisiensi factam ab Hugone de Ronello, milite, Drocone de Ruello et Drocone de Bosco Guillelmi, omnium jurium quæ dicti venditores habe bant in tensamento vini de Andresiaco et de Joiaco." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 04, n° 013." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NAM" lemma="--">Gratie</w>
+<w pos="NUM" lemma="1210">mccx</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

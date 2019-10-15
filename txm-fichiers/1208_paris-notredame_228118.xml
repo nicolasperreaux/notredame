@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1208_paris-notredame_228118" id_text_code="paris-notredame" num_cema="228118" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1208" date_cema14="-" date_ed="NA-1-1208" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="De majoria de Viriaco." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 2, Liber 02, n° 039." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="NAM" lemma="-">Philippus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="deus">Dei</w>
+<w pos="SUB" lemma="gratia2">gratia</w>
+<w pos="NAM" lemma="--">Francorum</w>
+<w pos="SUB" lemma="rex">rex</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="nosco">Nouerint</w>
+<w pos="QLF" lemma="uniuersus">uniuersi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="presens">presentes</w>
+<w pos="ADV" lemma="pariter">pariter</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="futurus">futuri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="NAM" lemma="--">Galterus</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Uiriaco</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">Robertus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="idem2">eiusdem</w>
+<w pos="SUB" lemma="filius">filius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="presentia">presentia</w>
+<w pos="QLF" lemma="noster">nostra</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="VBE" lemma="constituo">constituti</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="recognosco">recognouerunt</w>
+<w pos="PRO" lemma="se">se</w>
+<w pos="QLF" lemma="nullus">nullum</w>
+<w pos="SUB" lemma="ius">ius</w>
+<w pos="QLF" lemma="hereditarius1">hereditarium</w>
+<w pos="VBE" lemma="habeo">habere</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="maioria">maioria</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Uiriaco</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="iuro">iurauerunt</w>
+<w pos="PRO" lemma="qui2">quod</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="ceterus">cetero</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="maioria">maioria</w>
+<w pos="QLF" lemma="predictus">predicta</w>
+<w pos="SUB" lemma="nihil">nichil</w>
+<w pos="SUB" lemma="ius">iure</w>
+<w pos="QLF" lemma="hereditarius1">hereditario</w>
+<w pos="VBE" lemma="reclamo">reclamabunt</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="PRO" lemma="qui2">Quod</w>
+<w pos="CON" lemma="ut">ut</w>
+<w pos="QLF" lemma="firmus">firmum</w>
+<w pos="VBE" lemma="sum">sit</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="QLF" lemma="stabilis">stabile</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="hic3">huic</w>
+<w pos="SUB" lemma="res">rei</w>
+<w pos="SUB" lemma="testimonium">testimonium</w>
+<w pos="VBE" lemma="perhibeo">perhibemus</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="ago">Actum</w>
+<w pos="NAM" lemma="--">Parisius</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NAM" lemma="--">Mcc</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="ianuarius1">ianuario</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1233_paris-notredame_229525" id_text_code="paris-notredame" num_cema="229525" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1233" date_cema14="-" date_ed="NA-NA-1233" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Abbatissa de Gomeri Fonte, indulta sibi ab episcopo Parisiensi amortisatione quinquaginta solidorum annui redditus, quos abbatie legaverat Hugo de Marolio, percipiendos ex transitu Sequanæ apud Conffuentes, quintam ejusdem redditus partem dicto episcopo concedit." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 261." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="annus">Anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="233">ccxxxiii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

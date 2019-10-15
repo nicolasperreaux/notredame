@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1249_paris-notredame_228654" id_text_code="paris-notredame" num_cema="228654" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1249" date_cema14="-" date_ed="NA-3-1249" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Baldricus, Vivianus et Petrus, fratres, filii defuncti Durandi de Domibus, asserunt se a capitulo Parisiensi recepisse ad censum, pro septem libris Parisiensibus et dimidia, solvendis annuatim duobus terminis, triginta et duo arpenta terræ arabilis et arpenta quatuor et dimidium prati, sita in territorio ville de Domibus." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 05, n° 038." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="millesimus">millesimo</w>
+<w pos="NUM" lemma="ducentesimus">ducentesimo</w>
+<w pos="NUM" lemma="40">xl</w>
+<w pos="NUM" lemma="octauo">octauo</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="VBE" lemma="marchio1">martio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

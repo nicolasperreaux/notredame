@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1308_paris-notredame_229352" id_text_code="paris-notredame" num_cema="229352" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1308" date_cema14="-" date_ed="23-6-1308" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Pierre de Bonnoil, merrenier, demeurant aux Tuileries de Paris, pres le Louvre, reconnait avoir recu de Guillaume, eveque de Paris, moyennant one livres seiee sous, une fois payes, et un cens de quatre sous parisis, payable tous les ans, a la Saint.Remi, un arpent et demi moins deux perches de terre labourable, situee aux Tuileries, du cote de la Seine, tenant d une part au chemin de Seine, dautre part a la terre de Guillaume, tailleur de monseigneur Charles, et dautre part a la terre de Julien Bonnefille, maitre des bouchers de Paris." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 088." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="NAM" lemma="--">Lan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="VBE" lemma="--">mil</w>
+<w pos="NAM" lemma="-">trois</w>
+<w pos="SUB" lemma="--">cen</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="VBE" lemma="--">huit</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="SUB" lemma="--">diemanche</w>
+<w pos="SUB" lemma="--">uoille</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="festa1">feste</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Iehan</w>
+<w pos="NAM" lemma="--">Baptiste</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

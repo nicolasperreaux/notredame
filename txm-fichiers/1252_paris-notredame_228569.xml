@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1252_paris-notredame_228569" id_text_code="paris-notredame" num_cema="228569" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1252" date_cema14="-" date_ed="NA-6-1252" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Guerinus de Villa Dombla et Isabellis, ejus uxor, ad quos pertinebat dimidia pars decime Ville Domblæ, e feodo Roberti de Limons, armigeri, movens, profi tentur se vendidisse ex eadem decima magistro Herveo Britoni, canonico Remensi, pro quinquaginta quinque libris Parisiensibus, duos modios bladi annui redditus, unum mixtolii, alterum avenæ." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 03, n° 061." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1252">mcclii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="QLF" lemma="iunius1">iunii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

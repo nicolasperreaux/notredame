@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1342_paris-notredame_229687" id_text_code="paris-notredame" num_cema="229687" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1342" date_cema14="-" date_ed="20-9-1342" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes Halegrini, canonicus Belvacensis, solus superstes executor testamenti defuncte Marie Pastillarie, alias dicte la Pastoiere, declarat coram vicariis generalibus domini Guillelmi, Parisiensis episcopi, in remotis tunc agentis, se instituere, secundum pradicti testamenti tenorem, unam capellam in ecclesia Sancti Eustachii Parisiensis; cui assignat duodecim libras Parisienses, percipiendas annuatim « super pixide regia coustume seu consuetudinis piscium marinorum halarum Parisiensium ,; quas a dicti testamenti executoribus acquisitas, Philippus VI, Francorum rex, dictæ capellæ concesserat in manu mortua possidendas." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 02, n° 059." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="acta">Acta</w>
+<w pos="VBE" lemma="sum">fuerunt</w>
+<w pos="PRO" lemma="hic3">hec</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="claustrum">claustro</w>
+<w pos="NAM" lemma="--">Parisiensi</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="SUB" lemma="domus">domo</w>
+<w pos="QLF" lemma="meus">mei</w>
+<w pos="NAM" lemma="--">Fulconis</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="NAM" lemma="--">Chenaco</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="PRO" lemma="uterque">utriusque</w>
+<w pos="SUB" lemma="ius">iuris</w>
+<w pos="SUB" lemma="professor">professoris</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="decanus">decani</w>
+<w pos="NAM" lemma="--">Peluacensis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="alter">alterius</w>
+<w pos="QLF" lemma="noster">nostrum</w>
+<w pos="QLF" lemma="uicarius1">uicariorum</w>
+<w pos="QLF" lemma="predictus">predictorum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1342">mcccxlii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="indictio">indictione</w>
+<w pos="NUM" lemma="undecimus">undecima</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mensis</w>
+<w pos="SUB" lemma="september">septembris</w>
+<w pos="SUB" lemma="dies">die</w>
+<w pos="NUM" lemma="20">xx</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="pontificatus">pontificatus</w>
+<w pos="QLF" lemma="sanctus1">sanctissimi</w>
+<w pos="PRE" lemma="in">in</w>
+<w pos="NAM" lemma="--">Christo</w>
+<w pos="SUB" lemma="pater">patris</w>
+<w pos="CON" lemma="atque">ac</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="QLF" lemma="noster">nostri</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="dominus">domini</w>
+<w pos="NAM" lemma="--">Clementis</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="diuinus">diuina</w>
+<w pos="SUB" lemma="prouidentia">prouidentia</w>
+<w pos="SUB" lemma="papa">pape</w>
+<w pos="NAM" lemma="--">Uiu</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="NUM" lemma="primus">primo</w>
+<w pos="PON" lemma=";">;</w>
+<w pos="QLF" lemma="presens">presentibus</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">etc.</w>
+<w pos="" lemma="">
+</w>
+</s>
+</text>

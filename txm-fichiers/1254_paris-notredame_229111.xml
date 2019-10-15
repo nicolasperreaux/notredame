@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1254_paris-notredame_229111" id_text_code="paris-notredame" num_cema="229111" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1254" date_cema14="-" date_ed="NA-3-1254" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Johannes et Gilo, armigeri, filii domini Baldoini de Bretigniaco, militis, declarant se vendidisse venerabili viro Petro, ecclesie Parisiensis archidiacono, pro nona ginta libris Parisiensibus, jam sibi solutis, quidquid juris habebant vel habere poterant, ratione dominii vel alio quoquo modo, apud Sanctum Michaelem et apud Perrosum, et in territoriis eorumdem locorum moventibus de feodo ejusdem Petri archidiaconi, videlicet in decimis, bladis, vinis, hostisiis, censibus, red ditibus, coustumis, et aliis quibuscumque rebus et juribus ad dictum feodum pertinentibus." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 2, Paris, Imprimerie impériale, 1850, Pars 3, Liber 20, n° 094." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="SUB" lemma="annus">anno</w>
+<w pos="SUB" lemma="dominus">Domini</w>
+<w pos="NUM" lemma="1200">mcc</w>
+<w pos="NUM" lemma="quinquagesimus">quinquagesimo</w>
+<w pos="NUM" lemma="3">iii</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="SUB" lemma="mensis">mense</w>
+<w pos="SUB" lemma="machio">marcio</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

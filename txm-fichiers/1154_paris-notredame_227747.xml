@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1154_paris-notredame_227747" id_text_code="paris-notredame" num_cema="227747" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1154" date_cema14="-" date_ed="16-12-1154" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Litteræ Adriani papæ IV, Theobaldo, Parisiensi episcopo, quibus declaratur, papam Eugenium, quando ecclesias Sanctæ Genovefæ canonicis regularibus ordinandas commiserat, non in animo habuisse juribus, quæ in eisdem ecclesiis antiquitus possederant episcopi Parisienses, aliquid detrahere." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 1, Paris, Imprimerie impériale, 1850, Pars 1, Liber 01, n° 012." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="VBE" lemma="do">Datum</w>
+<w pos="NAM" lemma="--">Romeapud</w>
+<w pos="QLF" lemma="sanctus1">Sanctum</w>
+<w pos="NAM" lemma="--">Petrum</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NUM" lemma="--">xun</w>
+<w pos="NUM" lemma="--">kl</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="SUB" lemma="ianuarius2">Ianuarii</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>

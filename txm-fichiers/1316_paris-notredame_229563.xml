@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="1316_paris-notredame_229563" id_text_code="paris-notredame" num_cema="229563" tokens="-" unknows="-" nams="-" source="SdVNP" num_base="-" corpus="Paris (Notre-Dame)" date="1316" date_cema14="-" date_ed="28-7-1316" authenticite="-" etat="-" original="-" tradition="-" langue_lem="-" langue="-" support="-" chirographe="-" sceau="-" analyse="Ernoul le chapelier, et Ysabeau, sa femme, fille de feu Noel de Champeaux, bourgeois de Paris, declarent avoir vendu a Guillaume, eveque de Paris, moyennant doue livres parisis, quarante ccinq sous one deniers parisis de cens annuel, assis sur plusieurs maisons des rues Saint.Honore, Jean¬de¬Saint. Denis, au Chantre, de Biauveoir et Froit.Mantel, dans la censive dudit eveque, et charge annuellement envers lui dun setier de froment et dun minot davoine; hypothequant, pour la garantie de cette rente, cinq quartiers de terre labourable, situes entre les Tuileries du Louvre et le ponceau de Chaillot, au lieu dit PAbreuvoir Eveque." edition="GUÉRARD Benjamin (éd.), Cartulaire de l'église Notre-Dame de Paris, tome 3, Paris, Imprimerie impériale, 1850, Pars 4, Liber 01, n° 299." pays="France" region="Île-de-France" diocese="-" auteur_code="-" beneficiaire_code="-" auteur_nom="-" beneficiaire_nom="-" auteur_lieu="-" action="-" genre="-">
+<s>
+<w pos="SENT" lemma=".">.</w>
+</s>
+<s>
+<w pos="INT" lemma="en2">En</w>
+<w pos="NAM" lemma="--">tesmoing</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">ce</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="QLF" lemma="--">nous</w>
+<w pos="QLF" lemma="--">auons</w>
+<w pos="QLF" lemma="--">mis</w>
+<w pos="INT" lemma="en2">en</w>
+<w pos="VBE" lemma="--">ces</w>
+<w pos="NAM" lemma="--">lettres</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="NAM" lemma="--">seel</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="QLF" lemma="--">la</w>
+<w pos="VBE" lemma="--">preuoste</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="NAM" lemma="--">Pan</w>
+<w pos="PRE" lemma="de">de</w>
+<w pos="SUB" lemma="--">grace</w>
+<w pos="NUM" lemma="1316">mcccxui</w>
+<w pos="PON" lemma=",">,</w>
+<w pos="VBE" lemma="--">le</w>
+<w pos="VBE" lemma="--">mercredi</w>
+<w pos="VBE" lemma="--">apres</w>
+<w pos="VBE" lemma="--">la</w>
+<w pos="SUB" lemma="festa1">feste</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="SUB" lemma="ion">Ia</w>
+<w pos="PRO" lemma="qui2">que</w>
+<w pos="CON" lemma="et">et</w>
+<w pos="NAM" lemma="--">saint</w>
+<w pos="NAM" lemma="--">Christoffe</w>
+<w pos="SENT" lemma=".">.</w>
+</s>
+</text>
