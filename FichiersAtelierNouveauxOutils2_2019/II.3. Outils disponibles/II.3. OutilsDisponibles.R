@@ -17,8 +17,8 @@ library(stringr)
 # 01. Construction d'un corpus avec tm ----
 
 # On indique le repertoire de sources
-repertoireMiniND = DirSource(directory = "miniCorpusND/")
-repertoireMiniND = DirSource(directory = "miniCorpusND/",encoding = "UTF-8")
+# repertoireMiniND = DirSource(directory = "miniCorpusND/")
+# repertoireMiniND = DirSource(directory = "miniCorpusND/",encoding = "UTF-8")
 repertoireMiniND = DirSource(directory = "miniCorpusND/",encoding = "UTF-8",pattern = "\\.txt$")
 
 # On cree le corpus
